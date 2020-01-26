@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<paso id="1">
+			<movimiento fixture="movingHead3"><pan>71</pan><tilt>25</tilt></movimiento>
+			<movimiento fixture="movingHead4"><pan>81</pan><tilt>18</tilt></movimiento>		
+		</paso>
+	</programa>
+</programas>

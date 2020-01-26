@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Spot Secuencia Aleatoria</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="2">
+		<nombre>Spot Segunda Secuencia</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="3">
+		<nombre>Spot Color Rojo</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="4">
+		<nombre>Spot Color Verde</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="5">
+		<nombre>Spot Color Azul</nombre>
+		<velocidad>2000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="6">
+		<nombre>Spot Color Amarillo</nombre>
+		<velocidad>4000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="7">
+		<nombre>Spot Color Magenta</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="8">
+		<nombre>Spot Color Cyan</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="9">
+		<nombre>Spot Color Purple</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

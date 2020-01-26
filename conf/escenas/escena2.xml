@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<escena>
+<configuracion>
+		<nombre>Secuencial Roboticas 2</nombre>
+		<minimo>1</minimo>
+		<maximo>120</maximo>
+		<velocidad>2000</velocidad>
+		<factor>30</factor>
+	</configuracion>
+<canales>
+		<canal id="1">movingHead1.dim</canal>
+		<canal id="2">scanner1.onoff</canal>
+		<canal id="3">scanner3.onoff</canal>
+		<canal id="4">scanner4.onoff</canal>
+		<canal id="5">scanner2.onoff</canal>
+		<canal id="6">movingHead2.dim</canal>
+	</canales>
+<pasos>
+		<paso id="1">
+			<canal id="1">off</canal>
+			<canal id="2">off</canal>
+			<canal id="3">off</canal>
+			<canal id="4">off</canal>
+			<canal id="5">off</canal>
+			<canal id="6">on</canal>
+		</paso>
+		<paso id="2">
+			<canal id="1">off</canal>
+			<canal id="2">off</canal>
+			<canal id="3">off</canal>
+			<canal id="4">off</canal>
+			<canal id="5">on</canal>
+			<canal id="6">off</canal>
+		</paso>
+		<paso id="3">
+			<canal id="1">off</canal>
+			<canal id="2">off</canal>
+			<canal id="3">off</canal>
+			<canal id="4">on</canal>
+			<canal id="5">off</canal>
+			<canal id="6">off</canal>
+		</paso>
+		<paso id="4">
+			<canal id="1">off</canal>
+			<canal id="2">off</canal>
+			<canal id="3">on</canal>
+			<canal id="4">off</canal>
+			<canal id="5">off</canal>
+			<canal id="6">off</canal>
+		</paso>
+		<paso id="5">
+			<canal id="1">off</canal>
+			<canal id="2">on</canal>
+			<canal id="3">off</canal>
+			<canal id="4">off</canal>
+			<canal id="5">off</canal>
+			<canal id="6">off</canal>
+		</paso>
+		<paso id="6">
+			<canal id="1">on</canal>
+			<canal id="2">off</canal>
+			<canal id="3">off</canal>
+			<canal id="4">off</canal>
+			<canal id="5">off</canal>
+			<canal id="6">off</canal>
+		</paso>
+	</pasos>
+</escena>

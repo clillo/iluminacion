@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<nombre>Apagado</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>1</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="1">
+		<nombre>Rojo/Verde Rotatorio</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>33</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="2">
+		<nombre>Azul Rotatorio</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>33</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="3">
+		<nombre>Rojo/Verde/Azul Rotatorio</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>33</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+</programas>

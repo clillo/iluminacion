@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+
+	<programa id="1"> <!-- Color Natural -->
+		<paso id="1">
+			<canal id="laserrgb2.color">0</canal>
+		</paso>
+	</programa>
+	
+	<programa id="2"> <!-- Sólo Verde -->
+		<paso id="1">
+			<canal id="laserrgb2.color">2</canal>
+		</paso>
+	</programa>
+	
+	<programa id="3"> <!-- Sólo Rojo -->
+		<paso id="1">
+			<canal id="laserrgb2.color">10</canal>
+		</paso>
+	</programa>
+	
+	<programa id="4"> <!-- Sólo Azul -->
+		<paso id="1">
+			<canal id="laserrgb2.color">20</canal>
+		</paso>
+	</programa>
+	
+	<programa id="5"> <!-- Verde Rojo -->
+		<paso id="1">
+			<canal id="laserrgb2.color">30</canal>
+		</paso>
+	</programa>
+	
+	<programa id="6"> <!-- Verde Azul -->
+		<paso id="1">
+			<canal id="laserrgb2.color">40</canal>
+		</paso>
+	</programa>
+	
+	<programa id="7"> <!-- Rojo Azul -->
+		<paso id="1">
+			<canal id="laserrgb2.color">50</canal>
+		</paso>
+	</programa>
+	
+	<programa id="8"> <!-- Rojo Verde Azul -->
+		<paso id="1">
+			<canal id="laserrgb2.color">60</canal>
+		</paso>
+	</programa>
+	
+	<programa id="9"> <!-- Rojo Verde Azul Rotatorios-->
+		<paso id="1">
+			<canal id="laserrgb2.color">100</canal>
+		</paso>
+	</programa>
+	
+	<programa id="10"> <!-- Alterna Colores Lento-->
+		<paso id="1">
+			<canal id="laserrgb2.color">154</canal>
+		</paso>
+	</programa>
+	
+	<programa id="11"> <!-- Alterna Colores Medio-->
+		<paso id="1">
+			<canal id="laserrgb2.color">165</canal>
+		</paso>
+	</programa>
+	
+	<programa id="12"> <!-- Alterna Colores Rápido-->
+		<paso id="1">
+			<canal id="laserrgb2.color">179</canal>
+		</paso>
+	</programa>
+</programas>

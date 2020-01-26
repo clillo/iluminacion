@@ -1,0 +1,55 @@
+<programas>
+	<programa id="1">
+		<nombre>ColorRun Iguales</nombre>
+		<velocidad>50</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>	
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+
+	</programa>
+
+	<programa id="2">
+		<nombre>ColorRun Por Foco ID</nombre>
+		<velocidad>50</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+
+	</programa>
+
+	<programa id="3">
+		<nombre>ColorRun Por Foco DI</nombre>
+		<velocidad>50</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+		
+	</programa>
+
+	<programa id="4">
+		<nombre>ColorRun Ext/Int</nombre>
+		<velocidad>50</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+		
+	</programa>
+
+	<programa id="5">
+		<nombre>ColorRun Doble</nombre>
+		<velocidad>50</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>
+</programas>

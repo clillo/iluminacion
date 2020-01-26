@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>individual</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+
+	<programa id="2">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>global</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="3">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>globalSimetrico</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="4">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>individual</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="5">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>global</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="6">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>globalSimetrico</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="7">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>globalSimetricoPan</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="8">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>globalSimetricoTilt</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="9">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>rebotando</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="10">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>espiral</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="11">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>ztipo1</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="12">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>ztipo2</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="13">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>ztipo1Simetrico</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+	
+	<programa id="14">
+		<paso id="1">
+			<grupo id ="1">
+				<fixture>movingHead1</fixture>
+				<fixture>movingHead2</fixture>
+				<aleatorio>ztipo2Simetrico</aleatorio>
+			</grupo>
+		</paso>
+	</programa>
+</programas>

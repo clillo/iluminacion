@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Secuencial Roboticas 1</nombre>
+		<velocidad>1000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena1</escena>
+	</programa>
+	<programa id="2">
+		<nombre>Secuencial Roboticas 2</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena2</escena>
+	</programa>
+	<programa id="3">
+		<nombre>Can can Roboticas 1</nombre>
+		<velocidad>1200</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena3</escena>
+	</programa>
+	<programa id="4">
+		<nombre>Can can Roboticas 2</nombre>
+		<velocidad>1200</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena4</escena>
+	</programa>
+	<programa id="5">
+		<nombre>Can can Roboticas 1 Dim</nombre>
+		<velocidad>1200</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena5</escena>
+	</programa>
+	<programa id="6">
+		<nombre>Bola Disco Estatico</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena6</escena>
+	</programa>
+	
+	<programa id="7">
+		<nombre>Bola Disco Rota Color Moving Heads</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<escena>escena7</escena>
+	</programa>
+	
+</programas>

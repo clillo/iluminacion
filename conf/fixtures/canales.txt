@@ -1,0 +1,128 @@
+1	Laser DMX	1
+2	Laser DMX	2
+3	Laser DMX	3
+4	Laser DMX	4
+5	Laser DMX	5
+6		
+7		
+8		
+9		
+10	Scanner1 	1
+11	Scanner1 	2
+12	Scanner1 	3
+13	Scanner1 	4
+14		
+15	Scanner2	1
+16	Scanner2	2
+17	Scanner2 	3
+18	Scanner2 	4
+19		
+20		
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28		
+29		
+30		
+31		
+32		
+33		
+34		
+35		
+36		
+37		
+38		
+39		
+40		
+41	PinSpot1	1
+42	PinSpot1	2
+43	PinSpot1	3
+44	PinSpot1	4
+45	PinSpot1	5
+46	PinSpot1	6
+47		
+48	PinSpot2	1
+49	PinSpot2	2
+50	PinSpot2	3
+51	PinSpot2	4
+52	PinSpot2	5
+53	PinSpot2	6
+54		
+55		
+56		
+57		
+58		
+59		
+60		
+61	RGBW1	1
+62	RGBW1	2
+63	RGBW1	3
+64	RGBW1	4
+65	RGBW1	5
+66	RGBW1	6
+67	RGBW1	7
+68		
+69	RGBW2	1
+70	RGBW2	2
+71	RGBW2	3
+72	RGBW2	4
+73	RGBW2	5
+74	RGBW2	6
+75	RGBW2	7
+76		
+77	RGBW3	1
+78	RGBW3	2
+79	RGBW3	3
+80	RGBW3	4
+81	RGBW3	5
+82	RGBW3	6
+83	RGBW3	7
+84		
+85	RGBW4	1
+86	RGBW4	2
+87	RGBW4	3
+88	RGBW4	4
+89	RGBW4	5
+90	RGBW4	6
+91	RGBW4	7
+92		
+93		
+94		
+95		
+96		
+97		
+98		
+99		
+100		
+101	Moving Head 1	1
+102	Moving Head 1	2
+103	Moving Head 1	3
+104	Moving Head 1	4
+105	Moving Head 1	5
+106	Moving Head 1	6
+107	Moving Head 1	7
+108	Moving Head 1	8
+109	Moving Head 1	9
+110	Moving Head 1	10
+111	Moving Head 1	11
+112	Moving Head 1	12
+113	Moving Head 1	13
+114		
+115	Moving Head 2	1
+116	Moving Head 2	2
+117	Moving Head 2	3
+118	Moving Head 2	4
+119	Moving Head 2	5
+120	Moving Head 2	6
+121	Moving Head 2	7
+122	Moving Head 2	8
+123	Moving Head 2	9
+124	Moving Head 2	10
+125	Moving Head 2	11
+126	Moving Head 2	12
+127	Moving Head 2	13
+128		

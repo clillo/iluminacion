@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1"> <!-- Encendido Abierto -->
+		<paso id="1">
+			<efecto id="movingHead3.gobo">solido</efecto>
+			<efecto id="movingHead4.gobo">solido</efecto>
+			<efecto id="movingHead3.goboRotation">sinRotacion</efecto>
+			<efecto id="movingHead4.goboRotation">sinRotacion</efecto>
+			<efecto id="movingHead3.prisma">sinPrisma</efecto>
+			<efecto id="movingHead4.prisma">sinPrisma</efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+	<programa id="2"> <!-- Rotando Figura 1 con Prisma -->
+		<paso id="1">
+			<efecto id="movingHead3.gobo">gobo3</efecto>
+			<efecto id="movingHead4.gobo">gobo3</efecto>
+			<efecto id="movingHead3.goboRotation">sf1</efecto>
+			<efecto id="movingHead4.goboRotation">sf1</efecto>
+			<efecto id="movingHead3.prisma">conPrisma</efecto>
+			<efecto id="movingHead4.prisma">conPrisma</efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+	<programa id="3"> <!-- Rotando Figura 2 con Prisma -->
+		<paso id="1">
+			<efecto id="movingHead3.gobo">gobo5</efecto>
+			<efecto id="movingHead4.gobo">gobo5</efecto>
+			<efecto id="movingHead3.goboRotation">fs3</efecto>
+			<efecto id="movingHead4.goboRotation">fs3</efecto>
+			<efecto id="movingHead3.prisma">conPrisma</efecto>
+			<efecto id="movingHead4.prisma">conPrisma</efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+	<programa id="4"> <!-- Rotando Figura 1 -->
+		<paso id="1">
+			<efecto id="movingHead3.gobo">gobo3</efecto>
+			<efecto id="movingHead4.gobo">gobo3</efecto>
+			<efecto id="movingHead3.goboRotation">sf1</efecto>
+			<efecto id="movingHead4.goboRotation">sf1</efecto>
+			<efecto id="movingHead3.prisma">sinPrisma</efecto>
+			<efecto id="movingHead4.prisma">sinPrisma</efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+	<programa id="5"> <!-- Rotando Figura 2 -->
+		<paso id="1">
+			<efecto id="movingHead3.gobo">gobo5</efecto>
+			<efecto id="movingHead4.gobo">gobo5</efecto>
+			<efecto id="movingHead3.goboRotation">sf2</efecto>
+			<efecto id="movingHead4.goboRotation">sf2</efecto>
+			<efecto id="movingHead3.prisma">sinPrisma</efecto>
+			<efecto id="movingHead4.prisma">sinPrisma</efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+	
+	<programa id="6"> <!-- Figura Aleatorios -->
+		<paso id="1">
+			<efecto id="movingHead3.prisma">sinPrisma</efecto>
+			<efecto id="movingHead4.prisma">sinPrisma</efecto>
+			<efecto id="movingHead3.gobo"><aleatorio>true</aleatorio></efecto>
+			<efecto id="movingHead4.gobo"><aleatorio>true</aleatorio></efecto>
+			<efecto id="movingHead3.goboRotation"><aleatorio>true</aleatorio></efecto>
+			<efecto id="movingHead4.goboRotation"><aleatorio>true</aleatorio></efecto>
+			<efecto id="movingHead3.foco">media</efecto>
+			<efecto id="movingHead4.foco">media</efecto>
+		</paso>
+	</programa>	
+</programas>

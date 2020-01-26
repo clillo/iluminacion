@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0"> <!-- Apagado -->
+		<paso id="1">
+			<accion fixture="laserMulipunto1">apagarRV</accion>
+			<accion fixture="laserMulipunto1">apagarA</accion>
+		</paso>
+	</programa>
+
+	<programa id="1"> <!-- Rojo/Verde Rotatorio -->
+		<paso id="1">
+			<accion fixture="laserMulipunto1">encenderRV</accion>
+			<accion fixture="laserMulipunto1">apagarA</accion>
+		</paso>
+	</programa>
+	<programa id="2"> <!-- Azul Rotatorio -->
+		<paso id="1">
+			<accion fixture="laserMulipunto1">apagarRV</accion>
+			<accion fixture="laserMulipunto1">encenderA</accion>
+		</paso>
+	</programa>
+	<programa id="3"> <!-- Rojo/Verde/Azu Rotatorio -->
+		<paso id="1">
+			<accion fixture="laserMulipunto1">encenderRV</accion>
+			<accion fixture="laserMulipunto1">encenderA</accion>
+		</paso>
+	</programa>
+	
+</programas>

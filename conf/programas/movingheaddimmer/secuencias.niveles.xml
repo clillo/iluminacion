@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0"> <!-- Todos Apagados -->
+		<paso id="1">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="1"> <!-- Todos Encendidos -->
+		<paso id="1">
+			<canal id="movingHead1.dim">100</canal>
+			<canal id="movingHead2.dim">100</canal>
+		</paso>
+	</programa>
+
+	<programa id="2"> <!-- Secuencia Simple -->
+		<paso id="1">
+			<canal id="movingHead1.dim">100</canal>
+			<canal id="movingHead2.dim">0</canal>
+
+
+		</paso>
+		<paso id="2">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">100</canal>
+
+
+		</paso>
+	</programa>
+
+	<programa id="3"><!-- Secuencial Fade -->
+		<paso id="0">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">100</canal>
+
+
+		</paso>
+		<paso id="2">
+			<canal id="movingHead1.dim">2</canal>
+			<canal id="movingHead2.dim">98</canal>
+
+
+		</paso>
+		<paso id="4">
+			<canal id="movingHead1.dim">4</canal>
+			<canal id="movingHead2.dim">96</canal>
+
+
+		</paso>
+		<paso id="6">
+			<canal id="movingHead1.dim">6</canal>
+			<canal id="movingHead2.dim">94</canal>
+
+
+		</paso>
+		<paso id="8">
+			<canal id="movingHead1.dim">8</canal>
+			<canal id="movingHead2.dim">92</canal>
+
+
+		</paso>
+		<paso id="10">
+			<canal id="movingHead1.dim">10</canal>
+			<canal id="movingHead2.dim">90</canal>
+
+
+		</paso>
+		<paso id="12">
+			<canal id="movingHead1.dim">12</canal>
+			<canal id="movingHead2.dim">88</canal>
+
+
+		</paso>
+		<paso id="14">
+			<canal id="movingHead1.dim">14</canal>
+			<canal id="movingHead2.dim">86</canal>
+
+
+		</paso>
+		<paso id="16">
+			<canal id="movingHead1.dim">16</canal>
+			<canal id="movingHead2.dim">84</canal>
+
+
+		</paso>
+		<paso id="18">
+			<canal id="movingHead1.dim">18</canal>
+			<canal id="movingHead2.dim">82</canal>
+
+
+		</paso>
+		<paso id="20">
+			<canal id="movingHead1.dim">20</canal>
+			<canal id="movingHead2.dim">80</canal>
+
+
+		</paso>
+		<paso id="22">
+			<canal id="movingHead1.dim">22</canal>
+			<canal id="movingHead2.dim">78</canal>
+
+
+		</paso>
+		<paso id="24">
+			<canal id="movingHead1.dim">24</canal>
+			<canal id="movingHead2.dim">76</canal>
+
+
+		</paso>
+		<paso id="26">
+			<canal id="movingHead1.dim">26</canal>
+			<canal id="movingHead2.dim">74</canal>
+
+
+		</paso>
+		<paso id="28">
+			<canal id="movingHead1.dim">28</canal>
+			<canal id="movingHead2.dim">72</canal>
+
+
+		</paso>
+		<paso id="30">
+			<canal id="movingHead1.dim">30</canal>
+			<canal id="movingHead2.dim">70</canal>
+
+
+		</paso>
+		<paso id="32">
+			<canal id="movingHead1.dim">32</canal>
+			<canal id="movingHead2.dim">68</canal>
+
+
+		</paso>
+		<paso id="34">
+			<canal id="movingHead1.dim">34</canal>
+			<canal id="movingHead2.dim">66</canal>
+
+
+		</paso>
+		<paso id="36">
+			<canal id="movingHead1.dim">36</canal>
+			<canal id="movingHead2.dim">64</canal>
+
+
+		</paso>
+		<paso id="38">
+			<canal id="movingHead1.dim">38</canal>
+			<canal id="movingHead2.dim">62</canal>
+
+
+		</paso>
+		<paso id="40">
+			<canal id="movingHead1.dim">40</canal>
+			<canal id="movingHead2.dim">60</canal>
+
+
+		</paso>
+		<paso id="42">
+			<canal id="movingHead1.dim">42</canal>
+			<canal id="movingHead2.dim">58</canal>
+
+
+		</paso>
+		<paso id="44">
+			<canal id="movingHead1.dim">44</canal>
+			<canal id="movingHead2.dim">56</canal>
+
+
+		</paso>
+		<paso id="46">
+			<canal id="movingHead1.dim">46</canal>
+			<canal id="movingHead2.dim">54</canal>
+
+
+		</paso>
+		<paso id="48">
+			<canal id="movingHead1.dim">48</canal>
+			<canal id="movingHead2.dim">52</canal>
+
+
+		</paso>
+		<paso id="50">
+			<canal id="movingHead1.dim">50</canal>
+			<canal id="movingHead2.dim">50</canal>
+
+
+		</paso>
+		<paso id="52">
+			<canal id="movingHead1.dim">52</canal>
+			<canal id="movingHead2.dim">48</canal>
+
+
+		</paso>
+		<paso id="54">
+			<canal id="movingHead1.dim">54</canal>
+			<canal id="movingHead2.dim">46</canal>
+
+
+		</paso>
+		<paso id="56">
+			<canal id="movingHead1.dim">56</canal>
+			<canal id="movingHead2.dim">44</canal>
+
+
+		</paso>
+		<paso id="58">
+			<canal id="movingHead1.dim">58</canal>
+			<canal id="movingHead2.dim">42</canal>
+
+
+		</paso>
+		<paso id="60">
+			<canal id="movingHead1.dim">60</canal>
+			<canal id="movingHead2.dim">40</canal>
+
+
+		</paso>
+		<paso id="62">
+			<canal id="movingHead1.dim">62</canal>
+			<canal id="movingHead2.dim">38</canal>
+
+
+		</paso>
+		<paso id="64">
+			<canal id="movingHead1.dim">64</canal>
+			<canal id="movingHead2.dim">36</canal>
+
+
+		</paso>
+		<paso id="66">
+			<canal id="movingHead1.dim">66</canal>
+			<canal id="movingHead2.dim">34</canal>
+
+
+		</paso>
+		<paso id="68">
+			<canal id="movingHead1.dim">68</canal>
+			<canal id="movingHead2.dim">32</canal>
+
+
+		</paso>
+		<paso id="70">
+			<canal id="movingHead1.dim">70</canal>
+			<canal id="movingHead2.dim">30</canal>
+
+
+		</paso>
+		<paso id="72">
+			<canal id="movingHead1.dim">72</canal>
+			<canal id="movingHead2.dim">28</canal>
+
+
+		</paso>
+		<paso id="74">
+			<canal id="movingHead1.dim">74</canal>
+			<canal id="movingHead2.dim">26</canal>
+
+
+		</paso>
+		<paso id="76">
+			<canal id="movingHead1.dim">76</canal>
+			<canal id="movingHead2.dim">24</canal>
+
+
+		</paso>
+		<paso id="78">
+			<canal id="movingHead1.dim">78</canal>
+			<canal id="movingHead2.dim">22</canal>
+
+
+		</paso>
+		<paso id="80">
+			<canal id="movingHead1.dim">80</canal>
+			<canal id="movingHead2.dim">20</canal>
+
+
+		</paso>
+		<paso id="82">
+			<canal id="movingHead1.dim">82</canal>
+			<canal id="movingHead2.dim">18</canal>
+
+
+		</paso>
+		<paso id="84">
+			<canal id="movingHead1.dim">84</canal>
+			<canal id="movingHead2.dim">16</canal>
+
+
+		</paso>
+		<paso id="86">
+			<canal id="movingHead1.dim">86</canal>
+			<canal id="movingHead2.dim">14</canal>
+
+
+		</paso>
+		<paso id="88">
+			<canal id="movingHead1.dim">88</canal>
+			<canal id="movingHead2.dim">12</canal>
+
+
+		</paso>
+		<paso id="90">
+			<canal id="movingHead1.dim">90</canal>
+			<canal id="movingHead2.dim">10</canal>
+
+
+		</paso>
+		<paso id="92">
+			<canal id="movingHead1.dim">92</canal>
+			<canal id="movingHead2.dim">8</canal>
+
+
+		</paso>
+		<paso id="94">
+			<canal id="movingHead1.dim">94</canal>
+			<canal id="movingHead2.dim">6</canal>
+
+
+		</paso>
+		<paso id="96">
+			<canal id="movingHead1.dim">96</canal>
+			<canal id="movingHead2.dim">4</canal>
+
+
+		</paso>
+		<paso id="98">
+			<canal id="movingHead1.dim">98</canal>
+			<canal id="movingHead2.dim">2</canal>
+
+
+		</paso>
+		<paso id="100">
+			<canal id="movingHead1.dim">100</canal>
+			<canal id="movingHead2.dim">0</canal>
+
+
+		</paso>
+		<paso id="98">
+			<canal id="movingHead1.dim">98</canal>
+			<canal id="movingHead2.dim">2</canal>
+
+
+		</paso>
+		<paso id="96">
+			<canal id="movingHead1.dim">96</canal>
+			<canal id="movingHead2.dim">4</canal>
+
+
+		</paso>
+		<paso id="94">
+			<canal id="movingHead1.dim">94</canal>
+			<canal id="movingHead2.dim">6</canal>
+
+
+		</paso>
+		<paso id="92">
+			<canal id="movingHead1.dim">92</canal>
+			<canal id="movingHead2.dim">8</canal>
+
+
+		</paso>
+		<paso id="90">
+			<canal id="movingHead1.dim">90</canal>
+			<canal id="movingHead2.dim">10</canal>
+
+
+		</paso>
+		<paso id="88">
+			<canal id="movingHead1.dim">88</canal>
+			<canal id="movingHead2.dim">12</canal>
+
+
+		</paso>
+		<paso id="86">
+			<canal id="movingHead1.dim">86</canal>
+			<canal id="movingHead2.dim">14</canal>
+
+
+		</paso>
+		<paso id="84">
+			<canal id="movingHead1.dim">84</canal>
+			<canal id="movingHead2.dim">16</canal>
+
+
+		</paso>
+		<paso id="82">
+			<canal id="movingHead1.dim">82</canal>
+			<canal id="movingHead2.dim">18</canal>
+
+
+		</paso>
+		<paso id="80">
+			<canal id="movingHead1.dim">80</canal>
+			<canal id="movingHead2.dim">20</canal>
+
+
+		</paso>
+		<paso id="78">
+			<canal id="movingHead1.dim">78</canal>
+			<canal id="movingHead2.dim">22</canal>
+
+
+		</paso>
+		<paso id="76">
+			<canal id="movingHead1.dim">76</canal>
+			<canal id="movingHead2.dim">24</canal>
+
+
+		</paso>
+		<paso id="74">
+			<canal id="movingHead1.dim">74</canal>
+			<canal id="movingHead2.dim">26</canal>
+
+
+		</paso>
+		<paso id="72">
+			<canal id="movingHead1.dim">72</canal>
+			<canal id="movingHead2.dim">28</canal>
+
+
+		</paso>
+		<paso id="70">
+			<canal id="movingHead1.dim">70</canal>
+			<canal id="movingHead2.dim">30</canal>
+
+
+		</paso>
+		<paso id="68">
+			<canal id="movingHead1.dim">68</canal>
+			<canal id="movingHead2.dim">32</canal>
+
+
+		</paso>
+		<paso id="66">
+			<canal id="movingHead1.dim">66</canal>
+			<canal id="movingHead2.dim">34</canal>
+
+
+		</paso>
+		<paso id="64">
+			<canal id="movingHead1.dim">64</canal>
+			<canal id="movingHead2.dim">36</canal>
+
+
+		</paso>
+		<paso id="62">
+			<canal id="movingHead1.dim">62</canal>
+			<canal id="movingHead2.dim">38</canal>
+
+
+		</paso>
+		<paso id="60">
+			<canal id="movingHead1.dim">60</canal>
+			<canal id="movingHead2.dim">40</canal>
+
+
+		</paso>
+		<paso id="58">
+			<canal id="movingHead1.dim">58</canal>
+			<canal id="movingHead2.dim">42</canal>
+
+
+		</paso>
+		<paso id="56">
+			<canal id="movingHead1.dim">56</canal>
+			<canal id="movingHead2.dim">44</canal>
+
+
+		</paso>
+		<paso id="54">
+			<canal id="movingHead1.dim">54</canal>
+			<canal id="movingHead2.dim">46</canal>
+
+
+		</paso>
+		<paso id="52">
+			<canal id="movingHead1.dim">52</canal>
+			<canal id="movingHead2.dim">48</canal>
+
+
+		</paso>
+		<paso id="50">
+			<canal id="movingHead1.dim">50</canal>
+			<canal id="movingHead2.dim">50</canal>
+
+
+		</paso>
+		<paso id="48">
+			<canal id="movingHead1.dim">48</canal>
+			<canal id="movingHead2.dim">52</canal>
+
+
+		</paso>
+		<paso id="46">
+			<canal id="movingHead1.dim">46</canal>
+			<canal id="movingHead2.dim">54</canal>
+
+
+		</paso>
+		<paso id="44">
+			<canal id="movingHead1.dim">44</canal>
+			<canal id="movingHead2.dim">56</canal>
+
+
+		</paso>
+		<paso id="42">
+			<canal id="movingHead1.dim">42</canal>
+			<canal id="movingHead2.dim">58</canal>
+
+
+		</paso>
+		<paso id="40">
+			<canal id="movingHead1.dim">40</canal>
+			<canal id="movingHead2.dim">60</canal>
+
+
+		</paso>
+		<paso id="38">
+			<canal id="movingHead1.dim">38</canal>
+			<canal id="movingHead2.dim">62</canal>
+
+
+		</paso>
+		<paso id="36">
+			<canal id="movingHead1.dim">36</canal>
+			<canal id="movingHead2.dim">64</canal>
+
+
+		</paso>
+		<paso id="34">
+			<canal id="movingHead1.dim">34</canal>
+			<canal id="movingHead2.dim">66</canal>
+
+
+		</paso>
+		<paso id="32">
+			<canal id="movingHead1.dim">32</canal>
+			<canal id="movingHead2.dim">68</canal>
+
+
+		</paso>
+		<paso id="30">
+			<canal id="movingHead1.dim">30</canal>
+			<canal id="movingHead2.dim">70</canal>
+
+
+		</paso>
+		<paso id="28">
+			<canal id="movingHead1.dim">28</canal>
+			<canal id="movingHead2.dim">72</canal>
+
+
+		</paso>
+		<paso id="26">
+			<canal id="movingHead1.dim">26</canal>
+			<canal id="movingHead2.dim">74</canal>
+
+
+		</paso>
+		<paso id="24">
+			<canal id="movingHead1.dim">24</canal>
+			<canal id="movingHead2.dim">76</canal>
+
+
+		</paso>
+		<paso id="22">
+			<canal id="movingHead1.dim">22</canal>
+			<canal id="movingHead2.dim">78</canal>
+
+
+		</paso>
+		<paso id="20">
+			<canal id="movingHead1.dim">20</canal>
+			<canal id="movingHead2.dim">80</canal>
+
+
+		</paso>
+		<paso id="18">
+			<canal id="movingHead1.dim">18</canal>
+			<canal id="movingHead2.dim">82</canal>
+
+
+		</paso>
+		<paso id="16">
+			<canal id="movingHead1.dim">16</canal>
+			<canal id="movingHead2.dim">84</canal>
+
+
+		</paso>
+		<paso id="14">
+			<canal id="movingHead1.dim">14</canal>
+			<canal id="movingHead2.dim">86</canal>
+
+
+		</paso>
+		<paso id="12">
+			<canal id="movingHead1.dim">12</canal>
+			<canal id="movingHead2.dim">88</canal>
+
+
+		</paso>
+		<paso id="10">
+			<canal id="movingHead1.dim">10</canal>
+			<canal id="movingHead2.dim">90</canal>
+
+
+		</paso>
+		<paso id="8">
+			<canal id="movingHead1.dim">8</canal>
+			<canal id="movingHead2.dim">92</canal>
+
+
+		</paso>
+		<paso id="6">
+			<canal id="movingHead1.dim">6</canal>
+			<canal id="movingHead2.dim">94</canal>
+
+
+		</paso>
+		<paso id="4">
+			<canal id="movingHead1.dim">4</canal>
+			<canal id="movingHead2.dim">96</canal>
+
+
+		</paso>
+		<paso id="2">
+			<canal id="movingHead1.dim">2</canal>
+			<canal id="movingHead2.dim">98</canal>
+
+
+		</paso>
+		<paso id="0">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">100</canal>
+
+
+		</paso>
+	</programa>
+
+	<programa id="4"><!-- Encendidos Fade -->
+		<paso id="0">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">0</canal>
+
+
+		</paso>
+		<paso id="1">
+			<canal id="movingHead1.dim">1</canal>
+			<canal id="movingHead2.dim">1</canal>
+
+
+		</paso>
+		<paso id="2">
+			<canal id="movingHead1.dim">2</canal>
+			<canal id="movingHead2.dim">2</canal>
+
+
+		</paso>
+		<paso id="3">
+			<canal id="movingHead1.dim">3</canal>
+			<canal id="movingHead2.dim">3</canal>
+
+
+		</paso>
+		<paso id="4">
+			<canal id="movingHead1.dim">4</canal>
+			<canal id="movingHead2.dim">4</canal>
+
+
+		</paso>
+		<paso id="5">
+			<canal id="movingHead1.dim">5</canal>
+			<canal id="movingHead2.dim">5</canal>
+
+
+		</paso>
+		<paso id="6">
+			<canal id="movingHead1.dim">6</canal>
+			<canal id="movingHead2.dim">6</canal>
+
+
+		</paso>
+		<paso id="7">
+			<canal id="movingHead1.dim">7</canal>
+			<canal id="movingHead2.dim">7</canal>
+
+
+		</paso>
+		<paso id="8">
+			<canal id="movingHead1.dim">8</canal>
+			<canal id="movingHead2.dim">8</canal>
+
+
+		</paso>
+		<paso id="9">
+			<canal id="movingHead1.dim">9</canal>
+			<canal id="movingHead2.dim">9</canal>
+
+
+		</paso>
+		<paso id="10">
+			<canal id="movingHead1.dim">10</canal>
+			<canal id="movingHead2.dim">10</canal>
+
+
+		</paso>
+		<paso id="11">
+			<canal id="movingHead1.dim">11</canal>
+			<canal id="movingHead2.dim">11</canal>
+
+
+		</paso>
+		<paso id="12">
+			<canal id="movingHead1.dim">12</canal>
+			<canal id="movingHead2.dim">12</canal>
+
+
+		</paso>
+		<paso id="13">
+			<canal id="movingHead1.dim">13</canal>
+			<canal id="movingHead2.dim">13</canal>
+
+
+		</paso>
+		<paso id="14">
+			<canal id="movingHead1.dim">14</canal>
+			<canal id="movingHead2.dim">14</canal>
+
+
+		</paso>
+		<paso id="15">
+			<canal id="movingHead1.dim">15</canal>
+			<canal id="movingHead2.dim">15</canal>
+
+
+		</paso>
+		<paso id="16">
+			<canal id="movingHead1.dim">16</canal>
+			<canal id="movingHead2.dim">16</canal>
+
+
+		</paso>
+		<paso id="17">
+			<canal id="movingHead1.dim">17</canal>
+			<canal id="movingHead2.dim">17</canal>
+
+
+		</paso>
+		<paso id="18">
+			<canal id="movingHead1.dim">18</canal>
+			<canal id="movingHead2.dim">18</canal>
+
+
+		</paso>
+		<paso id="19">
+			<canal id="movingHead1.dim">19</canal>
+			<canal id="movingHead2.dim">19</canal>
+
+
+		</paso>
+		<paso id="20">
+			<canal id="movingHead1.dim">20</canal>
+			<canal id="movingHead2.dim">20</canal>
+
+
+		</paso>
+		<paso id="21">
+			<canal id="movingHead1.dim">21</canal>
+			<canal id="movingHead2.dim">21</canal>
+
+
+		</paso>
+		<paso id="22">
+			<canal id="movingHead1.dim">22</canal>
+			<canal id="movingHead2.dim">22</canal>
+
+
+		</paso>
+		<paso id="23">
+			<canal id="movingHead1.dim">23</canal>
+			<canal id="movingHead2.dim">23</canal>
+
+
+		</paso>
+		<paso id="24">
+			<canal id="movingHead1.dim">24</canal>
+			<canal id="movingHead2.dim">24</canal>
+
+
+		</paso>
+		<paso id="25">
+			<canal id="movingHead1.dim">25</canal>
+			<canal id="movingHead2.dim">25</canal>
+
+
+		</paso>
+		<paso id="26">
+			<canal id="movingHead1.dim">26</canal>
+			<canal id="movingHead2.dim">26</canal>
+
+
+		</paso>
+		<paso id="27">
+			<canal id="movingHead1.dim">27</canal>
+			<canal id="movingHead2.dim">27</canal>
+
+
+		</paso>
+		<paso id="28">
+			<canal id="movingHead1.dim">28</canal>
+			<canal id="movingHead2.dim">28</canal>
+
+
+		</paso>
+		<paso id="29">
+			<canal id="movingHead1.dim">29</canal>
+			<canal id="movingHead2.dim">29</canal>
+
+
+		</paso>
+		<paso id="30">
+			<canal id="movingHead1.dim">30</canal>
+			<canal id="movingHead2.dim">30</canal>
+
+
+		</paso>
+		<paso id="31">
+			<canal id="movingHead1.dim">31</canal>
+			<canal id="movingHead2.dim">31</canal>
+
+
+		</paso>
+		<paso id="32">
+			<canal id="movingHead1.dim">32</canal>
+			<canal id="movingHead2.dim">32</canal>
+
+
+		</paso>
+		<paso id="33">
+			<canal id="movingHead1.dim">33</canal>
+			<canal id="movingHead2.dim">33</canal>
+
+
+		</paso>
+		<paso id="34">
+			<canal id="movingHead1.dim">34</canal>
+			<canal id="movingHead2.dim">34</canal>
+
+
+		</paso>
+		<paso id="35">
+			<canal id="movingHead1.dim">35</canal>
+			<canal id="movingHead2.dim">35</canal>
+
+
+		</paso>
+		<paso id="36">
+			<canal id="movingHead1.dim">36</canal>
+			<canal id="movingHead2.dim">36</canal>
+
+
+		</paso>
+		<paso id="37">
+			<canal id="movingHead1.dim">37</canal>
+			<canal id="movingHead2.dim">37</canal>
+
+
+		</paso>
+		<paso id="38">
+			<canal id="movingHead1.dim">38</canal>
+			<canal id="movingHead2.dim">38</canal>
+
+
+		</paso>
+		<paso id="39">
+			<canal id="movingHead1.dim">39</canal>
+			<canal id="movingHead2.dim">39</canal>
+
+
+		</paso>
+		<paso id="40">
+			<canal id="movingHead1.dim">40</canal>
+			<canal id="movingHead2.dim">40</canal>
+
+
+		</paso>
+		<paso id="41">
+			<canal id="movingHead1.dim">41</canal>
+			<canal id="movingHead2.dim">41</canal>
+
+
+		</paso>
+		<paso id="42">
+			<canal id="movingHead1.dim">42</canal>
+			<canal id="movingHead2.dim">42</canal>
+
+
+		</paso>
+		<paso id="43">
+			<canal id="movingHead1.dim">43</canal>
+			<canal id="movingHead2.dim">43</canal>
+
+
+		</paso>
+		<paso id="44">
+			<canal id="movingHead1.dim">44</canal>
+			<canal id="movingHead2.dim">44</canal>
+
+
+		</paso>
+		<paso id="45">
+			<canal id="movingHead1.dim">45</canal>
+			<canal id="movingHead2.dim">45</canal>
+
+
+		</paso>
+		<paso id="46">
+			<canal id="movingHead1.dim">46</canal>
+			<canal id="movingHead2.dim">46</canal>
+
+
+		</paso>
+		<paso id="47">
+			<canal id="movingHead1.dim">47</canal>
+			<canal id="movingHead2.dim">47</canal>
+
+
+		</paso>
+		<paso id="48">
+			<canal id="movingHead1.dim">48</canal>
+			<canal id="movingHead2.dim">48</canal>
+
+
+		</paso>
+		<paso id="49">
+			<canal id="movingHead1.dim">49</canal>
+			<canal id="movingHead2.dim">49</canal>
+
+
+		</paso>
+		<paso id="50">
+			<canal id="movingHead1.dim">50</canal>
+			<canal id="movingHead2.dim">50</canal>
+
+
+		</paso>
+		<paso id="51">
+			<canal id="movingHead1.dim">51</canal>
+			<canal id="movingHead2.dim">51</canal>
+
+
+		</paso>
+		<paso id="52">
+			<canal id="movingHead1.dim">52</canal>
+			<canal id="movingHead2.dim">52</canal>
+
+
+		</paso>
+		<paso id="53">
+			<canal id="movingHead1.dim">53</canal>
+			<canal id="movingHead2.dim">53</canal>
+
+
+		</paso>
+		<paso id="54">
+			<canal id="movingHead1.dim">54</canal>
+			<canal id="movingHead2.dim">54</canal>
+
+
+		</paso>
+		<paso id="55">
+			<canal id="movingHead1.dim">55</canal>
+			<canal id="movingHead2.dim">55</canal>
+
+
+		</paso>
+		<paso id="56">
+			<canal id="movingHead1.dim">56</canal>
+			<canal id="movingHead2.dim">56</canal>
+
+
+		</paso>
+		<paso id="57">
+			<canal id="movingHead1.dim">57</canal>
+			<canal id="movingHead2.dim">57</canal>
+
+
+		</paso>
+		<paso id="58">
+			<canal id="movingHead1.dim">58</canal>
+			<canal id="movingHead2.dim">58</canal>
+
+
+		</paso>
+		<paso id="59">
+			<canal id="movingHead1.dim">59</canal>
+			<canal id="movingHead2.dim">59</canal>
+
+
+		</paso>
+		<paso id="60">
+			<canal id="movingHead1.dim">60</canal>
+			<canal id="movingHead2.dim">60</canal>
+
+
+		</paso>
+		<paso id="61">
+			<canal id="movingHead1.dim">61</canal>
+			<canal id="movingHead2.dim">61</canal>
+
+
+		</paso>
+		<paso id="62">
+			<canal id="movingHead1.dim">62</canal>
+			<canal id="movingHead2.dim">62</canal>
+
+
+		</paso>
+		<paso id="63">
+			<canal id="movingHead1.dim">63</canal>
+			<canal id="movingHead2.dim">63</canal>
+
+
+		</paso>
+		<paso id="64">
+			<canal id="movingHead1.dim">64</canal>
+			<canal id="movingHead2.dim">64</canal>
+
+
+		</paso>
+		<paso id="65">
+			<canal id="movingHead1.dim">65</canal>
+			<canal id="movingHead2.dim">65</canal>
+
+
+		</paso>
+		<paso id="66">
+			<canal id="movingHead1.dim">66</canal>
+			<canal id="movingHead2.dim">66</canal>
+
+
+		</paso>
+		<paso id="67">
+			<canal id="movingHead1.dim">67</canal>
+			<canal id="movingHead2.dim">67</canal>
+
+
+		</paso>
+		<paso id="68">
+			<canal id="movingHead1.dim">68</canal>
+			<canal id="movingHead2.dim">68</canal>
+
+
+		</paso>
+		<paso id="69">
+			<canal id="movingHead1.dim">69</canal>
+			<canal id="movingHead2.dim">69</canal>
+
+
+		</paso>
+		<paso id="70">
+			<canal id="movingHead1.dim">70</canal>
+			<canal id="movingHead2.dim">70</canal>
+
+
+		</paso>
+		<paso id="71">
+			<canal id="movingHead1.dim">71</canal>
+			<canal id="movingHead2.dim">71</canal>
+
+
+		</paso>
+		<paso id="72">
+			<canal id="movingHead1.dim">72</canal>
+			<canal id="movingHead2.dim">72</canal>
+
+
+		</paso>
+		<paso id="73">
+			<canal id="movingHead1.dim">73</canal>
+			<canal id="movingHead2.dim">73</canal>
+
+
+		</paso>
+		<paso id="74">
+			<canal id="movingHead1.dim">74</canal>
+			<canal id="movingHead2.dim">74</canal>
+
+
+		</paso>
+		<paso id="75">
+			<canal id="movingHead1.dim">75</canal>
+			<canal id="movingHead2.dim">75</canal>
+
+
+		</paso>
+		<paso id="76">
+			<canal id="movingHead1.dim">76</canal>
+			<canal id="movingHead2.dim">76</canal>
+
+
+		</paso>
+		<paso id="77">
+			<canal id="movingHead1.dim">77</canal>
+			<canal id="movingHead2.dim">77</canal>
+
+
+		</paso>
+		<paso id="78">
+			<canal id="movingHead1.dim">78</canal>
+			<canal id="movingHead2.dim">78</canal>
+
+
+		</paso>
+		<paso id="79">
+			<canal id="movingHead1.dim">79</canal>
+			<canal id="movingHead2.dim">79</canal>
+
+
+		</paso>
+		<paso id="80">
+			<canal id="movingHead1.dim">80</canal>
+			<canal id="movingHead2.dim">80</canal>
+
+
+		</paso>
+		<paso id="81">
+			<canal id="movingHead1.dim">81</canal>
+			<canal id="movingHead2.dim">81</canal>
+
+
+		</paso>
+		<paso id="82">
+			<canal id="movingHead1.dim">82</canal>
+			<canal id="movingHead2.dim">82</canal>
+
+
+		</paso>
+		<paso id="83">
+			<canal id="movingHead1.dim">83</canal>
+			<canal id="movingHead2.dim">83</canal>
+
+
+		</paso>
+		<paso id="84">
+			<canal id="movingHead1.dim">84</canal>
+			<canal id="movingHead2.dim">84</canal>
+
+
+		</paso>
+		<paso id="85">
+			<canal id="movingHead1.dim">85</canal>
+			<canal id="movingHead2.dim">85</canal>
+
+
+		</paso>
+		<paso id="86">
+			<canal id="movingHead1.dim">86</canal>
+			<canal id="movingHead2.dim">86</canal>
+
+
+		</paso>
+		<paso id="87">
+			<canal id="movingHead1.dim">87</canal>
+			<canal id="movingHead2.dim">87</canal>
+
+
+		</paso>
+		<paso id="88">
+			<canal id="movingHead1.dim">88</canal>
+			<canal id="movingHead2.dim">88</canal>
+
+
+		</paso>
+		<paso id="89">
+			<canal id="movingHead1.dim">89</canal>
+			<canal id="movingHead2.dim">89</canal>
+
+
+		</paso>
+		<paso id="90">
+			<canal id="movingHead1.dim">90</canal>
+			<canal id="movingHead2.dim">90</canal>
+
+
+		</paso>
+		<paso id="91">
+			<canal id="movingHead1.dim">91</canal>
+			<canal id="movingHead2.dim">91</canal>
+
+
+		</paso>
+		<paso id="92">
+			<canal id="movingHead1.dim">92</canal>
+			<canal id="movingHead2.dim">92</canal>
+
+
+		</paso>
+		<paso id="93">
+			<canal id="movingHead1.dim">93</canal>
+			<canal id="movingHead2.dim">93</canal>
+
+
+		</paso>
+		<paso id="94">
+			<canal id="movingHead1.dim">94</canal>
+			<canal id="movingHead2.dim">94</canal>
+
+
+		</paso>
+		<paso id="95">
+			<canal id="movingHead1.dim">95</canal>
+			<canal id="movingHead2.dim">95</canal>
+
+
+		</paso>
+		<paso id="96">
+			<canal id="movingHead1.dim">96</canal>
+			<canal id="movingHead2.dim">96</canal>
+
+
+		</paso>
+		<paso id="97">
+			<canal id="movingHead1.dim">97</canal>
+			<canal id="movingHead2.dim">97</canal>
+
+
+		</paso>
+		<paso id="98">
+			<canal id="movingHead1.dim">98</canal>
+			<canal id="movingHead2.dim">98</canal>
+
+
+		</paso>
+		<paso id="99">
+			<canal id="movingHead1.dim">99</canal>
+			<canal id="movingHead2.dim">99</canal>
+
+
+		</paso>
+		<paso id="100">
+			<canal id="movingHead1.dim">100</canal>
+			<canal id="movingHead2.dim">100</canal>
+
+
+		</paso>
+		<paso id="99">
+			<canal id="movingHead1.dim">99</canal>
+			<canal id="movingHead2.dim">99</canal>
+
+
+		</paso>
+		<paso id="98">
+			<canal id="movingHead1.dim">98</canal>
+			<canal id="movingHead2.dim">98</canal>
+
+
+		</paso>
+		<paso id="97">
+			<canal id="movingHead1.dim">97</canal>
+			<canal id="movingHead2.dim">97</canal>
+
+
+		</paso>
+		<paso id="96">
+			<canal id="movingHead1.dim">96</canal>
+			<canal id="movingHead2.dim">96</canal>
+
+
+		</paso>
+		<paso id="95">
+			<canal id="movingHead1.dim">95</canal>
+			<canal id="movingHead2.dim">95</canal>
+
+
+		</paso>
+		<paso id="94">
+			<canal id="movingHead1.dim">94</canal>
+			<canal id="movingHead2.dim">94</canal>
+
+
+		</paso>
+		<paso id="93">
+			<canal id="movingHead1.dim">93</canal>
+			<canal id="movingHead2.dim">93</canal>
+
+
+		</paso>
+		<paso id="92">
+			<canal id="movingHead1.dim">92</canal>
+			<canal id="movingHead2.dim">92</canal>
+
+
+		</paso>
+		<paso id="91">
+			<canal id="movingHead1.dim">91</canal>
+			<canal id="movingHead2.dim">91</canal>
+
+
+		</paso>
+		<paso id="90">
+			<canal id="movingHead1.dim">90</canal>
+			<canal id="movingHead2.dim">90</canal>
+
+
+		</paso>
+		<paso id="89">
+			<canal id="movingHead1.dim">89</canal>
+			<canal id="movingHead2.dim">89</canal>
+
+
+		</paso>
+		<paso id="88">
+			<canal id="movingHead1.dim">88</canal>
+			<canal id="movingHead2.dim">88</canal>
+
+
+		</paso>
+		<paso id="87">
+			<canal id="movingHead1.dim">87</canal>
+			<canal id="movingHead2.dim">87</canal>
+
+
+		</paso>
+		<paso id="86">
+			<canal id="movingHead1.dim">86</canal>
+			<canal id="movingHead2.dim">86</canal>
+
+
+		</paso>
+		<paso id="85">
+			<canal id="movingHead1.dim">85</canal>
+			<canal id="movingHead2.dim">85</canal>
+
+
+		</paso>
+		<paso id="84">
+			<canal id="movingHead1.dim">84</canal>
+			<canal id="movingHead2.dim">84</canal>
+
+
+		</paso>
+		<paso id="83">
+			<canal id="movingHead1.dim">83</canal>
+			<canal id="movingHead2.dim">83</canal>
+
+
+		</paso>
+		<paso id="82">
+			<canal id="movingHead1.dim">82</canal>
+			<canal id="movingHead2.dim">82</canal>
+
+
+		</paso>
+		<paso id="81">
+			<canal id="movingHead1.dim">81</canal>
+			<canal id="movingHead2.dim">81</canal>
+
+
+		</paso>
+		<paso id="80">
+			<canal id="movingHead1.dim">80</canal>
+			<canal id="movingHead2.dim">80</canal>
+
+
+		</paso>
+		<paso id="79">
+			<canal id="movingHead1.dim">79</canal>
+			<canal id="movingHead2.dim">79</canal>
+
+
+		</paso>
+		<paso id="78">
+			<canal id="movingHead1.dim">78</canal>
+			<canal id="movingHead2.dim">78</canal>
+
+
+		</paso>
+		<paso id="77">
+			<canal id="movingHead1.dim">77</canal>
+			<canal id="movingHead2.dim">77</canal>
+
+
+		</paso>
+		<paso id="76">
+			<canal id="movingHead1.dim">76</canal>
+			<canal id="movingHead2.dim">76</canal>
+
+
+		</paso>
+		<paso id="75">
+			<canal id="movingHead1.dim">75</canal>
+			<canal id="movingHead2.dim">75</canal>
+
+
+		</paso>
+		<paso id="74">
+			<canal id="movingHead1.dim">74</canal>
+			<canal id="movingHead2.dim">74</canal>
+
+
+		</paso>
+		<paso id="73">
+			<canal id="movingHead1.dim">73</canal>
+			<canal id="movingHead2.dim">73</canal>
+
+
+		</paso>
+		<paso id="72">
+			<canal id="movingHead1.dim">72</canal>
+			<canal id="movingHead2.dim">72</canal>
+
+
+		</paso>
+		<paso id="71">
+			<canal id="movingHead1.dim">71</canal>
+			<canal id="movingHead2.dim">71</canal>
+
+
+		</paso>
+		<paso id="70">
+			<canal id="movingHead1.dim">70</canal>
+			<canal id="movingHead2.dim">70</canal>
+
+
+		</paso>
+		<paso id="69">
+			<canal id="movingHead1.dim">69</canal>
+			<canal id="movingHead2.dim">69</canal>
+
+
+		</paso>
+		<paso id="68">
+			<canal id="movingHead1.dim">68</canal>
+			<canal id="movingHead2.dim">68</canal>
+
+
+		</paso>
+		<paso id="67">
+			<canal id="movingHead1.dim">67</canal>
+			<canal id="movingHead2.dim">67</canal>
+
+
+		</paso>
+		<paso id="66">
+			<canal id="movingHead1.dim">66</canal>
+			<canal id="movingHead2.dim">66</canal>
+
+
+		</paso>
+		<paso id="65">
+			<canal id="movingHead1.dim">65</canal>
+			<canal id="movingHead2.dim">65</canal>
+
+
+		</paso>
+		<paso id="64">
+			<canal id="movingHead1.dim">64</canal>
+			<canal id="movingHead2.dim">64</canal>
+
+
+		</paso>
+		<paso id="63">
+			<canal id="movingHead1.dim">63</canal>
+			<canal id="movingHead2.dim">63</canal>
+
+
+		</paso>
+		<paso id="62">
+			<canal id="movingHead1.dim">62</canal>
+			<canal id="movingHead2.dim">62</canal>
+
+
+		</paso>
+		<paso id="61">
+			<canal id="movingHead1.dim">61</canal>
+			<canal id="movingHead2.dim">61</canal>
+
+
+		</paso>
+		<paso id="60">
+			<canal id="movingHead1.dim">60</canal>
+			<canal id="movingHead2.dim">60</canal>
+
+
+		</paso>
+		<paso id="59">
+			<canal id="movingHead1.dim">59</canal>
+			<canal id="movingHead2.dim">59</canal>
+
+
+		</paso>
+		<paso id="58">
+			<canal id="movingHead1.dim">58</canal>
+			<canal id="movingHead2.dim">58</canal>
+
+
+		</paso>
+		<paso id="57">
+			<canal id="movingHead1.dim">57</canal>
+			<canal id="movingHead2.dim">57</canal>
+
+
+		</paso>
+		<paso id="56">
+			<canal id="movingHead1.dim">56</canal>
+			<canal id="movingHead2.dim">56</canal>
+
+
+		</paso>
+		<paso id="55">
+			<canal id="movingHead1.dim">55</canal>
+			<canal id="movingHead2.dim">55</canal>
+
+
+		</paso>
+		<paso id="54">
+			<canal id="movingHead1.dim">54</canal>
+			<canal id="movingHead2.dim">54</canal>
+
+
+		</paso>
+		<paso id="53">
+			<canal id="movingHead1.dim">53</canal>
+			<canal id="movingHead2.dim">53</canal>
+
+
+		</paso>
+		<paso id="52">
+			<canal id="movingHead1.dim">52</canal>
+			<canal id="movingHead2.dim">52</canal>
+
+
+		</paso>
+		<paso id="51">
+			<canal id="movingHead1.dim">51</canal>
+			<canal id="movingHead2.dim">51</canal>
+
+
+		</paso>
+		<paso id="50">
+			<canal id="movingHead1.dim">50</canal>
+			<canal id="movingHead2.dim">50</canal>
+
+
+		</paso>
+		<paso id="49">
+			<canal id="movingHead1.dim">49</canal>
+			<canal id="movingHead2.dim">49</canal>
+
+
+		</paso>
+		<paso id="48">
+			<canal id="movingHead1.dim">48</canal>
+			<canal id="movingHead2.dim">48</canal>
+
+
+		</paso>
+		<paso id="47">
+			<canal id="movingHead1.dim">47</canal>
+			<canal id="movingHead2.dim">47</canal>
+
+
+		</paso>
+		<paso id="46">
+			<canal id="movingHead1.dim">46</canal>
+			<canal id="movingHead2.dim">46</canal>
+
+
+		</paso>
+		<paso id="45">
+			<canal id="movingHead1.dim">45</canal>
+			<canal id="movingHead2.dim">45</canal>
+
+
+		</paso>
+		<paso id="44">
+			<canal id="movingHead1.dim">44</canal>
+			<canal id="movingHead2.dim">44</canal>
+
+
+		</paso>
+		<paso id="43">
+			<canal id="movingHead1.dim">43</canal>
+			<canal id="movingHead2.dim">43</canal>
+
+
+		</paso>
+		<paso id="42">
+			<canal id="movingHead1.dim">42</canal>
+			<canal id="movingHead2.dim">42</canal>
+
+
+		</paso>
+		<paso id="41">
+			<canal id="movingHead1.dim">41</canal>
+			<canal id="movingHead2.dim">41</canal>
+
+
+		</paso>
+		<paso id="40">
+			<canal id="movingHead1.dim">40</canal>
+			<canal id="movingHead2.dim">40</canal>
+
+
+		</paso>
+		<paso id="39">
+			<canal id="movingHead1.dim">39</canal>
+			<canal id="movingHead2.dim">39</canal>
+
+
+		</paso>
+		<paso id="38">
+			<canal id="movingHead1.dim">38</canal>
+			<canal id="movingHead2.dim">38</canal>
+
+
+		</paso>
+		<paso id="37">
+			<canal id="movingHead1.dim">37</canal>
+			<canal id="movingHead2.dim">37</canal>
+
+
+		</paso>
+		<paso id="36">
+			<canal id="movingHead1.dim">36</canal>
+			<canal id="movingHead2.dim">36</canal>
+
+
+		</paso>
+		<paso id="35">
+			<canal id="movingHead1.dim">35</canal>
+			<canal id="movingHead2.dim">35</canal>
+
+
+		</paso>
+		<paso id="34">
+			<canal id="movingHead1.dim">34</canal>
+			<canal id="movingHead2.dim">34</canal>
+
+
+		</paso>
+		<paso id="33">
+			<canal id="movingHead1.dim">33</canal>
+			<canal id="movingHead2.dim">33</canal>
+
+
+		</paso>
+		<paso id="32">
+			<canal id="movingHead1.dim">32</canal>
+			<canal id="movingHead2.dim">32</canal>
+
+
+		</paso>
+		<paso id="31">
+			<canal id="movingHead1.dim">31</canal>
+			<canal id="movingHead2.dim">31</canal>
+
+
+		</paso>
+		<paso id="30">
+			<canal id="movingHead1.dim">30</canal>
+			<canal id="movingHead2.dim">30</canal>
+
+
+		</paso>
+		<paso id="29">
+			<canal id="movingHead1.dim">29</canal>
+			<canal id="movingHead2.dim">29</canal>
+
+
+		</paso>
+		<paso id="28">
+			<canal id="movingHead1.dim">28</canal>
+			<canal id="movingHead2.dim">28</canal>
+
+
+		</paso>
+		<paso id="27">
+			<canal id="movingHead1.dim">27</canal>
+			<canal id="movingHead2.dim">27</canal>
+
+
+		</paso>
+		<paso id="26">
+			<canal id="movingHead1.dim">26</canal>
+			<canal id="movingHead2.dim">26</canal>
+
+
+		</paso>
+		<paso id="25">
+			<canal id="movingHead1.dim">25</canal>
+			<canal id="movingHead2.dim">25</canal>
+
+
+		</paso>
+		<paso id="24">
+			<canal id="movingHead1.dim">24</canal>
+			<canal id="movingHead2.dim">24</canal>
+
+
+		</paso>
+		<paso id="23">
+			<canal id="movingHead1.dim">23</canal>
+			<canal id="movingHead2.dim">23</canal>
+
+
+		</paso>
+		<paso id="22">
+			<canal id="movingHead1.dim">22</canal>
+			<canal id="movingHead2.dim">22</canal>
+
+
+		</paso>
+		<paso id="21">
+			<canal id="movingHead1.dim">21</canal>
+			<canal id="movingHead2.dim">21</canal>
+
+
+		</paso>
+		<paso id="20">
+			<canal id="movingHead1.dim">20</canal>
+			<canal id="movingHead2.dim">20</canal>
+
+
+		</paso>
+		<paso id="19">
+			<canal id="movingHead1.dim">19</canal>
+			<canal id="movingHead2.dim">19</canal>
+		</paso>
+		<paso id="18">
+			<canal id="movingHead1.dim">18</canal>
+			<canal id="movingHead2.dim">18</canal>
+
+
+		</paso>
+		<paso id="17">
+			<canal id="movingHead1.dim">17</canal>
+			<canal id="movingHead2.dim">17</canal>
+
+
+		</paso>
+		<paso id="16">
+			<canal id="movingHead1.dim">16</canal>
+			<canal id="movingHead2.dim">16</canal>
+
+
+		</paso>
+		<paso id="15">
+			<canal id="movingHead1.dim">15</canal>
+			<canal id="movingHead2.dim">15</canal>
+
+
+		</paso>
+		<paso id="14">
+			<canal id="movingHead1.dim">14</canal>
+			<canal id="movingHead2.dim">14</canal>
+
+
+		</paso>
+		<paso id="13">
+			<canal id="movingHead1.dim">13</canal>
+			<canal id="movingHead2.dim">13</canal>
+
+
+		</paso>
+		<paso id="12">
+			<canal id="movingHead1.dim">12</canal>
+			<canal id="movingHead2.dim">12</canal>
+
+
+		</paso>
+		<paso id="11">
+			<canal id="movingHead1.dim">11</canal>
+			<canal id="movingHead2.dim">11</canal>
+
+
+		</paso>
+		<paso id="10">
+			<canal id="movingHead1.dim">10</canal>
+			<canal id="movingHead2.dim">10</canal>
+
+
+		</paso>
+		<paso id="9">
+			<canal id="movingHead1.dim">9</canal>
+			<canal id="movingHead2.dim">9</canal>
+
+
+		</paso>
+		<paso id="8">
+			<canal id="movingHead1.dim">8</canal>
+			<canal id="movingHead2.dim">8</canal>
+
+
+		</paso>
+		<paso id="7">
+			<canal id="movingHead1.dim">7</canal>
+			<canal id="movingHead2.dim">7</canal>
+
+
+		</paso>
+		<paso id="6">
+			<canal id="movingHead1.dim">6</canal>
+			<canal id="movingHead2.dim">6</canal>
+
+
+		</paso>
+		<paso id="5">
+			<canal id="movingHead1.dim">5</canal>
+			<canal id="movingHead2.dim">5</canal>
+
+
+		</paso>
+		<paso id="4">
+			<canal id="movingHead1.dim">4</canal>
+			<canal id="movingHead2.dim">4</canal>
+
+
+		</paso>
+		<paso id="3">
+			<canal id="movingHead1.dim">3</canal>
+			<canal id="movingHead2.dim">3</canal>
+
+
+		</paso>
+		<paso id="2">
+			<canal id="movingHead1.dim">2</canal>
+			<canal id="movingHead2.dim">2</canal>
+
+
+		</paso>
+		<paso id="1">
+			<canal id="movingHead1.dim">1</canal>
+			<canal id="movingHead2.dim">1</canal>
+
+
+		</paso>
+		<paso id="0">
+			<canal id="movingHead1.dim">0</canal>
+			<canal id="movingHead2.dim">0</canal>
+
+
+		</paso>
+	</programa>
+</programas>

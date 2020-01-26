@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<grupos>
+	<grupo id="movingHeads">
+		<fixture>movingHead1</fixture>
+		<fixture>movingHead2</fixture>
+	</grupo>
+	
+	<grupo id="scanners">
+		<fixture>scanner1</fixture>
+		<fixture>scanner2</fixture>
+		<fixture>scanner3</fixture>
+		<fixture>scanner4</fixture>
+	</grupo>
+	
+	<grupo id="pinSpots">
+		<fixture>pinSpot3</fixture>
+		<fixture>pinSpot4</fixture>
+	</grupo>
+	
+	<grupo id="rgbs">
+		<fixture>rgbw1</fixture>
+		<fixture>rgbw2</fixture>
+		<fixture>rgbw3</fixture>
+		<fixture>rgbw4</fixture>
+	</grupo>
+	
+	<grupo id="varios">
+		<fixture>crystalMagic</fixture>
+		<fixture>laserVerde</fixture>
+		<fixture>maquinaHumo</fixture>
+	</grupo>
+	
+</grupos>

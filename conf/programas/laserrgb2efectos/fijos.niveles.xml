@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+
+	<programa id="1"> <!-- Normal -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>		
+		</paso>
+	</programa>
+	
+	<programa id="2"> <!-- Pan Lento Der -> Izq -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">130</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="3"> <!-- Pan Medio Der -> Izq -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">145</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="4"> <!-- Pan Rápido Der -> Izq -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">160</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="5"> <!-- Pan Lento Izq ->  Der-->
+		<paso id="1">
+			<canal id="laserrgb2.pan">161</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="6"> <!-- Pan Medio Izq ->  Der -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">175</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="7"> <!-- Pan Rápido Izq ->  Der -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">192</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="8"> <!-- Tilt Lento Arriba -> Abajo -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">130</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="9"> <!-- Tilt Medio Arriba -> Abajo -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">145</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="10"> <!-- Tilt Rápido Arriba -> Abajo -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">160</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="11"> <!-- Tilt Lento Abajo -> Arriba-->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">161</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="12"> <!-- Tilt Medio Abajo -> Arriba -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">175</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="13"> <!-- Tilt Rápido Abajo -> Arriba -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">192</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="14"> <!-- Rotar lento -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">181</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="15"> <!-- Rotar medio -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">200</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="16"> <!-- Rotar rápido -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">224</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="17"> <!-- Deforma -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">116</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="18"> <!-- Puntos -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">76</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="19"> <!-- Rayas -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">140</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="20"> <!-- Sólo puntos -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">200</canal>
+		  	<canal id="laserrgb2.animacion">0</canal>	
+		</paso>
+	</programa>
+	
+	<programa id="21"> <!-- Genera Figuras (animación) -->
+		<paso id="1">
+			<canal id="laserrgb2.pan">0</canal>
+			<canal id="laserrgb2.tilt">0</canal>
+			<canal id="laserrgb2.zaxis">0</canal>	
+			<canal id="laserrgb2.xaxis">0</canal>	
+		  	<canal id="laserrgb2.deforma">0</canal>	
+		  	<canal id="laserrgb2.puntos">0</canal>
+		  	<canal id="laserrgb2.animacion">220</canal>	
+		</paso>
+	</programa>
+</programas>

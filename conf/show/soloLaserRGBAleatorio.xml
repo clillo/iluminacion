@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Solo Lásers RGB Efecto Aleatorio</nombre>
+	</generales>
+	<apagar>
+		<canal id="laserrgb1.modo">0</canal>
+		<canal id="laserrgb2.modo">0</canal>
+	</apagar>
+	<pasos>
+		<paso>
+			<tiempo>3000</tiempo>
+			<programas>
+				<programa tipo="laserrgb1patron" id="3" />
+				<programa tipo="laserrgb1color" id="1" />	
+				<programa tipo="laserrgb1efectos" id="2" />
+			</programas>
+		</paso>	
+	</pasos>
+</show>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Derbys + Bola + Ball + RGBW</nombre>
+		<tiempoMaximo>60000</tiempoMaximo>
+		<tiempoMinimo>10000</tiempoMinimo>
+		<probabilidad>40</probabilidad>
+	</generales>
+	<fixtures>
+		<fixture>rgbw</fixture>
+		<fixture>pinspot</fixture>
+		<fixture>derby2</fixture>
+		<fixture>crystalBall</fixture>
+	</fixtures>
+</show>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0"> <!-- Apagado -->
+		<paso id="1">
+			<canal id="spider1.efecto1">0</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="1"> <!-- Efecto 1 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">8</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="2"> <!-- Efecto 2 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">255</canal>
+			<canal id="spider1.efecto2">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="3"> <!-- Efecto 3 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">132</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="4"> <!-- Efecto 4 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">223</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+		
+	<programa id="5"> <!-- Efecto 5 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">118</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="6"> <!-- Efecto 6 -->
+		<paso id="1">
+			<canal id="spider1.efecto1">32</canal>
+			<canal id="spider1.efecto2">0</canal>
+		</paso>
+	</programa>
+	
+</programas>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<nombre>Apagado</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>1</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="1">
+		<nombre>Efecto 1</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>40</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="2">
+		<nombre>Efecto 2</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="3">
+		<nombre>Efecto 3</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="4">
+		<nombre>Efecto 4</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="5">
+		<nombre>Efecto 5</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="6">
+		<nombre>Efecto 6</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>	
+</programas>

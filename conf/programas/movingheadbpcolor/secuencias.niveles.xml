@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1"> <!--Blanco -->
+		<paso id="1">
+			<efecto id="movingHead3.color">blanco</efecto>
+			<efecto id="movingHead4.color">blanco</efecto>
+		</paso>
+	</programa>
+	<programa id="2"> <!--Color 1 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color1</efecto>
+			<efecto id="movingHead4.color">color1</efecto>
+		</paso>
+	</programa>
+	<programa id="3"> <!--Color 2 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color2</efecto>
+			<efecto id="movingHead4.color">color2</efecto>
+		</paso>
+	</programa>
+	<programa id="4"> <!--Color 3 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color3</efecto>
+			<efecto id="movingHead4.color">color3</efecto>
+		</paso>
+	</programa>
+	<programa id="5"> <!--Color 4 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color4</efecto>
+			<efecto id="movingHead4.color">color4</efecto>
+		</paso>
+	</programa>
+	<programa id="6"> <!--Color 5 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color5</efecto>
+			<efecto id="movingHead4.color">color5</efecto>
+		</paso>
+	</programa>
+	<programa id="7"> <!--Color 6 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color6</efecto>
+			<efecto id="movingHead4.color">color6</efecto>
+		</paso>
+	</programa>
+	<programa id="8"> <!--Color 7 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color7</efecto>
+			<efecto id="movingHead4.color">color7</efecto>
+		</paso>
+	</programa>
+	<programa id="9"> <!--Color 8 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color8</efecto>
+			<efecto id="movingHead4.color">color8</efecto>
+		</paso>
+	</programa>
+	<programa id="10"> <!--Color 9 -->
+		<paso id="1">
+			<efecto id="movingHead3.color">color9</efecto>
+			<efecto id="movingHead4.color">color9</efecto>
+		</paso>
+	</programa>
+	<programa id="11"> <!--Color Rotating Lento-->
+		<paso id="1">
+			<efecto id="movingHead3.color">colorRotating1</efecto>
+			<efecto id="movingHead4.color">colorRotating1</efecto>
+		</paso>
+	</programa>
+	<programa id="12"> <!--Color Rotating Rapido-->
+		<paso id="1">
+			<efecto id="movingHead3.color">colorRotating2</efecto>
+			<efecto id="movingHead4.color">colorRotating2</efecto>
+		</paso>
+	</programa>
+	
+	<programa id="13"> <!--Secuencia Color-->
+		<paso id="1">
+			<efecto id="movingHead3.color">color1</efecto>
+			<efecto id="movingHead4.color">color2</efecto>
+		</paso>
+		<paso id="2">
+			<efecto id="movingHead3.color">color2</efecto>
+			<efecto id="movingHead4.color">color3</efecto>
+		</paso>
+		<paso id="3">
+			<efecto id="movingHead3.color">color3</efecto>
+			<efecto id="movingHead4.color">color4</efecto>
+		</paso>
+		<paso id="4">
+			<efecto id="movingHead3.color">color4</efecto>
+			<efecto id="movingHead4.color">color5</efecto>
+		</paso>
+		<paso id="5">
+			<efecto id="movingHead3.color">color5</efecto>
+			<efecto id="movingHead4.color">color6</efecto>
+		</paso>
+		<paso id="6">
+			<efecto id="movingHead3.color">color6</efecto>
+			<efecto id="movingHead4.color">color7</efecto>
+		</paso>
+		<paso id="7">
+			<efecto id="movingHead3.color">color7</efecto>
+			<efecto id="movingHead4.color">color8</efecto>
+		</paso>
+		<paso id="8">
+			<efecto id="movingHead3.color">color8</efecto>
+			<efecto id="movingHead4.color">color9</efecto>
+		</paso>
+		<paso id="9">
+			<efecto id="movingHead3.color">color9</efecto>
+			<efecto id="movingHead4.color">color1</efecto>
+		</paso>
+	</programa>
+
+	<programa id="14"> <!--Color Aleatorio-->
+		<paso id="1">
+			<efecto id="movingHead3.color">color8</efecto>
+			<efecto id="movingHead4.color">color3</efecto>
+		</paso>
+		<paso id="2">
+			<efecto id="movingHead3.color">color1</efecto>
+			<efecto id="movingHead4.color">color4</efecto>
+		</paso>
+		<paso id="3">
+			<efecto id="movingHead3.color">color9</efecto>
+			<efecto id="movingHead4.color">color7</efecto>
+		</paso>
+		<paso id="4">
+			<efecto id="movingHead3.color">color3</efecto>
+			<efecto id="movingHead4.color">color8</efecto>
+		</paso>
+		<paso id="5">
+			<efecto id="movingHead3.color">color4</efecto>
+			<efecto id="movingHead4.color">color9</efecto>
+		</paso>
+		<paso id="6">
+			<efecto id="movingHead3.color">color7</efecto>
+			<efecto id="movingHead4.color">color1</efecto>
+		</paso>
+		<paso id="7">
+			<efecto id="movingHead3.color">color2</efecto>
+			<efecto id="movingHead4.color">color2</efecto>
+		</paso>
+		<paso id="8">
+			<efecto id="movingHead3.color">color6</efecto>
+			<efecto id="movingHead4.color">color5</efecto>
+		</paso>
+		<paso id="9">
+			<efecto id="movingHead3.color">color5</efecto>
+			<efecto id="movingHead4.color">color6</efecto>
+		</paso>
+	</programa>
+
+</programas>

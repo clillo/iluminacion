@@ -1,0 +1,98 @@
+<colores>
+	<color id="1">
+		<nombre>Black</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="2">
+		<nombre>White</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="3">
+		<nombre>Red</nombre>
+		<r>255</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="4">
+		<nombre>Lime</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>0</b>
+	</color>
+	<color id="5">
+		<nombre>Blue</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>255</b>
+	</color>
+	<color id="6">
+		<nombre>Yellow</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>0</b>
+	</color>
+	<color id="7">
+		<nombre>Cyan</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="8">
+		<nombre>Magenta</nombre>
+		<r>255</r>
+		<g>0</g>
+		<b>255</b>
+	</color>
+	<color id="9">
+		<nombre>Silver</nombre>
+		<r>192</r>
+		<g>192</g>
+		<b>192</b>
+	</color>
+	<color id="10">
+		<nombre>Gray</nombre>
+		<r>128</r>
+		<g>128</g>
+		<b>128</b>
+	</color>
+	<color id="11">
+		<nombre>Maroon</nombre>
+		<r>128</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="12">
+		<nombre>Olive</nombre>
+		<r>128</r>
+		<g>128</g>
+		<b>0</b>
+	</color>
+	<color id="13">
+		<nombre>Green</nombre>
+		<r>0</r>
+		<g>128</g>
+		<b>0</b>
+	</color>
+	<color id="14">
+		<nombre>Purple</nombre>
+		<r>128</r>
+		<g>0</g>
+		<b>128</b>
+	</color>
+	<color id="15">
+		<nombre>Teal</nombre>
+		<r>0</r>
+		<g>128</g>
+		<b>128</b>
+	</color>
+	<color id="16">
+		<nombre>Navy</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>128</b>
+	</color>
+</colores>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<nombre>Apagado</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>1</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="1">
+		<nombre>Secuencial Simple</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>
+
+	<programa id="2">
+		<nombre>Secuencial Simple Inverso</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>
+
+	<programa id="3">
+		<nombre>Todas Encendidas</nombre>
+		<velocidad>10000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="4">
+		<nombre>Solo Extremos</nombre>
+		<velocidad>10000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="5">
+		<nombre>Solo Central</nombre>
+		<velocidad>10000</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="6">
+		<nombre>Secuencial Doble</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>
+
+	<programa id="7">
+		<nombre>Secuencial Doble Inverso</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>	
+
+	<programa id="8">
+		<nombre>Secuencial Aleatorio</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>	
+
+	<programa id="9">
+		<nombre>Secuencial Dimmer</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>	
+	
+	<programa id="10">
+		<nombre>Secuencial Simple Max</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>0</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>	
+
+	<programa id="11">
+		<nombre>Todos Max</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>0</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+		<gatillablePorVDJ>true</gatillablePorVDJ>
+	</programa>	
+</programas>

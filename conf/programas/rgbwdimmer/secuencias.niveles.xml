@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<paso id="1">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="1">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+	<programa id="2">
+		<paso id="1">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="3">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+	<programa id="4">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+	<programa id="5">
+		<paso id="1">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="6">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+	<programa id="7">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="8">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="5">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>		
+		<paso id="6">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>	
+		<paso id="7">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>	
+		<paso id="8">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="9">
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>	
+		<paso id="10">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+		<paso id="11">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+	</programa>
+	<programa id="9">
+		<paso id="1">
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">5</canal>
+			<canal id="rgbw3.dim">5</canal>
+			<canal id="rgbw4.dim">5</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.dim">5</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">5</canal>
+			<canal id="rgbw4.dim">5</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.dim">5</canal>
+			<canal id="rgbw2.dim">5</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">5</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.dim">5</canal>
+			<canal id="rgbw2.dim">5</canal>
+			<canal id="rgbw3.dim">5</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+
+	<programa id="10">
+		<paso id="1">
+			<maxBrillo>true</maxBrillo>
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="2">
+			<maxBrillo>true</maxBrillo>
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="3">
+			<maxBrillo>true</maxBrillo>
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">0</canal>
+		</paso>
+		<paso id="4">
+			<maxBrillo>true</maxBrillo>
+			<canal id="rgbw1.dim">0</canal>
+			<canal id="rgbw2.dim">0</canal>
+			<canal id="rgbw3.dim">0</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+
+	<programa id="11">
+		<paso id="1">
+			<maxBrillo>true</maxBrillo>
+			<canal id="rgbw1.dim">100</canal>
+			<canal id="rgbw2.dim">100</canal>
+			<canal id="rgbw3.dim">100</canal>
+			<canal id="rgbw4.dim">100</canal>
+		</paso>
+	</programa>
+</programas>

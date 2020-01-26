@@ -1,0 +1,280 @@
+<valores>
+	<categoria id="movingHead.color">
+		<canal id="movingHead1.color"></canal>
+		<canal id="movingHead2.color"></canal>
+		<valor id="blanco"><descripcion>Blanco</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="color1"><descripcion>Rojo</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="color2"><descripcion>Amarillo</descripcion><valorDMX>30</valorDMX></valor>
+		<valor id="color3"><descripcion>Verde</descripcion><valorDMX>50</valorDMX></valor>
+		<valor id="color4"><descripcion>Azul</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="color5"><descripcion>Naranjo</descripcion><valorDMX>80</valorDMX></valor>
+		<valor id="color6"><descripcion>Cyan</descripcion><valorDMX>90</valorDMX></valor>
+		<valor id="color7"><descripcion>Celeste</descripcion><valorDMX>100</valorDMX></valor>
+		<valor id="color8"><descripcion>Rosado</descripcion><valorDMX>120</valorDMX></valor>
+		<valor id="color9"><descripcion>Verde Agua</descripcion><valorDMX>125</valorDMX></valor>
+		<valor id="colorRotating1"><descripcion>Color Rotating 1</descripcion><valorDMX>128</valorDMX></valor>
+		<valor id="colorRotating2"><descripcion>Color Rotating 2</descripcion><valorDMX>193</valorDMX></valor>		
+	</categoria>
+
+	<categoria id="movingHeadbp.color">
+		<canal id="movingHead3.color"></canal>
+		<canal id="movingHead4.color"></canal>
+		<valor id="blanco"><descripcion>Blanco</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="color1"><descripcion>Rojo</descripcion><valorDMX>10</valorDMX></valor>
+		<valor id="color2"><descripcion>Verde</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="color3"><descripcion>Azul</descripcion><valorDMX>30</valorDMX></valor>
+		<valor id="color4"><descripcion>Amarillo</descripcion><valorDMX>40</valorDMX></valor>
+		<valor id="color5"><descripcion>Cyan</descripcion><valorDMX>50</valorDMX></valor>
+		<valor id="color6"><descripcion>Celeste</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="color7"><descripcion>Amarillo2</descripcion><valorDMX>70</valorDMX></valor>
+		<valor id="color8"><descripcion>Color Rotating 1</descripcion><valorDMX>165</valorDMX></valor>
+		<valor id="color9"><descripcion>Color Rotating 2</descripcion><valorDMX>175</valorDMX></valor>
+		<valor id="colorRotating1"><descripcion>Color Rotating 3</descripcion><valorDMX>185</valorDMX></valor>
+		<valor id="colorRotating2"><descripcion>Color Rotating 4</descripcion><valorDMX>220</valorDMX></valor>		
+	</categoria>
+
+	<categoria id="movingHeadbp.gobo">
+		<canal id="movingHead3.gobo"></canal>
+		<canal id="movingHead4.gobo"></canal>
+		<valor id="solido"><descripcion>Disco Sólido</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="gobo1"><descripcion>Cuadrado</descripcion><valorDMX>28</valorDMX></valor>
+		<valor id="gobo2"><descripcion>Girasol (G)</descripcion><valorDMX>55</valorDMX></valor>
+		<valor id="gobo3"><descripcion>Mancha Puntos</descripcion><valorDMX>81</valorDMX></valor>
+		<valor id="gobo4"><descripcion>Burbujas</descripcion><valorDMX>109</valorDMX></valor>
+		<valor id="gobo5"><descripcion>Estrella</descripcion><valorDMX>136</valorDMX></valor>
+		<valor id="gobo6"><descripcion>Silueta Mujer</descripcion><valorDMX>163</valorDMX></valor>
+		<valor id="gobo7"><descripcion>Anillo</descripcion><valorDMX>190</valorDMX></valor>
+		<valor id="gobo8"><descripcion>Triangulo</descripcion><valorDMX>216</valorDMX></valor>
+		<valor id="goboRotating1"><descripcion>Gobo Rotating 1</descripcion><valorDMX>225</valorDMX></valor>		
+	</categoria>
+	
+	<categoria id="movingHead.gobo">
+		<canal id="movingHead1.gobo"></canal>
+		<canal id="movingHead2.gobo"></canal>
+		<valor id="solido"><descripcion>Disco Sólido</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="gobo1"><descripcion>Cuadrado</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="gobo2"><descripcion>Girasol (G)</descripcion><valorDMX>40</valorDMX></valor>
+		<valor id="gobo3"><descripcion>Mancha Puntos</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="gobo4"><descripcion>Burbujas</descripcion><valorDMX>80</valorDMX></valor>
+		<valor id="gobo5"><descripcion>Estrella</descripcion><valorDMX>100</valorDMX></valor>
+		<valor id="gobo6"><descripcion>Silueta Mujer</descripcion><valorDMX>120</valorDMX></valor>
+		<valor id="gobo7"><descripcion>Anillo</descripcion><valorDMX>140</valorDMX></valor>
+		<valor id="goboRotating1"><descripcion>Gobo Rotating 1</descripcion><valorDMX>160</valorDMX></valor>
+		<valor id="goboRotating2"><descripcion>Gobo Rotating 2</descripcion><valorDMX>220</valorDMX></valor>		
+	</categoria>
+	
+	<categoria id="movingHeadbp.goboRotating">
+		<canal id="movingHead3.goboRotation"></canal>
+		<canal id="movingHead4.goboRotation"></canal>
+		<valor id="sinRotacion"><descripcion>Sin Rotación</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="fs1"><descripcion>F-S 1</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="fs2"><descripcion>F-S 2</descripcion><valorDMX>40</valorDMX></valor>
+		<valor id="fs3"><descripcion>F-S 3</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="fs4"><descripcion>F-S 4</descripcion><valorDMX>80</valorDMX></valor>
+		<valor id="fs5"><descripcion>F-S 5</descripcion><valorDMX>110</valorDMX></valor>
+		<valor id="fs6"><descripcion>F-S 6</descripcion><valorDMX>130</valorDMX></valor>
+		<valor id="sf1"><descripcion>S-F 1</descripcion><valorDMX>140</valorDMX></valor>
+		<valor id="sf2"><descripcion>S-F 2</descripcion><valorDMX>160</valorDMX></valor>
+		<valor id="sf3"><descripcion>S-F 3</descripcion><valorDMX>180</valorDMX></valor>
+		<valor id="sf4"><descripcion>S-F 4</descripcion><valorDMX>210</valorDMX></valor>
+		<valor id="sf5"><descripcion>S-F 5</descripcion><valorDMX>230</valorDMX></valor>
+		<valor id="sf6"><descripcion>S-F 6</descripcion><valorDMX>250</valorDMX></valor>
+	</categoria>
+
+	<categoria id="movingHead.goboRotating">
+		<canal id="movingHead1.goboRotation"></canal>
+		<canal id="movingHead2.goboRotation"></canal>
+		<valor id="sinRotacion"><descripcion>Sin Rotación</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="fs1"><descripcion>F-S 1</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="fs2"><descripcion>F-S 2</descripcion><valorDMX>40</valorDMX></valor>
+		<valor id="fs3"><descripcion>F-S 3</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="fs4"><descripcion>F-S 4</descripcion><valorDMX>80</valorDMX></valor>
+		<valor id="fs5"><descripcion>F-S 5</descripcion><valorDMX>110</valorDMX></valor>
+		<valor id="fs6"><descripcion>F-S 6</descripcion><valorDMX>130</valorDMX></valor>
+		<valor id="sf1"><descripcion>S-F 1</descripcion><valorDMX>140</valorDMX></valor>
+		<valor id="sf2"><descripcion>S-F 2</descripcion><valorDMX>160</valorDMX></valor>
+		<valor id="sf3"><descripcion>S-F 3</descripcion><valorDMX>180</valorDMX></valor>
+		<valor id="sf4"><descripcion>S-F 4</descripcion><valorDMX>210</valorDMX></valor>
+		<valor id="sf5"><descripcion>S-F 5</descripcion><valorDMX>230</valorDMX></valor>
+		<valor id="sf6"><descripcion>S-F 6</descripcion><valorDMX>250</valorDMX></valor>
+	</categoria>
+
+	<categoria id="movingHead.strobo">
+		<canal id="movingHead1.strobo"></canal>
+		<canal id="movingHead2.strobo"></canal>
+		<valor id="sinStrobo"><descripcion>Sin Strobo</descripcion><valorDMX>255</valorDMX></valor>
+		<valor id="strobo1"><descripcion>Strobo 1</descripcion><valorDMX>31</valorDMX></valor>
+		<valor id="strobo2"><descripcion>Strobo 2</descripcion><valorDMX>50</valorDMX></valor>
+		<valor id="strobo3"><descripcion>Strobo 3</descripcion><valorDMX>120</valorDMX></valor>
+		<valor id="strobo4"><descripcion>Strobo 4</descripcion><valorDMX>250</valorDMX></valor>
+	</categoria>
+
+	<categoria id="movingHeadbp.prisma">
+		<canal id="movingHead3.prisma"></canal>
+		<canal id="movingHead4.prisma"></canal>
+		<valor id="conPrisma"><descripcion>Con Prisma</descripcion><valorDMX>255</valorDMX></valor>
+		<valor id="sinPrisma"><descripcion>Sin Prisma</descripcion><valorDMX>0</valorDMX></valor>
+	</categoria>
+	
+	<categoria id="movingHead.prisma">
+		<canal id="movingHead1.prisma"></canal>
+		<canal id="movingHead2.prisma"></canal>
+		<valor id="conPrisma"><descripcion>Con Prisma</descripcion><valorDMX>255</valorDMX></valor>
+		<valor id="sinPrisma"><descripcion>Sin Prisma</descripcion><valorDMX>0</valorDMX></valor>
+	</categoria>
+	
+	<categoria id="movingHeadbp.foco">
+		<canal id="movingHead3.foco"></canal>
+		<canal id="movingHead4.foco"></canal>
+		<valor id="media"><descripcion>Medio</descripcion><valorDMX>120</valorDMX></valor>
+	</categoria>
+	
+	<categoria id="scanner.color">
+		<canal id="scanner1.color"></canal>
+		<canal id="scanner2.color"></canal>
+		<valor id="blanco"><descripcion>Blanco</descripcion><valorDMX>0</valorDMX></valor>
+		<valor id="morado"><descripcion>Morado</descripcion><valorDMX>30</valorDMX></valor>
+		<valor id="rosado"><descripcion>Rosado</descripcion><valorDMX>50</valorDMX></valor>
+		<valor id="azul"><descripcion>Azul</descripcion><valorDMX>70</valorDMX></valor>
+		<valor id="rojo"><descripcion>Rojo</descripcion><valorDMX>90</valorDMX></valor>
+		<valor id="verde"><descripcion>Verde</descripcion><valorDMX>110</valorDMX></valor>
+		<valor id="violeta"><descripcion>Violeta</descripcion><valorDMX>130</valorDMX></valor>
+		<valor id="naranja"><descripcion>Naranja</descripcion><valorDMX>150</valorDMX></valor>
+		<valor id="verdeAgua"><descripcion>Verde Agua</descripcion><valorDMX>170</valorDMX></valor>
+		<valor id="amarillo"><descripcion>Amarillo</descripcion><valorDMX>190</valorDMX></valor>
+		<valor id="celeste"><descripcion>Celeste</descripcion><valorDMX>210</valorDMX></valor>
+		
+		
+	</categoria>
+	
+	<categoria id="scanner.gobo">
+		<canal id="scanner1.gobo"></canal>
+		<canal id="scanner2.gobo"></canal>
+		<valor id="solido"><descripcion>Disco Sólido</descripcion><valorDMX>15</valorDMX></valor>
+		<valor id="gobo1"><descripcion>Gobo 1</descripcion><valorDMX>34</valorDMX></valor>
+		<valor id="gobo2"><descripcion>Gobo 2</descripcion><valorDMX>49</valorDMX></valor>
+		<valor id="gobo3"><descripcion>Gobo 3</descripcion><valorDMX>66</valorDMX></valor>
+		<valor id="gobo4"><descripcion>Gobo 4</descripcion><valorDMX>86</valorDMX></valor>
+		<valor id="gobo5"><descripcion>Gobo 5</descripcion><valorDMX>100</valorDMX></valor>
+		<valor id="gobo6"><descripcion>Gobo 6</descripcion><valorDMX>117</valorDMX></valor>
+		<valor id="gobo7"><descripcion>Gobo 7</descripcion><valorDMX>128</valorDMX></valor>
+		<valor id="gobo8"><descripcion>Gobo 8</descripcion><valorDMX>147</valorDMX></valor>
+		<valor id="gobo9"><descripcion>Gobo 9</descripcion><valorDMX>160</valorDMX></valor>
+		<valor id="gobo10"><descripcion>Gobo 10</descripcion><valorDMX>176</valorDMX></valor>
+		<valor id="gobo11"><descripcion>Gobo 11</descripcion><valorDMX>193</valorDMX></valor>
+		<valor id="gobo12"><descripcion>Gobo 12</descripcion><valorDMX>211</valorDMX></valor>
+		<valor id="goboRotating1"><descripcion>Gobo Rotating 1</descripcion><valorDMX>224</valorDMX></valor>
+		<valor id="goboRotating2"><descripcion>Gobo Rotating 2</descripcion><valorDMX>228</valorDMX></valor>		
+		<valor id="goboRotating3"><descripcion>Gobo Rotating 3</descripcion><valorDMX>232</valorDMX></valor>
+		<valor id="goboRotating4"><descripcion>Gobo Rotating 4</descripcion><valorDMX>236</valorDMX></valor>		
+		<valor id="goboRotating5"><descripcion>Gobo Rotating 5</descripcion><valorDMX>239</valorDMX></valor>
+	</categoria>
+	
+	<categoria id="scanner.wpro.color">
+		<canal id="scanner3.color"></canal>
+		<canal id="scanner4.color"></canal>
+		<valor id="blanco"><descripcion>Blanco</descripcion><valorDMX>20</valorDMX></valor>
+		<valor id="rosa"><descripcion>Rosado</descripcion><valorDMX>60</valorDMX></valor>
+		<valor id="amarillo"><descripcion>Amarillo</descripcion><valorDMX>100</valorDMX></valor>
+		<valor id="rojo"><descripcion>Rojo</descripcion><valorDMX>140</valorDMX></valor>
+		<valor id="azul"><descripcion>Azul</descripcion><valorDMX>180</valorDMX></valor>
+		<valor id="verde"><descripcion>Verde</descripcion><valorDMX>220</valorDMX></valor>
+	</categoria>
+	
+	<categoria id="crystal1.color">
+		<canal id="crystal1.r"></canal>
+		<canal id="crystal1.g"></canal>
+		<canal id="crystal1.b"></canal>
+		<valor id="on"><descripcion>ON</descripcion><valorDMX>255</valorDMX></valor>
+		<valor id="off"><descripcion>OFF</descripcion><valorDMX>0</valorDMX></valor>
+	</categoria>
+
+	<categoria id="crystal1.rotar">
+		<canal id="crystal1.rotar"></canal>
+		<valor id="on"><descripcion>ON</descripcion><valorDMX>128</valorDMX></valor>
+		<valor id="off"><descripcion>OFF</descripcion><valorDMX>0</valorDMX></valor>
+	</categoria>
+
+	<categoria id="laserIlda1.file">
+		<canal id="laserIlda1.file"></canal>
+		<valor id="a0"><descripcion>Cinta Verde 1</descripcion><valorDMX>0</valorDMX></valor>	
+		<valor id="a1"><descripcion>Laberinto multicolor</descripcion><valorDMX>1</valorDMX></valor>
+		<valor id="a2"><descripcion>Tuerca Verde</descripcion><valorDMX>2</valorDMX></valor>
+		<valor id="a3"><descripcion>Rayos Azules</descripcion><valorDMX>3</valorDMX></valor>
+		<valor id="a4"><descripcion>Cinta Verde 2</descripcion><valorDMX>4</valorDMX></valor>
+		<valor id="a5"><descripcion>Cinta multicolor</descripcion><valorDMX>5</valorDMX></valor>
+		<valor id="a6"><descripcion>Archivo 6</descripcion><valorDMX>6</valorDMX></valor>
+		<valor id="a7"><descripcion>Archivo 7</descripcion><valorDMX>7</valorDMX></valor>
+		<valor id="a8"><descripcion>Archivo 8</descripcion><valorDMX>8</valorDMX></valor>	
+		<valor id="a9"><descripcion>Archivo 9</descripcion><valorDMX>9</valorDMX></valor>	
+		<valor id="a10"><descripcion>Perro con Mariposa</descripcion><valorDMX>10</valorDMX></valor>	
+		<valor id="a11"><descripcion>Dosificador Azul</descripcion><valorDMX>11</valorDMX></valor>
+		<valor id="a12"><descripcion>Linea Horizontal Amarillo</descripcion><valorDMX>12</valorDMX></valor>
+		<valor id="a13"><descripcion>Archivo 13</descripcion><valorDMX>13</valorDMX></valor>
+		<valor id="a14"><descripcion>Anillos danzantes multicolor</descripcion><valorDMX>14</valorDMX></valor>
+		<valor id="a15"><descripcion>Ronda anillos amarillos</descripcion><valorDMX>15</valorDMX></valor>
+		<valor id="a16"><descripcion>Archivo 16</descripcion><valorDMX>16</valorDMX></valor>
+		<valor id="a17"><descripcion>Circulo amarillo en ocho</descripcion><valorDMX>17</valorDMX></valor>
+		<valor id="a18"><descripcion>Archivo 18</descripcion><valorDMX>18</valorDMX></valor>	
+		<valor id="a19"><descripcion>Dos cuadrados amarillos</descripcion><valorDMX>19</valorDMX></valor>	
+		
+		<valor id="a20"><descripcion>Archivo 20</descripcion><valorDMX>20</valorDMX></valor>	
+		<valor id="a21"><descripcion>Archivo 21</descripcion><valorDMX>21</valorDMX></valor>
+		<valor id="a22"><descripcion>Archivo 22</descripcion><valorDMX>22</valorDMX></valor>
+		<valor id="a23"><descripcion>Archivo 23</descripcion><valorDMX>23</valorDMX></valor>
+		<valor id="a24"><descripcion>Archivo 24</descripcion><valorDMX>24</valorDMX></valor>
+		<valor id="a25"><descripcion>Archivo 25</descripcion><valorDMX>25</valorDMX></valor>
+		<valor id="a26"><descripcion>Archivo 26</descripcion><valorDMX>26</valorDMX></valor>
+		<valor id="a27"><descripcion>Archivo 27</descripcion><valorDMX>27</valorDMX></valor>
+		<valor id="a28"><descripcion>Archivo 28</descripcion><valorDMX>28</valorDMX></valor>	
+		<valor id="a29"><descripcion>Archivo 29</descripcion><valorDMX>29</valorDMX></valor>	
+		
+		<valor id="a30"><descripcion>Archivo 30</descripcion><valorDMX>30</valorDMX></valor>	
+		<valor id="a31"><descripcion>Archivo 31</descripcion><valorDMX>31</valorDMX></valor>
+		<valor id="a32"><descripcion>Archivo 32</descripcion><valorDMX>32</valorDMX></valor>
+		<valor id="a33"><descripcion>Archivo 33</descripcion><valorDMX>33</valorDMX></valor>
+		<valor id="a34"><descripcion>Archivo 34</descripcion><valorDMX>34</valorDMX></valor>
+		<valor id="a35"><descripcion>Archivo 35</descripcion><valorDMX>35</valorDMX></valor>
+		<valor id="a36"><descripcion>Archivo 36</descripcion><valorDMX>36</valorDMX></valor>
+		<valor id="a37"><descripcion>Archivo 37</descripcion><valorDMX>37</valorDMX></valor>
+		<valor id="a38"><descripcion>Archivo 38</descripcion><valorDMX>38</valorDMX></valor>	
+		<valor id="a39"><descripcion>Archivo 39</descripcion><valorDMX>39</valorDMX></valor>	
+		
+		<valor id="a40"><descripcion>Archivo 40</descripcion><valorDMX>40</valorDMX></valor>	
+		<valor id="a41"><descripcion>Archivo 41</descripcion><valorDMX>41</valorDMX></valor>
+		<valor id="a42"><descripcion>Archivo 42</descripcion><valorDMX>42</valorDMX></valor>
+		<valor id="a43"><descripcion>Archivo 43</descripcion><valorDMX>43</valorDMX></valor>
+		<valor id="a44"><descripcion>Archivo 44</descripcion><valorDMX>44</valorDMX></valor>
+		<valor id="a45"><descripcion>Archivo 45</descripcion><valorDMX>45</valorDMX></valor>
+		<valor id="a46"><descripcion>Archivo 46</descripcion><valorDMX>46</valorDMX></valor>
+		<valor id="a47"><descripcion>Archivo 47</descripcion><valorDMX>47</valorDMX></valor>
+		<valor id="a48"><descripcion>Archivo 48</descripcion><valorDMX>48</valorDMX></valor>	
+		<valor id="a49"><descripcion>Archivo 49</descripcion><valorDMX>49</valorDMX></valor>	
+		
+		<valor id="a50"><descripcion>Archivo 50</descripcion><valorDMX>50</valorDMX></valor>	
+		<valor id="a51"><descripcion>Archivo 51</descripcion><valorDMX>51</valorDMX></valor>
+		<valor id="a52"><descripcion>Archivo 52</descripcion><valorDMX>52</valorDMX></valor>
+		<valor id="a53"><descripcion>Archivo 53</descripcion><valorDMX>53</valorDMX></valor>
+		<valor id="a54"><descripcion>Archivo 54</descripcion><valorDMX>54</valorDMX></valor>
+		<valor id="a55"><descripcion>Archivo 55</descripcion><valorDMX>55</valorDMX></valor>
+		<valor id="a56"><descripcion>Archivo 56</descripcion><valorDMX>56</valorDMX></valor>
+		<valor id="a57"><descripcion>Archivo 57</descripcion><valorDMX>57</valorDMX></valor>
+		<valor id="a58"><descripcion>Archivo 58</descripcion><valorDMX>58</valorDMX></valor>	
+		<valor id="a59"><descripcion>Archivo 59</descripcion><valorDMX>59</valorDMX></valor>	
+
+		<valor id="a60"><descripcion>Archivo 60</descripcion><valorDMX>60</valorDMX></valor>	
+		
+	</categoria>
+
+	<categoria id="spider1.efecto">
+		<canal id="spider1.efecto1"></canal>
+		<valor id="a0"><descripcion>Apagado</descripcion><valorDMX>0</valorDMX></valor>	
+		<valor id="a1"><descripcion>Efecto 1</descripcion><valorDMX>8</valorDMX></valor>	
+		<valor id="a2"><descripcion>Efecto 2</descripcion><valorDMX>255</valorDMX></valor>
+		<valor id="a3"><descripcion>Efecto 3</descripcion><valorDMX>132</valorDMX></valor>
+		<valor id="a4"><descripcion>Efecto 4</descripcion><valorDMX>223</valorDMX></valor>
+		<valor id="a5"><descripcion>Efecto 5</descripcion><valorDMX>118</valorDMX></valor>
+		<valor id="a6"><descripcion>Efecto 6</descripcion><valorDMX>32</valorDMX></valor>
+	</categoria>
+
+</valores>

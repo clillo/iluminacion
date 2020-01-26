@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Derby Rojo Cristal1 Rojo Cristal2 Rojo</nombre>
+	</generales>
+	<fixtures>
+		<fixture id="derbyrgbw">rotarRojo</fixture>	
+		<fixture id="crystalBall1">rotarRojo</fixture>
+		<fixture id="crystalBall2">rotarRojo</fixture>
+	</fixtures>
+</show>

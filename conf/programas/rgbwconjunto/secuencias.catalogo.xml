@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<nombre>Ningun Programa Seleccionado</nombre>
+		<velocidad>0</velocidad>
+		<porcentajeVelocidad>100</porcentajeVelocidad>
+		<probabilidadGlobal>1</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="1">
+		<nombre>Secuencial Colores Aleatorios</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="2">
+		<nombre>Secuencial Rojo</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="3">
+		<nombre>Secuencial Verde</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="4">
+		<nombre>Secuencial Azul</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="5">
+		<nombre>Secuencial Azul/Rojo/Verde</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="6">
+		<nombre>Extremos ColorRun Igules</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>5</actual>
+			<maximo>30</maximo>
+			<minimo>2</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="7">
+		<nombre>Extremos ColorRun Por Foco</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>5</actual>
+			<maximo>30</maximo>
+			<minimo>2</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="8">
+		<nombre>Centro ColorRun Igules</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>5</actual>
+			<maximo>30</maximo>
+			<minimo>2</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="9">
+		<nombre>Centro ColorRun Por Foco</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>5</actual>
+			<maximo>30</maximo>
+			<minimo>2</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="10">
+		<nombre>Strobo Aleatorio</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>15</actual>
+			<maximo>20</maximo>
+			<minimo>10</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>80</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="11">
+		<nombre>Strobo Todos</nombre>
+		<velocidad>500</velocidad>
+		<porcentajeVelocidad>
+			<actual>15</actual>
+			<maximo>20</maximo>
+			<minimo>10</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>15000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

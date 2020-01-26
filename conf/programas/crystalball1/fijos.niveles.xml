@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0"> <!-- Apagado -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">off</efecto>
+		</paso>
+	</programa>
+
+	<programa id="1"> <!-- Rojo Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">on</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+	<programa id="2"> <!-- Verde Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">on</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+	<programa id="3"> <!-- Azul Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">on</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+	<programa id="4"> <!-- Rojo Estático -->
+		<paso id="1">
+			<efecto id="crystal1.r">on</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">off</efecto>
+		</paso>
+	</programa>
+	<programa id="5"> <!--  Verde Estático -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">on</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">off</efecto>
+		</paso>
+	</programa>
+	<programa id="6"> <!-- Azul Estático -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">on</efecto>
+			<efecto id="crystal1.rotar">off</efecto>
+		</paso>
+	</programa>
+	<programa id="7"> <!--Rojo y Verde Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">on</efecto>
+			<efecto id="crystal1.g">on</efecto>
+			<efecto id="crystal1.b">off</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+	<programa id="8"> <!-- Rojo y Azul Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">on</efecto>
+			<efecto id="crystal1.g">off</efecto>
+			<efecto id="crystal1.b">on</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+	<programa id="9"> <!-- Verde y Azul Rotatorio -->
+		<paso id="1">
+			<efecto id="crystal1.r">off</efecto>
+			<efecto id="crystal1.g">on</efecto>
+			<efecto id="crystal1.b">on</efecto>
+			<efecto id="crystal1.rotar">on</efecto>
+		</paso>
+	</programa>
+</programas>

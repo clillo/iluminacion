@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ventanas>
+<paneles>
+		<panel id="panelFocosPinSpot">
+			<posX>0</posX>
+			<posY>0</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelFocosRGBW">
+			<posX>0</posX>
+			<posY>0</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelScanner">
+			<posX>0</posX>
+			<posY>0</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelCristalBall1">
+			<posX>438</posX>
+			<posY>51</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelCristalBall2">
+			<posX>5</posX>
+			<posY>355</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelDerbyRGB">
+			<posX>21</posX>
+			<posY>341</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelDerbyRGBW2">
+			<posX>16</posX>
+			<posY>36</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelMonitorFixtures">
+			<posX>454</posX>
+			<posY>21</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelEjecutorProgramas">
+			<posX>203</posX>
+			<posY>102</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelConfiguracion">
+			<posX>11</posX>
+			<posY>9</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelEjecucionAutomatica">
+			<posX>14</posX>
+			<posY>41</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelSnifferDMX">
+			<posX>-6</posX>
+			<posY>232</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelControlMovingHeads">
+			<posX>115</posX>
+			<posY>548</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelMovingHead1">
+			<posX>968</posX>
+			<posY>45</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelMovingHead2">
+			<posX>632</posX>
+			<posY>293</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelScanner1">
+			<posX>1062</posX>
+			<posY>34</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelScanner2">
+			<posX>562</posX>
+			<posY>302</posY>
+			<visible>false</visible>
+		</panel>
+		
+		<panel id="panelScanner3">
+			<posX>826</posX>
+			<posY>107</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelScanner4">
+			<posX>190</posX>
+			<posY>16</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelLaserMultiPunto1">
+			<posX>83</posX>
+			<posY>53</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelLaserIlda1">
+			<posX>649</posX>
+			<posY>46</posY>
+			<visible>false</visible>
+		</panel>		
+		
+		<panel id="panelShowEjecuta">
+			<posX>9</posX>
+			<posY>9</posY>
+			<visible>false</visible>
+		</panel>
+
+		<panel id="panelShowAmbientes">
+			<posX>548</posX>
+			<posY>14</posY>
+			<visible>false</visible>
+		</panel>		
+		
+		<panel id="panelFigurasRoboticas">
+			<posX>147</posX>
+			<posY>12</posY>
+			<visible>true</visible>
+		</panel>	
+
+		
+		<panel id="panelSpider1">
+			<posX>319</posX>
+			<posY>69</posY>
+			<visible>false</visible>
+		</panel>		
+	</paneles>
+</ventanas>

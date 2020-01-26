@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Normal</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="2">
+		<nombre>Pan Lento Der -> Izq</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	
+	<programa id="3">
+		<nombre>Pan Medio Der -> Izq</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="4">
+		<nombre>Pan Rápido Der -> Izq</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="5">
+		<nombre>Pan Lento Izq ->  Der</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="6">
+		<nombre>Pan Medio Izq ->  Der</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="7">
+		<nombre>Pan Rápido Izq ->  Der</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="8">
+		<nombre>Tilt Lento Arriba -> Abajo</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="9">
+		<nombre>Tilt Medio Arriba -> Abajo</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+		
+	<programa id="10">
+		<nombre>Tilt Rápido Arriba -> Abajo</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="11">
+		<nombre>Tilt Lento Abajo -> Arriba</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="12">
+		<nombre>Tilt Medio Abajo -> Arriba</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="13">
+		<nombre>Tilt Rápido Abajo -> Arriba</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="14">
+		<nombre>Rotar lento</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="15">
+		<nombre>Rotar medio</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="16">
+		<nombre>Rotar rápido</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="17">
+		<nombre>Deforma</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="18">
+		<nombre>Puntos</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="19">
+		<nombre>Rayas</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="20">
+		<nombre>Sólo puntos</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="21">
+		<nombre>Genera Figuras (animación)</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+</programas>
+

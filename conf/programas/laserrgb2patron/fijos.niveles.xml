@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0"> <!-- Apagado -->
+		<paso id="1">
+			<rele><apagar>CanalA</apagar></rele>
+			<canal id="laserrgb2.modo">0</canal>
+			<canal id="laserrgb2.patron">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="1"> <!-- Circulo pequeño -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.color">0</canal>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">2</canal>
+		</paso>
+	</programa>
+	
+	<programa id="2"> <!-- Circulo grande -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">4</canal>
+		</paso>
+	</programa>
+		
+	<programa id="3"> <!-- Tres circulos -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">6</canal>
+		</paso>
+	</programa>
+	
+	<programa id="4"> <!-- Medio circulo -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">26</canal>
+		</paso>
+	</programa>
+	
+	<programa id="5"> <!-- Circulo 4 colores-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">30</canal>
+		</paso>
+	</programa>
+	
+	<programa id="6"> <!-- Linea Horizontal-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">32</canal>
+		</paso>
+	</programa>
+	
+	<programa id="7"> <!-- 2 Lineas Horizontales-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">38</canal>
+		</paso>
+	</programa>
+	
+	<programa id="8"> <!-- Linea Vertical-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">40</canal>
+		</paso>
+	</programa>
+	
+	<programa id="9"> <!-- 2 Lineas Verticales-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">42</canal>
+		</paso>
+	</programa>
+	
+	<programa id="10"> <!-- Zig zag-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">54</canal>
+		</paso>
+	</programa>
+	
+	<programa id="11"> <!-- Onda-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">60</canal>
+		</paso>
+	</programa>
+		
+	<programa id="12"> <!-- Caracola-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">68</canal>
+		</paso>
+	</programa>
+	
+	<programa id="13"> <!-- Corazón-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">80</canal>
+		</paso>
+	</programa>
+	
+	<programa id="14"> <!-- Cuadrado pequeño-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">82</canal>
+		</paso>
+	</programa>
+	
+	<programa id="15"> <!-- S-->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">86</canal>
+		</paso>
+	</programa>
+	
+	<programa id="16"> <!-- Octaedro -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">92</canal>
+		</paso>
+	</programa>
+	
+	<programa id="17"> <!-- Pentágono -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">94</canal>
+		</paso>
+	</programa>
+	
+	<programa id="18"> <!-- Triángulo -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">96</canal>
+		</paso>
+	</programa>
+	
+	<programa id="19"> <!-- Cuadrado Grande -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">100</canal>
+		</paso>
+	</programa>
+	
+	<programa id="20"> <!-- Estrella -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">112</canal>
+		</paso>
+	</programa>
+	
+	<programa id="21"> <!-- Sol -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">122</canal>
+		</paso>
+	</programa>
+	
+	<programa id="22"> <!-- Puntos -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">140</canal>
+		</paso>
+	</programa>
+	
+	<programa id="23"> <!-- Like -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">164</canal>
+		</paso>
+	</programa>
+	
+	<programa id="24"> <!-- Hola -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">168</canal>
+		</paso>
+	</programa>
+	
+	<programa id="25"> <!-- Manzana -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">174</canal>
+		</paso>
+	</programa>
+	
+	<programa id="26"> <!-- Nota Musical -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">176</canal>
+		</paso>
+	</programa>
+	
+	<programa id="27"> <!-- Cangrejo -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">200</canal>
+		</paso>
+	</programa>
+	
+	<programa id="28"> <!-- Araña -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">200</canal>
+		</paso>
+	</programa>
+	
+	<programa id="29"> <!-- Caballo -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">210</canal>
+		</paso>
+	</programa>
+	
+	<programa id="30"> <!-- Dinosaurio -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">212</canal>
+		</paso>
+	</programa>
+	
+	<programa id="31"> <!-- Bailando -->
+		<paso id="1">
+			<rele><encender>CanalA</encender></rele>
+			<canal id="laserrgb2.modo">255</canal>
+			<canal id="laserrgb2.patron">224</canal>
+		</paso>
+	</programa>
+</programas>

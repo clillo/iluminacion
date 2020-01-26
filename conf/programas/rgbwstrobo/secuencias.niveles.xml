@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<paso id="1">
+			<canal id="rgbw1.strobo">0</canal>
+			<canal id="rgbw2.strobo">0</canal>
+			<canal id="rgbw3.strobo">0</canal>
+			<canal id="rgbw4.strobo">0</canal>
+		</paso>
+	</programa>
+
+	<programa id="2">
+		<paso id="1">
+			<canal id="rgbw1.strobo">16</canal>
+			<canal id="rgbw2.strobo">16</canal>
+			<canal id="rgbw3.strobo">16</canal>
+			<canal id="rgbw4.strobo">16</canal>
+		</paso>
+	</programa>
+
+	<programa id="3">
+		<paso id="1">
+			<canal id="rgbw1.strobo">60</canal>
+			<canal id="rgbw2.strobo">60</canal>
+			<canal id="rgbw3.strobo">60</canal>
+			<canal id="rgbw4.strobo">60</canal>
+		</paso>
+	</programa>
+
+	<programa id="4">
+		<paso id="1">
+			<canal id="rgbw1.strobo">120</canal>
+			<canal id="rgbw2.strobo">120</canal>
+			<canal id="rgbw3.strobo">120</canal>
+			<canal id="rgbw4.strobo">120</canal>
+		</paso>
+	</programa>
+
+	<programa id="5">
+		<paso id="1">
+			<canal id="rgbw1.strobo">160</canal>
+			<canal id="rgbw2.strobo">160</canal>
+			<canal id="rgbw3.strobo">160</canal>
+			<canal id="rgbw4.strobo">160</canal>
+		</paso>
+	</programa>
+
+	<programa id="6">
+		<paso id="1">
+			<canal id="rgbw1.strobo">200</canal>
+			<canal id="rgbw2.strobo">200</canal>
+			<canal id="rgbw3.strobo">200</canal>
+			<canal id="rgbw4.strobo">200</canal>
+		</paso>
+	</programa>
+
+	<programa id="7">
+		<paso id="1">
+			<canal id="rgbw1.strobo">255</canal>
+			<canal id="rgbw2.strobo">255</canal>
+			<canal id="rgbw3.strobo">255</canal>
+			<canal id="rgbw4.strobo">255</canal>
+		</paso>
+	</programa>
+
+</programas>

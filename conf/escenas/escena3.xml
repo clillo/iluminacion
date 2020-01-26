@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<escena>
+	<configuracion>
+		<nombre>Can can Roboticas 1</nombre>
+		<minimo>1</minimo>
+		<maximo>120</maximo>
+		<velocidad>5000</velocidad>
+		<factor>30</factor>
+	</configuracion>
+	<canales>
+		<robotica id="1">movingHead1</robotica>
+		<robotica id="2">movingHead2</robotica>
+		<robotica id="3">scanner1</robotica>
+		<robotica id="4">scanner2</robotica>
+		<robotica id="5">scanner3</robotica>
+		<robotica id="6">scanner4</robotica>
+	</canales>
+	<pasos>
+		<paso id="1">
+			<punto id="1">LC</punto>
+			<punto id="2">LC</punto>
+			<punto id="3">LC</punto>
+			<punto id="4">LC</punto>
+			<punto id="5">LC</punto>
+			<punto id="6">LC</punto>
+		</paso>
+		<paso id="2">
+			<punto id="1">LX</punto>
+			<punto id="2">LX</punto>
+			<punto id="3">LX</punto>
+			<punto id="4">LX</punto>
+			<punto id="5">LX</punto>
+			<punto id="6">LX</punto>
+		</paso>
+	</pasos>
+</escena>

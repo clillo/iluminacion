@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Punto Fijo 1</nombre>
+		<velocidad>0</velocidad>
+		<velocidadMovimiento>40</velocidadMovimiento>
+		<velocidadMaximaPorcentaje>20</velocidadMaximaPorcentaje>
+		<velocidadMinimaPorcentaje>300</velocidadMinimaPorcentaje>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>40</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>0</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>10000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

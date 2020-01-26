@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Encendido Abierto</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="2">
+		<nombre>Rotando Figura 1 con Prisma</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="3">
+		<nombre>Rotando Figura 2 con Prisma</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="4">
+		<nombre>Rotando Figura 1</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="5">
+		<nombre>Rotando Figura 2</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="6">
+		<nombre>Figura Aleatoria</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>30</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

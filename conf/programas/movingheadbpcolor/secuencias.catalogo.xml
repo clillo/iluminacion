@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Blanco</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>155</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="2">
+		<nombre>Color 1</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>34</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="3">
+		<nombre>Color 2</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="4">
+		<nombre>Color 3</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="5">
+		<nombre>Color 4</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="6">
+		<nombre>Color 5</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="7">
+		<nombre>Color 6</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="8">
+		<nombre>Color 7</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="9">
+		<nombre>Color 8</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="10">
+		<nombre>Color 9</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="11">
+		<nombre>Color Rotating Lento</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="12">
+		<nombre>Color Rotating Rapido</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="13">
+		<nombre>Secuencia Color</nombre>
+		<velocidad>1500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="14">
+		<nombre>Color Aleatorio</nombre>
+		<velocidad>1500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

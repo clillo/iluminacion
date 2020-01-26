@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Encendido Abierto</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="2">
+		<nombre>Figura 1</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="3">
+		<nombre>Figura 2</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="4">
+		<nombre>Figura 3</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="5">
+		<nombre>Figura 4</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="6">
+		<nombre>Figura 5</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="7">
+		<nombre>Figura 6</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="8">
+		<nombre>Figura 7</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="9">
+		<nombre>Figura 8</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="10">
+		<nombre>Figura 9</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="11">
+		<nombre>Figura 10</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="12">
+		<nombre>Figura 11</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="13">
+		<nombre>Figura 12</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+</programas>

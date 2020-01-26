@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tiempos>
+<cambiosAutomaticos>
+		<reloj id="rgbwcolor">
+			<tiempo>22105</tiempo>
+		</reloj>
+		<reloj id="rgbwdimmer">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="pinspotcolor">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="pinspotdimmer">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="movingheadposicion">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="movingheadcolor">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="movingheaddimmer">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="movingheadgobos">
+			<tiempo>9474</tiempo>
+		</reloj>
+		<reloj id="movingheadbdposicion">
+			<tiempo>10000</tiempo>
+		</reloj>
+		<reloj id="scannerposicion">
+			<tiempo>10000</tiempo>
+		</reloj>
+			<reloj id="scannercolor">
+			<tiempo>15789</tiempo>
+		</reloj>
+		<reloj id="scannergobos">
+			<tiempo>10000</tiempo>
+		</reloj>
+		<reloj id="crystalball1">
+			<tiempo>10000</tiempo>
+		</reloj>	
+		<reloj id="laserverde">
+			<tiempo>10000</tiempo>
+		</reloj>
+		<reloj id="maquinahumo">
+			<tiempo>10000</tiempo>
+		</reloj>
+	</cambiosAutomaticos>
+</tiempos>

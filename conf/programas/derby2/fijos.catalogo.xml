@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Apagado</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>2</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="2">
+		<nombre>Strobo Blanco Estático</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>100</maximo>
+			<minimo>50</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="3">
+		<nombre>Strobo RGBW Estático</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>100</maximo>
+			<minimo>50</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="4">
+		<nombre>Strobo Blanco Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>100</maximo>
+			<minimo>50</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="5">
+		<nombre>Strobo RGBW Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>100</maximo>
+			<minimo>50</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="6">
+		<nombre>Rojo Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="7">
+		<nombre>Verde Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="8">
+		<nombre>Azul Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="9">
+		<nombre>Blanco Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="10">
+		<nombre>Rojo - Azul Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="11">
+		<nombre>Azul - Verde Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="12">
+		<nombre>Verde - Rojo Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="13">
+		<nombre>RGBW Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>30</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="14">
+		<nombre>Rojo Verde Rotatorio Inverso</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>30</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="15">
+		<nombre>Rojo Verde Rotatorio Inverso 2</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>30</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="16">
+		<nombre>Aleatorio Rotatorio</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>120</maximo>
+			<minimo>30</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>60</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>30000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="17">
+		<nombre>Aleatorio Rotatorio 2</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>120</maximo>
+			<minimo>30</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>60</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>30000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="18">
+		<nombre>Aleatorio Rotatorio 3</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>120</maximo>
+			<minimo>30</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>60</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>30000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="19">
+		<nombre>Aleatorio Rotatorio 4</nombre>
+		<velocidad>2000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>60</actual>
+			<maximo>120</maximo>
+			<minimo>30</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>60</probabilidadGlobal>
+		<tiempoEncendidoMedia>30000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>30000</tiempoEncendidoDevSta>
+	</programa>
+</programas>

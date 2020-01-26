@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1"> <!--Encendido Abierto -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">solido</efecto>
+			<efecto id="scanner2.gobo">solido</efecto>
+		</paso>
+	</programa>
+	<programa id="2"> <!-- Figura 1 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo1</efecto>
+			<efecto id="scanner2.gobo">gobo1</efecto>
+		</paso>
+	</programa>
+	<programa id="3"> <!-- Figura 2 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo2</efecto>
+			<efecto id="scanner2.gobo">gobo2</efecto>
+		</paso>
+	</programa>
+	<programa id="4"> <!-- Figura 3 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo3</efecto>
+			<efecto id="scanner2.gobo">gobo3</efecto>
+		</paso>
+	</programa>
+	<programa id="5"> <!-- Figura 4 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo4</efecto>
+			<efecto id="scanner2.gobo">gobo4</efecto>
+		</paso>
+	</programa>
+
+	<programa id="6"> <!-- Figura 5 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo5</efecto>
+			<efecto id="scanner2.gobo">gobo5</efecto>
+		</paso>
+	</programa>
+	<programa id="7"> <!-- Figura 6 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo6</efecto>
+			<efecto id="scanner2.gobo">gobo6</efecto>
+		</paso>
+	</programa>
+	<programa id="8"> <!-- Figura 7 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo7</efecto>
+			<efecto id="scanner2.gobo">gobo7</efecto>
+		</paso>
+	</programa>
+	<programa id="9"> <!-- Figura 8 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo8</efecto>
+			<efecto id="scanner2.gobo">gobo8</efecto>
+		</paso>
+	</programa>
+	<programa id="10"> <!-- Figura 9 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo9</efecto>
+			<efecto id="scanner2.gobo">gobo9</efecto>
+		</paso>
+	</programa>
+	<programa id="11"> <!-- Figura 10 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo10</efecto>
+			<efecto id="scanner2.gobo">gobo10</efecto>
+		</paso>
+	</programa>
+	<programa id="12"> <!-- Figura 11 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo11</efecto>
+			<efecto id="scanner2.gobo">gobo11</efecto>
+		</paso>
+	</programa>
+	<programa id="13"> <!-- Figura 12 -->
+		<paso id="1">
+			<efecto id="scanner1.gobo">gobo12</efecto>
+			<efecto id="scanner2.gobo">gobo12</efecto>
+		</paso>
+	</programa>
+</programas>

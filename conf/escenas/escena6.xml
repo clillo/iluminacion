@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<escena>
+	<configuracion>
+		<nombre>Bola Disco Estatico</nombre>
+		<minimo>1</minimo>
+		<maximo>120</maximo>
+		<velocidad>5000</velocidad>
+		<factor>30</factor>
+	</configuracion>
+	<canales>
+		<robotica id="1">movingHead1</robotica>
+		<robotica id="2">movingHead2</robotica>
+		<robotica id="3">scanner1</robotica>
+		<robotica id="4">scanner2</robotica>
+		<robotica id="5">scanner3</robotica>
+		<robotica id="6">scanner4</robotica>
+	</canales>
+	<pasos>
+		<paso id="1">
+			<punto id="1">BD</punto>
+			<punto id="2">BD</punto>
+			<punto id="3">BD</punto>
+			<punto id="4">BD</punto>
+			<punto id="5">BD</punto>
+			<punto id="6">BD</punto>
+		</paso>
+	</pasos>
+</escena>

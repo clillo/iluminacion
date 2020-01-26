@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<nombre>Todos Encendidos</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="2">
+		<nombre>Secuencia Simple</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="3">
+		<nombre>Secuencial Inverso</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="4">
+		<nombre>Secuencial Doble</nombre>
+		<velocidad>500</velocidad>
+		<velocidadMovimiento>100</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>300</maximo>
+			<minimo>20</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>50</probabilidadGlobal>
+		<tiempoEncendidoMedia>60000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>15000</tiempoEncendidoDevSta>
+	</programa>
+
+</programas>

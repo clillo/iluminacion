@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1"> <!-- Apagado -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+	</programa>
+	<programa id="2"> <!-- Strobo Blanco Estático-->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+			
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+
+		</paso>
+		<paso id="2">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+
+	</programa>
+	<programa id="3"> <!-- Strobo RGBW Estático-->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+
+		</paso>
+		<paso id="2">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+
+		<paso id="3">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+
+		<paso id="4">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="5">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="6">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		
+		<paso id="7">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="8">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="9">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		
+		<paso id="10">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="11">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>			
+		</paso>
+		<paso id="12">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">0</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">0</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+	</programa>
+		
+	<programa id="4"> <!-- Strobo Blanco Rotatorio-->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="2">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+
+	</programa>
+	<programa id="5"> <!-- Strobo RGBW Rotatorio-->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>			
+		</paso>
+		<paso id="2">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+			
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>			
+		</paso>
+
+		<paso id="4">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+		</paso>
+		<paso id="5">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+		
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		<paso id="6">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		
+		<paso id="7">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="8">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+
+		</paso>
+		<paso id="9">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+		
+		<paso id="10">
+			<canal id="derbyrgbw1.strobo">100</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">100</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="11">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+
+		</paso>
+		<paso id="12">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">0</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">0</canal>
+		</paso>
+	</programa>
+	
+	<programa id="6"> <!-- Rojo Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="7"> <!-- Verde Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="8"> <!-- Azul Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="9"> <!-- Blanco Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="10"> <!-- Rojo - Azul Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="11"> <!-- Azul - Verde Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="12"> <!-- Verde - Rojo Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="13"> <!-- RGBW Rotatorio -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">255</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="2">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">255</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="3">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">255</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">255</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		<paso id="4">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">0</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">255</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">0</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">255</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="14"> <!-- Verde - Rojo Rotatorio inverso -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">128</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">192</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="15"> <!-- Verde - Rojo Rotatorio inverso -->
+		<paso id="1">
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r">0</canal>
+			<canal id="derbyrgbw1.g">255</canal>
+			<canal id="derbyrgbw1.b">0</canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion">192</canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r">255</canal>
+			<canal id="derbyrgbw2.g">0</canal>
+			<canal id="derbyrgbw2.b">0</canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion">128</canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="16"> <!-- Aleatorio Rotatorio -->
+		<paso id="1">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		
+		<paso id="2">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+
+	<programa id="17"> <!-- Aleatorio Rotatorio 2-->
+		<paso id="1">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="rojo2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="verde2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="azul2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+			<aleatorio id="rotar2">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo2"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde2"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul2"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar2"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+
+		<paso id="2">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="rojo2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="verde2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="azul2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+			<aleatorio id="rotar2">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo2"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde2"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul2"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar2"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+
+	</programa>
+	
+	<programa id="18"> <!-- Aleatorio Rotatorio 3 -->
+		<paso id="1">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+			<aleatorio id="rotar2">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar2"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+		
+		<paso id="2">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+			<aleatorio id="rotar2">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar2"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+	</programa>
+	
+	<programa id="19"> <!-- Aleatorio Rotatorio 4-->
+		<paso id="1">
+			<aleatorio id="rojo1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="verde1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="azul1">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+		
+			<aleatorio id="rotar1">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+						
+			<canal id="derbyrgbw1.strobo">0</canal>
+			<canal id="derbyrgbw1.auto">0</canal>
+			<canal id="derbyrgbw1.r"><aleatorio id="rojo1"></aleatorio></canal>
+			<canal id="derbyrgbw1.g"><aleatorio id="verde1"></aleatorio></canal>
+			<canal id="derbyrgbw1.b"><aleatorio id="azul1"></aleatorio></canal>
+			<canal id="derbyrgbw1.w">0</canal>
+			<canal id="derbyrgbw1.rotacion"><aleatorio id="rotar1"></aleatorio></canal>
+			<canal id="derbyrgbw1.dimmer">255</canal>
+		</paso>
+
+		<paso id="2">
+			<aleatorio id="rojo2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="verde2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+			<aleatorio id="azul2">
+				<valor>0</valor>
+				<valor>255</valor>
+			</aleatorio>
+	
+			<aleatorio id="rotar2">
+				<valor>128</valor>
+				<valor>192</valor>
+				<valor>150</valor>
+				<valor>160</valor>
+				<valor>170</valor>
+				<valor>180</valor>
+				<valor>190</valor>
+				<valor>200</valor>
+				<valor>210</valor>
+				<valor>220</valor>
+			</aleatorio>
+
+			<canal id="derbyrgbw2.strobo">0</canal>
+			<canal id="derbyrgbw2.auto">0</canal>
+			<canal id="derbyrgbw2.r"><aleatorio id="rojo2"></aleatorio></canal>
+			<canal id="derbyrgbw2.g"><aleatorio id="verde2"></aleatorio></canal>
+			<canal id="derbyrgbw2.b"><aleatorio id="azul2"></aleatorio></canal>
+			<canal id="derbyrgbw2.w">0</canal>
+			<canal id="derbyrgbw2.rotacion"><aleatorio id="rotar2"></aleatorio></canal>
+			<canal id="derbyrgbw2.dimmer">255</canal>
+		</paso>
+
+	</programa>
+</programas>

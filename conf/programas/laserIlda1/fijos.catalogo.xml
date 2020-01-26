@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<nombre>Apagado</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>1</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="1">
+		<nombre>Archivo 0</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>40</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="2">
+		<nombre>Archivo 1</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="3">
+		<nombre>Archivo 2</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="4">
+		<nombre>Archivo 3</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="5">
+		<nombre>Archivo 4</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="6">
+		<nombre>Archivo 5</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="7">
+		<nombre>Archivo 6</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="8">
+		<nombre>Archivo 7</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="9">
+		<nombre>Archivo 8</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="10">
+		<nombre>Archivo 9</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="11">
+		<nombre>Archivo 10</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="12">
+		<nombre>Archivo 11</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="13">
+		<nombre>Archivo 12</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="14">
+		<nombre>Archivo 13</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="15">
+		<nombre>Archivo 14</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="16">
+		<nombre>Archivo 15</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="17">
+		<nombre>Archivo 16</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="18">
+		<nombre>Archivo 17</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="19">
+		<nombre>Archivo 18</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="20">
+		<nombre>Archivo 19</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+		<programa id="21"><nombre>Archivo 20</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="22"><nombre>Archivo 21</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="23"><nombre>Archivo 22</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="24"><nombre>Archivo 23</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="25"><nombre>Archivo 24</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="26"><nombre>Archivo 25</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="27"><nombre>Archivo 26</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="28"><nombre>Archivo 27</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="29"><nombre>Archivo 28</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="30"><nombre>Archivo 29</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="31"><nombre>Archivo 30</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="32"><nombre>Archivo 31</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="33"><nombre>Archivo 32</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="34"><nombre>Archivo 33</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="35"><nombre>Archivo 34</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="36"><nombre>Archivo 35</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="37"><nombre>Archivo 36</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="38"><nombre>Archivo 37</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="39"><nombre>Archivo 38</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="40"><nombre>Archivo 39</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="41"><nombre>Archivo 40</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="42"><nombre>Archivo 41</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="43"><nombre>Archivo 42</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="44"><nombre>Archivo 43</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="45"><nombre>Archivo 44</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="46"><nombre>Archivo 45</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="47"><nombre>Archivo 46</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="48"><nombre>Archivo 47</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="49"><nombre>Archivo 48</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="50"><nombre>Archivo 49</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="51"><nombre>Archivo 50</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="52"><nombre>Archivo 51</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="53"><nombre>Archivo 52</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="54"><nombre>Archivo 53</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="55"><nombre>Archivo 54</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="56"><nombre>Archivo 55</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="57"><nombre>Archivo 56</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="58"><nombre>Archivo 57</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="59"><nombre>Archivo 58</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="60"><nombre>Archivo 59</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="61"><nombre>Archivo 60</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	
+	<programa id="62">
+		<nombre>Archivo 0 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>40</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="63">
+		<nombre>Archivo 1 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="64">
+		<nombre>Archivo 2 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="65">
+		<nombre>Archivo 3 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="66">
+		<nombre>Archivo 4 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="67">
+		<nombre>Archivo 5 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="68">
+		<nombre>Archivo 6 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="69">
+		<nombre>Archivo 7 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="70">
+		<nombre>Archivo 8 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="71">
+		<nombre>Archivo 9 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="72">
+		<nombre>Archivo 10 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	
+	<programa id="73">
+		<nombre>Archivo 11 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="74">
+		<nombre>Archivo 12 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>20</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="75">
+		<nombre>Archivo 13 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="76">
+		<nombre>Archivo 14 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="77">
+		<nombre>Archivo 15 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="78">
+		<nombre>Archivo 16 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="79">
+		<nombre>Archivo 17 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+	<programa id="80">
+		<nombre>Archivo 18 (audio)</nombre>
+		<velocidad>1000</velocidad>
+		<velocidadMovimiento>0</velocidadMovimiento>
+		<porcentajeVelocidad>
+			<actual>100</actual>
+			<maximo>0</maximo>
+			<minimo>0</minimo>
+		</porcentajeVelocidad>
+		<probabilidadGlobal>10</probabilidadGlobal>
+		<tiempoEncendidoMedia>10000</tiempoEncendidoMedia>
+		<tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta>
+	</programa>
+
+	<programa id="81"><nombre>Archivo 19 (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="82"><nombre>Archivo 20 (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="83"><nombre>Archivo 21 (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="84"><nombre>Archivo 22  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="85"><nombre>Archivo 23  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="86"><nombre>Archivo 24  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="87"><nombre>Archivo 25  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="88"><nombre>Archivo 26  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="89"><nombre>Archivo 27  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="90"><nombre>Archivo 28  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="91"><nombre>Archivo 29  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="92"><nombre>Archivo 30  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="93"><nombre>Archivo 31  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="94"><nombre>Archivo 32  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="95"><nombre>Archivo 33  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="96"><nombre>Archivo 34  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="97"><nombre>Archivo 35  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="98"><nombre>Archivo 36  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="99"><nombre>Archivo 37  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="100"><nombre>Archivo 38  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="101"><nombre>Archivo 39  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="102"><nombre>Archivo 40  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="103"><nombre>Archivo 41  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="104"><nombre>Archivo 42  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="105"><nombre>Archivo 43  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="106"><nombre>Archivo 44  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="107"><nombre>Archivo 45  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="108"><nombre>Archivo 46  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="109"><nombre>Archivo 47  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="110"><nombre>Archivo 48  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="111"><nombre>Archivo 49  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="112"><nombre>Archivo 50  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="113"><nombre>Archivo 51  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="114"><nombre>Archivo 52  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="115"><nombre>Archivo 53  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="116"><nombre>Archivo 54  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="117"><nombre>Archivo 55  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="118"><nombre>Archivo 56  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="119"><nombre>Archivo 57  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="120"><nombre>Archivo 58  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+	<programa id="121"><nombre>Archivo 59  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+	<programa id="122"><nombre>Archivo 60  (audio)</nombre><velocidad>1000</velocidad><velocidadMovimiento>0</velocidadMovimiento><porcentajeVelocidad><actual>100</actual><maximo>0</maximo><minimo>0</minimo></porcentajeVelocidad><probabilidadGlobal>10</probabilidadGlobal><tiempoEncendidoMedia>10000</tiempoEncendidoMedia><tiempoEncendidoDevSta>5000</tiempoEncendidoDevSta></programa>
+
+</programas>

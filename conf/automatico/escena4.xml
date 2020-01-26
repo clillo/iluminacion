@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Sólo Laser</nombre>
+		<tiempoMaximo>60000</tiempoMaximo>
+		<tiempoMinimo>10000</tiempoMinimo>
+		<probabilidad>5</probabilidad>
+	</generales>
+	<fixtures>
+		<fixture>laser2</fixture>
+		<fixture>laserIguales</fixture>
+	</fixtures>
+</show>

@@ -1,0 +1,34 @@
+package com.clillo.dmx.programas.conversorCanal;
+
+import com.clillo.dmx.configuracion.GeneralesCfg;
+
+public class ConversorCanalDimmerPinSpot extends ConversorCanal{
+
+	private static final int minimo=0;
+	private static final int maximo=127;
+	
+	private static double factorDimmer=1;
+	
+	static{
+		GeneralesCfg.carga();
+	}
+	
+	@Override
+	public int getValorCanal(int valor) {
+	//	int maximoNivel = maximo - minimo;
+	 //	return ( (int)(valor * factorDimmer) * maximoNivel)/100 + minimo;
+		if (valor==0)
+			return 0;
+		
+		return 255;
+	}
+
+	public static double getFactorDimmer() {
+		return factorDimmer;
+	}
+
+	public static void setFactorDimmer(double factorDimmer) {
+		ConversorCanalDimmerPinSpot.factorDimmer = factorDimmer;
+	}
+
+}

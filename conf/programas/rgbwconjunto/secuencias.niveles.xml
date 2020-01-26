@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="0">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>ninguno</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.0</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="1">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.1</id></programa>
+			<programa>
+				<tipo>rgbwdimmer</tipo>
+				<random>primerPaso</random>
+				<id>secuencias.1</id>
+				<id>secuencias.2</id>
+			</programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="2">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.3</id></programa>
+			<programa>
+				<tipo>rgbwdimmer</tipo>
+				<random>primerPaso</random>
+				<id>secuencias.1</id>
+				<id>secuencias.2</id>
+			</programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="3">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.4</id></programa>
+			<programa>
+				<tipo>rgbwdimmer</tipo>
+				<random>primerPaso</random>
+				<id>secuencias.1</id>
+				<id>secuencias.2</id>
+			</programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="4">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.5</id></programa>
+			<programa>
+				<tipo>rgbwdimmer</tipo>
+				<random>primerPaso</random>
+				<id>secuencias.1</id>
+				<id>secuencias.2</id>
+			</programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="5">
+		<paso id="1">
+			<programa>
+				<tipo>rgbwcolor</tipo>
+				<random>pasoAPaso</random>
+				<id>secuencias.3</id>
+				<id>secuencias.4</id>
+				<id>secuencias.5</id>
+				<id>secuencias.6</id>
+				<id>secuencias.7</id>
+				<id>secuencias.8</id>
+				<id>secuencias.9</id>
+				<id>secuencias.10</id>
+			</programa>
+			<programa>
+				<tipo>rgbwdimmer</tipo>
+				<random>primerPaso</random>
+				<id>secuencias.1</id>
+				<id>secuencias.2</id>
+			</programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="6">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>colorRun.1</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.4</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+
+	<programa id="7">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>colorRun.2</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.4</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+
+	<programa id="8">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>colorRun.1</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.5</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="9">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>colorRun.2</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.5</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.1</id></programa>
+		</paso>
+	</programa>
+	
+	<programa id="10">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.10</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.10</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.3</id></programa>
+		</paso>
+	</programa>
+
+	<programa id="11">
+		<paso id="1">
+			<programa><tipo>rgbwcolor</tipo><id>secuencias.10</id></programa>
+			<programa><tipo>rgbwdimmer</tipo><id>secuencias.11</id></programa>
+			<programa><tipo>rgbwstrobo</tipo><id>secuencias.6</id></programa>
+		</paso>
+	</programa>
+</programas>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Derby Strobo Blanco Lento</nombre>
+	</generales>
+	<apagar>
+		<canal id="derbyrgbw.strobo">0</canal>
+		<canal id="derbyrgbw.auto">0</canal>
+		<canal id="derbyrgbw.r">0</canal>
+		<canal id="derbyrgbw.g">0</canal>
+		<canal id="derbyrgbw.b">0</canal>
+		<canal id="derbyrgbw.w">0</canal>
+		<canal id="derbyrgbw.rotacion">0</canal>
+	</apagar>
+	<pasos>
+		<paso>
+			<tiempo>3000</tiempo>
+			<canales>
+				<canal id="derbyrgbw.strobo">100</canal>
+				<canal id="derbyrgbw.auto">0</canal>
+				<canal id="derbyrgbw.r">0</canal>
+				<canal id="derbyrgbw.g">0</canal>
+				<canal id="derbyrgbw.b">0</canal>
+				<canal id="derbyrgbw.w">255</canal>
+				<canal id="derbyrgbw.rotacion">0</canal>
+			</canales>
+		</paso>	
+		<paso>
+			<tiempo>1000</tiempo>
+			<canales>
+				<canal id="derbyrgbw.strobo">0</canal>
+				<canal id="derbyrgbw.auto">0</canal>
+				<canal id="derbyrgbw.r">0</canal>
+				<canal id="derbyrgbw.g">0</canal>
+				<canal id="derbyrgbw.b">0</canal>
+				<canal id="derbyrgbw.w">0</canal>
+				<canal id="derbyrgbw.rotacion">0</canal>
+			</canales>
+		</paso>	
+	</pasos>
+</show>

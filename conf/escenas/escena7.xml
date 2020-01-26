@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<escena>
+	<configuracion>
+		<nombre>Bola Disco Rota Color Moving Heads</nombre>
+		<minimo>1</minimo>
+		<maximo>120</maximo>
+		<velocidad>5000</velocidad>
+		<factor>30</factor>
+	</configuracion>
+	<canales>
+		<robotica id="1">movingHead1</robotica>
+		<robotica id="2">movingHead2</robotica>
+		<canal id="3">movingHead1.dim</canal>
+		<canal id="4">movingHead2.dim</canal>
+		<canal id="5">movingHead1.color</canal>
+		<canal id="6">movingHead2.color</canal>
+	</canales>
+	<pasos>
+		<paso id="1">
+			<punto id="1">BD</punto>
+			<punto id="2">BD</punto>
+			<canal id="3">on</canal>
+			<canal id="4">on</canal>
+			<canal id="5">rotandoLento</canal>
+			<canal id="6">rotandoLento</canal>
+		</paso>
+	</pasos>
+</escena>

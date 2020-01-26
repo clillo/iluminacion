@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<show>
+	<generales>
+		<nombre>Ball + Bola + </nombre>
+		<tiempoMaximo>60000</tiempoMaximo>
+		<tiempoMinimo>10000</tiempoMinimo>
+		<probabilidad>60</probabilidad>
+	</generales>
+	<fixtures>
+		<fixture>scanners</fixture>
+		<fixture>rgbw</fixture>
+		<fixture>pinspot</fixture>
+		<fixture>crystalBall</fixture>
+	</fixtures>
+</show>

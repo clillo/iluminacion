@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fixtures>
+	<fixture id="rgbw1">
+		<tipo>RGBW</tipo>
+		<nombre>RGBW 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>400</canalInicial>
+			<numeroCanales>7</numeroCanales>
+			<sniffer>
+				<colorR>204</colorR>
+				<colorG>204</colorG>
+				<colorB>204</colorB>
+			</sniffer>
+			<canales>
+				<canal id="rgbw1.dim">0</canal>
+				<canal id="rgbw1.r">1</canal>
+				<canal id="rgbw1.g">2</canal>
+				<canal id="rgbw1.b">3</canal>
+				<canal id="rgbw1.w">4</canal>
+				<canal id="rgbw1.strobo">5</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="rgbw2">
+		<tipo>RGBW</tipo>
+		<nombre>RGBW 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>410</canalInicial>
+			<numeroCanales>7</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>204</colorG>
+				<colorB>153</colorB>
+			</sniffer>
+			<canales>
+				<canal id="rgbw2.dim">0</canal>
+				<canal id="rgbw2.r">1</canal>
+				<canal id="rgbw2.g">2</canal>
+				<canal id="rgbw2.b">3</canal>
+				<canal id="rgbw2.w">4</canal>
+				<canal id="rgbw2.strobo">5</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="rgbw3">
+		<tipo>RGBW</tipo>
+		<nombre>RGBW 3</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>420</canalInicial>
+			<numeroCanales>7</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>102</colorG>
+				<colorB>102</colorB>
+			</sniffer>
+			<canales>
+				<canal id="rgbw3.dim">0</canal>
+				<canal id="rgbw3.r">1</canal>
+				<canal id="rgbw3.g">2</canal>
+				<canal id="rgbw3.b">3</canal>
+				<canal id="rgbw3.w">4</canal>
+				<canal id="rgbw3.strobo">5</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="rgbw4">
+		<tipo>RGBW</tipo>
+		<nombre>RGBW 4</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>430</canalInicial>
+			<numeroCanales>7</numeroCanales>
+			<sniffer>
+				<colorR>245</colorR>
+				<colorG>245</colorG>
+				<colorB>220</colorB>
+			</sniffer>
+			<canales>
+				<canal id="rgbw4.dim">0</canal>
+				<canal id="rgbw4.r">1</canal>
+				<canal id="rgbw4.g">2</canal>
+				<canal id="rgbw4.b">3</canal>
+				<canal id="rgbw4.w">4</canal>
+				<canal id="rgbw4.strobo">5</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="pinSpot3">
+		<tipo>RGBW</tipo>
+		<nombre>Pin Spot 3</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>200</canalInicial>
+			<numeroCanales>6</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>204</colorG>
+				<colorB>204</colorB>
+			</sniffer>
+			<canales>
+				<canal id="pinspot3.r">1</canal>
+				<canal id="pinspot3.g">2</canal>
+				<canal id="pinspot3.b">3</canal>
+				<canal id="pinspot3.dim">0</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="pinSpot4">
+		<tipo>RGBW</tipo>
+		<nombre>Pin Spot 4</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>210</canalInicial>
+			<numeroCanales>6</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>153</colorG>
+				<colorB>051</colorB>
+			</sniffer>
+			<canales>
+				<canal id="pinspot4.r">1</canal>
+				<canal id="pinspot4.g">2</canal>
+				<canal id="pinspot4.b">3</canal>
+				<canal id="pinspot4.dim">0</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="movingHead1">
+		<tipo>MovingHead</tipo>
+		<nombre>Moving Head 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>101</canalInicial>
+			<numeroCanales>12</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>153</colorG>
+				<colorB>0</colorB>
+			</sniffer>
+			<canales>
+				<canal id="movingHead1.pan">0</canal>
+				<canal id="movingHead1.tilt">1</canal>
+				<canal id="movingHead1.speed">2</canal>
+				<canal id="movingHead1.color">3</canal>
+				<canal id="movingHead1.gobo">4</canal>
+				<canal id="movingHead1.goboRotation">5</canal>
+				<canal id="movingHead1.strobo">6</canal>
+				<canal id="movingHead1.dim">7</canal>
+				<canal id="movingHead1.panfine">8</canal>
+				<canal id="movingHead1.tiltfine">9</canal>
+				<canal id="movingHead1.prisma">10</canal>
+				<canal id="movingHead1.focus">11</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="movingHead2">
+		<tipo>MovingHead</tipo>
+		<nombre>Moving Head 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>115</canalInicial>
+			<numeroCanales>12</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>204</colorG>
+				<colorB>51</colorB>
+			</sniffer>
+			<canales>
+				<canal id="movingHead2.pan">0</canal>
+				<canal id="movingHead2.tilt">1</canal>
+				<canal id="movingHead2.speed">2</canal>
+				<canal id="movingHead2.color">3</canal>
+				<canal id="movingHead2.gobo">4</canal>
+				<canal id="movingHead2.goboRotation">5</canal>
+				<canal id="movingHead2.strobo">6</canal>
+				<canal id="movingHead2.dim">7</canal>
+				<canal id="movingHead2.panfine">8</canal>
+				<canal id="movingHead2.tiltfine">9</canal>
+				<canal id="movingHead2.prisma">10</canal>
+				<canal id="movingHead2.focus">11</canal>
+			</canales>
+		</comm>
+	</fixture>
+	
+	
+	<fixture id="movingHead3">
+		<tipo>MovingHead</tipo>
+		<nombre>Moving Head 3</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>240</canalInicial>
+			<numeroCanales>16</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>153</colorG>
+				<colorB>0</colorB>
+			</sniffer>
+			<canales>
+				<canal id="movingHead3.pan">0</canal>
+				<canal id="movingHead3.tilt">1</canal>
+				<canal id="movingHead3.dim">2</canal>
+				<canal id="movingHead3.strobo">3</canal>
+				<canal id="movingHead3.color">4</canal>
+				<canal id="movingHead3.gobocristal">5</canal>
+				<canal id="movingHead3.goboRotation">6</canal>
+				<canal id="movingHead3.goboshake">7</canal>
+				<canal id="movingHead3.gobo">8</canal>
+				<canal id="movingHead3.gobonormalshake">9</canal>
+				<canal id="movingHead3.foco">10</canal>
+				<canal id="movingHead3.prisma">11</canal>
+				<canal id="movingHead3.nc">12</canal>
+				<canal id="movingHead3.panfino">13</canal>
+				<canal id="movingHead3.tiltfino">14</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="movingHead4">
+		<tipo>MovingHead</tipo>
+		<nombre>Moving Head 4</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>260</canalInicial>
+			<numeroCanales>16</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>204</colorG>
+				<colorB>51</colorB>
+			</sniffer>
+			<canales>
+				<canal id="movingHead4.pan">0</canal>
+				<canal id="movingHead4.tilt">1</canal>
+				<canal id="movingHead4.dim">2</canal>
+				<canal id="movingHead4.strobo">3</canal>
+				<canal id="movingHead4.color">4</canal>
+				<canal id="movingHead4.gobocristal">5</canal>
+				<canal id="movingHead4.goboRotation">6</canal>
+				<canal id="movingHead4.goboshake">7</canal>
+				<canal id="movingHead4.gobo">8</canal>
+				<canal id="movingHead4.gobonormalshake">9</canal>
+				<canal id="movingHead4.foco">10</canal>
+				<canal id="movingHead4.prisma">11</canal>
+				<canal id="movingHead4.nc">12</canal>
+				<canal id="movingHead4.panfino">13</canal>
+				<canal id="movingHead4.tiltfino">14</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="scanner1">
+		<tipo>Scanner</tipo>
+		<nombre>Scanner SRL 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>10</canalInicial>
+			<numeroCanales>5</numeroCanales>
+			<sniffer>
+				<colorR>254</colorR>
+				<colorG>204</colorG>
+				<colorB>0</colorB>
+			</sniffer>
+			<canales>
+				<canal id="scanner1.pan">0</canal>
+				<canal id="scanner1.tilt">1</canal>
+				<canal id="scanner1.gobo">2</canal>
+				<canal id="scanner1.color">3</canal>
+				<canal id="scanner1.onoff">4</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="scanner2">
+		<tipo>Scanner</tipo>
+		<nombre>Scanner SRL 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>15</canalInicial>
+			<numeroCanales>5</numeroCanales>
+			<sniffer>
+				<colorR>204</colorR>
+				<colorG>204</colorG>
+				<colorB>51</colorB>
+			</sniffer>
+			<canales>
+				<canal id="scanner2.pan">0</canal>
+				<canal id="scanner2.tilt">1</canal>
+				<canal id="scanner2.gobo">2</canal>
+				<canal id="scanner2.color">3</canal>
+				<canal id="scanner2.onoff">4</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="scanner3">
+		<tipo>Scanner</tipo>
+		<nombre>Scanner WPRO 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>26</canalInicial>
+			<numeroCanales>4</numeroCanales>
+			<sniffer>
+				<colorR>255</colorR>
+				<colorG>255</colorG>
+				<colorB>204</colorB>
+			</sniffer>
+			<canales>
+				<canal id="scanner3.pan">0</canal>
+				<canal id="scanner3.tilt">1</canal>
+				<canal id="scanner3.color">2</canal>
+				<canal id="scanner3.onoff">3</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="scanner4">
+		<tipo>Scanner</tipo>
+		<nombre>Scanner WPRO 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>31</canalInicial>
+			<numeroCanales>4</numeroCanales>
+			<sniffer>
+				<colorR>204</colorR>
+				<colorG>255</colorG>
+				<colorB>51</colorB>
+			</sniffer>
+			<canales>
+				<canal id="scanner4.pan">0</canal>
+				<canal id="scanner4.tilt">1</canal>
+				<canal id="scanner4.color">2</canal>
+				<canal id="scanner4.onoff">3</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="crystalBall1">
+		<tipo>CrystalBall1</tipo>
+		<nombre>Crystal Ball</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>161</canalInicial>
+			<numeroCanales>5</numeroCanales>
+			<sniffer>
+				<colorR>102</colorR>
+				<colorG>255</colorG>
+				<colorB>0</colorB>
+			</sniffer>
+			<canales>
+				<canal id="crystal1.strobo">0</canal>
+				<canal id="crystal1.r">1</canal>
+				<canal id="crystal1.g">2</canal>
+				<canal id="crystal1.b">3</canal>
+				<canal id="crystal1.rotar">4</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="derbyrgbw">
+		<tipo>derbyrgbw</tipo>
+		<nombre>Derby RGBW 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>150</canalInicial>
+			<numeroCanales>8</numeroCanales>
+			<sniffer>
+				<colorR>215</colorR>
+				<colorG>214</colorG>
+				<colorB>153</colorB>
+			</sniffer>
+			<canales>
+				<canal id="derbyrgbw1.dimmer">0</canal>
+				<canal id="derbyrgbw1.r">1</canal>
+				<canal id="derbyrgbw1.g">2</canal>
+				<canal id="derbyrgbw1.b">3</canal>
+				<canal id="derbyrgbw1.w">4</canal>
+				<canal id="derbyrgbw1.strobo">5</canal>
+				<canal id="derbyrgbw1.rotacion">6</canal>
+				<canal id="derbyrgbw1.auto">7</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="derbyrgbw2">
+		<tipo>derbyrgbw</tipo>
+		<nombre>Derby RGBW 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>181</canalInicial>
+			<numeroCanales>8</numeroCanales>
+			<sniffer>
+				<colorR>215</colorR>
+				<colorG>214</colorG>
+				<colorB>153</colorB>
+			</sniffer>
+			<canales>
+				<canal id="derbyrgbw2.dimmer">0</canal>
+				<canal id="derbyrgbw2.r">1</canal>
+				<canal id="derbyrgbw2.g">2</canal>
+				<canal id="derbyrgbw2.b">3</canal>
+				<canal id="derbyrgbw2.w">4</canal>
+				<canal id="derbyrgbw2.strobo">5</canal>
+				<canal id="derbyrgbw2.rotacion">6</canal>
+				<canal id="derbyrgbw2.auto">7</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="laserIlda1">
+		<tipo>laserIlda1</tipo>
+		<nombre>Laser Ilda1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>41</canalInicial>
+			<numeroCanales>25</numeroCanales>
+			<sniffer>
+				<colorR>153</colorR>
+				<colorG>204</colorG>
+				<colorB>255</colorB>
+			</sniffer>
+			<canales>
+				<canal id="laserIlda1.modo">0</canal>
+				<canal id="laserIlda1.intensidad">1</canal>
+				<canal id="laserIlda1.design.mode">2</canal>
+				<canal id="laserIlda1.folder">3</canal>
+				<canal id="laserIlda1.file">4</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+
+	<fixture id="spider1">
+		<tipo>spider1</tipo>
+		<nombre>Spider 1</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>50</canalInicial>
+			<numeroCanales>40</numeroCanales>
+			<sniffer>
+				<colorR>153</colorR>
+				<colorG>204</colorG>
+				<colorB>255</colorB>
+			</sniffer>
+			<canales>
+				<canal id="spider1.dimmer">2</canal>
+				<canal id="spider1.efecto1">36</canal>
+				<canal id="spider1.efecto2">37</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="laserMulipunto1">
+		<tipo>laserMulipunto1</tipo>
+		<nombre>Laser Multi-Punto 1</nombre>
+		<comm>
+			<tipo>HTTP-SIMPLE</tipo>
+			<ip>192.168.0.100</ip>
+			<puerto>80</puerto>
+			<acciones>
+				<accion id="encenderRV">laserRojo?encender=1</accion>
+				<accion id="apagarRV">laserRojo?apagar=1</accion>
+				<accion id="encenderA">laserAzul?encender=1</accion>
+				<accion id="apagarA">laserAzul?apagar=1</accion>
+			</acciones>
+		</comm>
+	</fixture>
+	
+	<fixture id="laserrgb2">
+		<tipo>laserrgb2</tipo>
+		<nombre>Laser RGB</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>128</canalInicial>
+			<numeroCanales>12</numeroCanales>
+			<sniffer>
+				<colorR>153</colorR>
+				<colorG>204</colorG>
+				<colorB>255</colorB>
+			</sniffer>
+			<canales>
+				<canal id="laserrgb2.modo">0</canal>
+				<canal id="laserrgb2.patron">1</canal>
+				<canal id="laserrgb2.color">2</canal>
+				<canal id="laserrgb2.pan">3</canal>
+				<canal id="laserrgb2.tilt">4</canal>
+				<canal id="laserrgb2.xaxis">5</canal>
+				<canal id="laserrgb2.yaxis">6</canal>	
+				<canal id="laserrgb2.zaxis">7</canal>	
+				<canal id="laserrgb2.zoom">8</canal>	
+				<canal id="laserrgb2.deforma">9</canal>	
+				<canal id="laserrgb2.puntos">10</canal>	
+				<canal id="laserrgb2.animacion">11</canal>
+			</canales>
+		</comm>
+	</fixture>
+</fixtures>

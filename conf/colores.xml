@@ -1,0 +1,836 @@
+<colores>
+	<color id="1">
+		<nombre>maroon</nombre>
+		<r>128</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="2">
+		<nombre>dark red</nombre>
+		<r>139</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="3">
+		<nombre>brown</nombre>
+		<r>165</r>
+		<g>42</g>
+		<b>42</b>
+	</color>
+	<color id="4">
+		<nombre>firebrick</nombre>
+		<r>178</r>
+		<g>34</g>
+		<b>34</b>
+	</color>
+	<color id="5">
+		<nombre>crimson</nombre>
+		<r>220</r>
+		<g>20</g>
+		<b>60</b>
+	</color>
+	<color id="6">
+		<nombre>red</nombre>
+		<r>255</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="7">
+		<nombre>tomato</nombre>
+		<r>255</r>
+		<g>99</g>
+		<b>71</b>
+	</color>
+	<color id="8">
+		<nombre>coral</nombre>
+		<r>255</r>
+		<g>127</g>
+		<b>80</b>
+	</color>
+	<color id="9">
+		<nombre>indian red</nombre>
+		<r>205</r>
+		<g>92</g>
+		<b>92</b>
+	</color>
+	<color id="10">
+		<nombre>light coral</nombre>
+		<r>240</r>
+		<g>128</g>
+		<b>128</b>
+	</color>
+	<color id="11">
+		<nombre>dark salmon</nombre>
+		<r>233</r>
+		<g>150</g>
+		<b>122</b>
+	</color>
+	<color id="12">
+		<nombre>salmon</nombre>
+		<r>250</r>
+		<g>128</g>
+		<b>114</b>
+	</color>
+	<color id="13">
+		<nombre>light salmon</nombre>
+		<r>255</r>
+		<g>160</g>
+		<b>122</b>
+	</color>
+	<color id="14">
+		<nombre>orange red</nombre>
+		<r>255</r>
+		<g>69</g>
+		<b>0</b>
+	</color>
+	<color id="15">
+		<nombre>dark orange</nombre>
+		<r>255</r>
+		<g>140</g>
+		<b>0</b>
+	</color>
+	<color id="16">
+		<nombre>orange</nombre>
+		<r>255</r>
+		<g>165</g>
+		<b>0</b>
+	</color>
+	<color id="17">
+		<nombre>gold</nombre>
+		<r>255</r>
+		<g>215</g>
+		<b>0</b>
+	</color>
+	<color id="18">
+		<nombre>dark golden rod</nombre>
+		<r>184</r>
+		<g>134</g>
+		<b>11</b>
+	</color>
+	<color id="19">
+		<nombre>golden rod</nombre>
+		<r>218</r>
+		<g>165</g>
+		<b>32</b>
+	</color>
+	<color id="20">
+		<nombre>pale golden rod</nombre>
+		<r>238</r>
+		<g>232</g>
+		<b>170</b>
+	</color>
+	<color id="21">
+		<nombre>dark khaki</nombre>
+		<r>189</r>
+		<g>183</g>
+		<b>107</b>
+	</color>
+	<color id="22">
+		<nombre>khaki</nombre>
+		<r>240</r>
+		<g>230</g>
+		<b>140</b>
+	</color>
+	<color id="23">
+		<nombre>olive</nombre>
+		<r>128</r>
+		<g>128</g>
+		<b>0</b>
+	</color>
+	<color id="24">
+		<nombre>yellow</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>0</b>
+	</color>
+	<color id="25">
+		<nombre>yellow green</nombre>
+		<r>154</r>
+		<g>205</g>
+		<b>50</b>
+	</color>
+	<color id="26">
+		<nombre>dark olive green</nombre>
+		<r>85</r>
+		<g>107</g>
+		<b>47</b>
+	</color>
+	<color id="27">
+		<nombre>olive drab</nombre>
+		<r>107</r>
+		<g>142</g>
+		<b>35</b>
+	</color>
+	<color id="28">
+		<nombre>lawn green</nombre>
+		<r>124</r>
+		<g>252</g>
+		<b>0</b>
+	</color>
+	<color id="29">
+		<nombre>chart reuse</nombre>
+		<r>127</r>
+		<g>255</g>
+		<b>0</b>
+	</color>
+	<color id="30">
+		<nombre>green yellow</nombre>
+		<r>173</r>
+		<g>255</g>
+		<b>47</b>
+	</color>
+	<color id="31">
+		<nombre>dark green</nombre>
+		<r>0</r>
+		<g>100</g>
+		<b>0</b>
+	</color>
+	<color id="32">
+		<nombre>green</nombre>
+		<r>0</r>
+		<g>128</g>
+		<b>0</b>
+	</color>
+	<color id="33">
+		<nombre>forest green</nombre>
+		<r>34</r>
+		<g>139</g>
+		<b>34</b>
+	</color>
+	<color id="34">
+		<nombre>lime</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>0</b>
+	</color>
+	<color id="35">
+		<nombre>lime green</nombre>
+		<r>50</r>
+		<g>205</g>
+		<b>50</b>
+	</color>
+	<color id="36">
+		<nombre>light green</nombre>
+		<r>144</r>
+		<g>238</g>
+		<b>144</b>
+	</color>
+	<color id="37">
+		<nombre>pale green</nombre>
+		<r>152</r>
+		<g>251</g>
+		<b>152</b>
+	</color>
+	<color id="38">
+		<nombre>dark sea green</nombre>
+		<r>143</r>
+		<g>188</g>
+		<b>143</b>
+	</color>
+	<color id="39">
+		<nombre>medium spring green</nombre>
+		<r>0</r>
+		<g>250</g>
+		<b>154</b>
+	</color>
+	<color id="40">
+		<nombre>spring green</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>127</b>
+	</color>
+	<color id="41">
+		<nombre>sea green</nombre>
+		<r>46</r>
+		<g>139</g>
+		<b>87</b>
+	</color>
+	<color id="42">
+		<nombre>medium aqua marine</nombre>
+		<r>102</r>
+		<g>205</g>
+		<b>170</b>
+	</color>
+	<color id="43">
+		<nombre>medium sea green</nombre>
+		<r>60</r>
+		<g>179</g>
+		<b>113</b>
+	</color>
+	<color id="44">
+		<nombre>light sea green</nombre>
+		<r>32</r>
+		<g>178</g>
+		<b>170</b>
+	</color>
+	<color id="45">
+		<nombre>dark slate gray</nombre>
+		<r>47</r>
+		<g>79</g>
+		<b>79</b>
+	</color>
+	<color id="46">
+		<nombre>teal</nombre>
+		<r>0</r>
+		<g>128</g>
+		<b>128</b>
+	</color>
+	<color id="47">
+		<nombre>dark cyan</nombre>
+		<r>0</r>
+		<g>139</g>
+		<b>139</b>
+	</color>
+	<color id="48">
+		<nombre>aqua</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="49">
+		<nombre>cyan</nombre>
+		<r>0</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="50">
+		<nombre>light cyan</nombre>
+		<r>224</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="51">
+		<nombre>dark turquoise</nombre>
+		<r>0</r>
+		<g>206</g>
+		<b>209</b>
+	</color>
+	<color id="52">
+		<nombre>turquoise</nombre>
+		<r>64</r>
+		<g>224</g>
+		<b>208</b>
+	</color>
+	<color id="53">
+		<nombre>medium turquoise</nombre>
+		<r>72</r>
+		<g>209</g>
+		<b>204</b>
+	</color>
+	<color id="54">
+		<nombre>pale turquoise</nombre>
+		<r>175</r>
+		<g>238</g>
+		<b>238</b>
+	</color>
+	<color id="55">
+		<nombre>aqua marine</nombre>
+		<r>127</r>
+		<g>255</g>
+		<b>212</b>
+	</color>
+	<color id="56">
+		<nombre>powder blue</nombre>
+		<r>176</r>
+		<g>224</g>
+		<b>230</b>
+	</color>
+	<color id="57">
+		<nombre>cadet blue</nombre>
+		<r>95</r>
+		<g>158</g>
+		<b>160</b>
+	</color>
+	<color id="58">
+		<nombre>steel blue</nombre>
+		<r>70</r>
+		<g>130</g>
+		<b>180</b>
+	</color>
+	<color id="59">
+		<nombre>corn flower blue</nombre>
+		<r>100</r>
+		<g>149</g>
+		<b>237</b>
+	</color>
+	<color id="60">
+		<nombre>deep sky blue</nombre>
+		<r>0</r>
+		<g>191</g>
+		<b>255</b>
+	</color>
+	<color id="61">
+		<nombre>dodger blue</nombre>
+		<r>30</r>
+		<g>144</g>
+		<b>255</b>
+	</color>
+	<color id="62">
+		<nombre>light blue</nombre>
+		<r>173</r>
+		<g>216</g>
+		<b>230</b>
+	</color>
+	<color id="63">
+		<nombre>sky blue</nombre>
+		<r>135</r>
+		<g>206</g>
+		<b>235</b>
+	</color>
+	<color id="64">
+		<nombre>light sky blue</nombre>
+		<r>135</r>
+		<g>206</g>
+		<b>250</b>
+	</color>
+	<color id="65">
+		<nombre>midnight blue</nombre>
+		<r>25</r>
+		<g>25</g>
+		<b>112</b>
+	</color>
+	<color id="66">
+		<nombre>navy</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>128</b>
+	</color>
+	<color id="67">
+		<nombre>dark blue</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>139</b>
+	</color>
+	<color id="68">
+		<nombre>medium blue</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>205</b>
+	</color>
+	<color id="69">
+		<nombre>blue</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>255</b>
+	</color>
+	<color id="70">
+		<nombre>royal blue</nombre>
+		<r>65</r>
+		<g>105</g>
+		<b>225</b>
+	</color>
+	<color id="71">
+		<nombre>blue violet</nombre>
+		<r>138</r>
+		<g>43</g>
+		<b>226</b>
+	</color>
+	<color id="72">
+		<nombre>indigo</nombre>
+		<r>75</r>
+		<g>0</g>
+		<b>130</b>
+	</color>
+	<color id="73">
+		<nombre>dark slate blue</nombre>
+		<r>72</r>
+		<g>61</g>
+		<b>139</b>
+	</color>
+	<color id="74">
+		<nombre>slate blue</nombre>
+		<r>106</r>
+		<g>90</g>
+		<b>205</b>
+	</color>
+	<color id="75">
+		<nombre>medium slate blue</nombre>
+		<r>123</r>
+		<g>104</g>
+		<b>238</b>
+	</color>
+	<color id="76">
+		<nombre>medium purple</nombre>
+		<r>147</r>
+		<g>112</g>
+		<b>219</b>
+	</color>
+	<color id="77">
+		<nombre>dark magenta</nombre>
+		<r>139</r>
+		<g>0</g>
+		<b>139</b>
+	</color>
+	<color id="78">
+		<nombre>dark violet</nombre>
+		<r>148</r>
+		<g>0</g>
+		<b>211</b>
+	</color>
+	<color id="79">
+		<nombre>dark orchid</nombre>
+		<r>153</r>
+		<g>50</g>
+		<b>204</b>
+	</color>
+	<color id="80">
+		<nombre>medium orchid</nombre>
+		<r>186</r>
+		<g>85</g>
+		<b>211</b>
+	</color>
+	<color id="81">
+		<nombre>purple</nombre>
+		<r>128</r>
+		<g>0</g>
+		<b>128</b>
+	</color>
+	<color id="82">
+		<nombre>thistle</nombre>
+		<r>216</r>
+		<g>191</g>
+		<b>216</b>
+	</color>
+	<color id="83">
+		<nombre>plum</nombre>
+		<r>221</r>
+		<g>160</g>
+		<b>221</b>
+	</color>
+	<color id="84">
+		<nombre>violet</nombre>
+		<r>238</r>
+		<g>130</g>
+		<b>238</b>
+	</color>
+	<color id="85">
+		<nombre>magenta</nombre>
+		<r>255</r>
+		<g>0</g>
+		<b>255</b>
+	</color>
+	<color id="86">
+		<nombre>orchid</nombre>
+		<r>218</r>
+		<g>112</g>
+		<b>214</b>
+	</color>
+	<color id="87">
+		<nombre>medium violet red</nombre>
+		<r>199</r>
+		<g>21</g>
+		<b>133</b>
+	</color>
+	<color id="88">
+		<nombre>pale violet red</nombre>
+		<r>219</r>
+		<g>112</g>
+		<b>147</b>
+	</color>
+	<color id="89">
+		<nombre>deep pink</nombre>
+		<r>255</r>
+		<g>20</g>
+		<b>147</b>
+	</color>
+	<color id="90">
+		<nombre>hot pink</nombre>
+		<r>255</r>
+		<g>105</g>
+		<b>180</b>
+	</color>
+	<color id="91">
+		<nombre>light pink</nombre>
+		<r>255</r>
+		<g>182</g>
+		<b>193</b>
+	</color>
+	<color id="92">
+		<nombre>pink</nombre>
+		<r>255</r>
+		<g>192</g>
+		<b>203</b>
+	</color>
+	<color id="93">
+		<nombre>antique white</nombre>
+		<r>250</r>
+		<g>235</g>
+		<b>215</b>
+	</color>
+	<color id="94">
+		<nombre>beige</nombre>
+		<r>245</r>
+		<g>245</g>
+		<b>220</b>
+	</color>
+	<color id="95">
+		<nombre>bisque</nombre>
+		<r>255</r>
+		<g>228</g>
+		<b>196</b>
+	</color>
+	<color id="96">
+		<nombre>blanched almond</nombre>
+		<r>255</r>
+		<g>235</g>
+		<b>205</b>
+	</color>
+	<color id="97">
+		<nombre>wheat</nombre>
+		<r>245</r>
+		<g>222</g>
+		<b>179</b>
+	</color>
+	<color id="98">
+		<nombre>corn silk</nombre>
+		<r>255</r>
+		<g>248</g>
+		<b>220</b>
+	</color>
+	<color id="99">
+		<nombre>lemon chiffon</nombre>
+		<r>255</r>
+		<g>250</g>
+		<b>205</b>
+	</color>
+	<color id="100">
+		<nombre>light golden rod yellow</nombre>
+		<r>250</r>
+		<g>250</g>
+		<b>210</b>
+	</color>
+	<color id="101">
+		<nombre>light yellow</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>224</b>
+	</color>
+	<color id="102">
+		<nombre>saddle brown</nombre>
+		<r>139</r>
+		<g>69</g>
+		<b>19</b>
+	</color>
+	<color id="103">
+		<nombre>sienna</nombre>
+		<r>160</r>
+		<g>82</g>
+		<b>45</b>
+	</color>
+	<color id="104">
+		<nombre>chocolate</nombre>
+		<r>210</r>
+		<g>105</g>
+		<b>30</b>
+	</color>
+	<color id="105">
+		<nombre>peru</nombre>
+		<r>205</r>
+		<g>133</g>
+		<b>63</b>
+	</color>
+	<color id="106">
+		<nombre>sandy brown</nombre>
+		<r>244</r>
+		<g>164</g>
+		<b>96</b>
+	</color>
+	<color id="107">
+		<nombre>burly wood</nombre>
+		<r>222</r>
+		<g>184</g>
+		<b>135</b>
+	</color>
+	<color id="108">
+		<nombre>tan</nombre>
+		<r>210</r>
+		<g>180</g>
+		<b>140</b>
+	</color>
+	<color id="109">
+		<nombre>rosy brown</nombre>
+		<r>188</r>
+		<g>143</g>
+		<b>143</b>
+	</color>
+	<color id="110">
+		<nombre>moccasin</nombre>
+		<r>255</r>
+		<g>228</g>
+		<b>181</b>
+	</color>
+	<color id="111">
+		<nombre>navajo white</nombre>
+		<r>255</r>
+		<g>222</g>
+		<b>173</b>
+	</color>
+	<color id="112">
+		<nombre>peach puff</nombre>
+		<r>255</r>
+		<g>218</g>
+		<b>185</b>
+	</color>
+	<color id="113">
+		<nombre>misty rose</nombre>
+		<r>255</r>
+		<g>228</g>
+		<b>225</b>
+	</color>
+	<color id="114">
+		<nombre>lavender blush</nombre>
+		<r>255</r>
+		<g>240</g>
+		<b>245</b>
+	</color>
+	<color id="115">
+		<nombre>linen</nombre>
+		<r>250</r>
+		<g>240</g>
+		<b>230</b>
+	</color>
+	<color id="116">
+		<nombre>old lace</nombre>
+		<r>253</r>
+		<g>245</g>
+		<b>230</b>
+	</color>
+	<color id="117">
+		<nombre>papaya whip</nombre>
+		<r>255</r>
+		<g>239</g>
+		<b>213</b>
+	</color>
+	<color id="118">
+		<nombre>sea shell</nombre>
+		<r>255</r>
+		<g>245</g>
+		<b>238</b>
+	</color>
+	<color id="119">
+		<nombre>mint cream</nombre>
+		<r>245</r>
+		<g>255</g>
+		<b>250</b>
+	</color>
+	<color id="120">
+		<nombre>slate gray</nombre>
+		<r>112</r>
+		<g>128</g>
+		<b>144</b>
+	</color>
+	<color id="121">
+		<nombre>light slate gray</nombre>
+		<r>119</r>
+		<g>136</g>
+		<b>153</b>
+	</color>
+	<color id="122">
+		<nombre>light steel blue</nombre>
+		<r>176</r>
+		<g>196</g>
+		<b>222</b>
+	</color>
+	<color id="123">
+		<nombre>lavender</nombre>
+		<r>230</r>
+		<g>230</g>
+		<b>250</b>
+	</color>
+	<color id="124">
+		<nombre>floral white</nombre>
+		<r>255</r>
+		<g>250</g>
+		<b>240</b>
+	</color>
+	<color id="125">
+		<nombre>alice blue</nombre>
+		<r>240</r>
+		<g>248</g>
+		<b>255</b>
+	</color>
+	<color id="126">
+		<nombre>ghost white</nombre>
+		<r>248</r>
+		<g>248</g>
+		<b>255</b>
+	</color>
+	<color id="127">
+		<nombre>honeydew</nombre>
+		<r>240</r>
+		<g>255</g>
+		<b>240</b>
+	</color>
+	<color id="128">
+		<nombre>ivory</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>240</b>
+	</color>
+	<color id="129">
+		<nombre>azure</nombre>
+		<r>240</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+	<color id="130">
+		<nombre>snow</nombre>
+		<r>255</r>
+		<g>250</g>
+		<b>250</b>
+	</color>
+	<color id="131">
+		<nombre>black</nombre>
+		<r>0</r>
+		<g>0</g>
+		<b>0</b>
+	</color>
+	<color id="132">
+		<nombre>dim gray / dim grey</nombre>
+		<r>105</r>
+		<g>105</g>
+		<b>105</b>
+	</color>
+	<color id="133">
+		<nombre>gray / grey</nombre>
+		<r>128</r>
+		<g>128</g>
+		<b>128</b>
+	</color>
+	<color id="134">
+		<nombre>dark gray / dark grey</nombre>
+		<r>169</r>
+		<g>169</g>
+		<b>169</b>
+	</color>
+	<color id="135">
+		<nombre>silver</nombre>
+		<r>192</r>
+		<g>192</g>
+		<b>192</b>
+	</color>
+	<color id="136">
+		<nombre>light gray / light grey</nombre>
+		<r>211</r>
+		<g>211</g>
+		<b>211</b>
+	</color>
+	<color id="137">
+		<nombre>gainsboro</nombre>
+		<r>220</r>
+		<g>220</g>
+		<b>220</b>
+	</color>
+	<color id="138">
+		<nombre>white smoke</nombre>
+		<r>245</r>
+		<g>245</g>
+		<b>245</b>
+	</color>
+	<color id="139">
+		<nombre>white</nombre>
+		<r>255</r>
+		<g>255</g>
+		<b>255</b>
+	</color>
+</colores>

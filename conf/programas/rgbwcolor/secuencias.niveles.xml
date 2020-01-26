@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<programas>
+	<programa id="1">
+		<paso id="1">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">128</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">102</canal>
+			<canal id="rgbw2.b">51</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">128</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">128</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="5">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="6">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="7">
+			<canal id="rgbw1.r">128</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">128</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">128</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">128</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">128</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">128</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">128</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">128</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="8">
+			<canal id="rgbw1.r">102</canal>
+			<canal id="rgbw1.g">102</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">102</canal>
+			<canal id="rgbw2.g">102</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">102</canal>
+			<canal id="rgbw3.g">102</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">102</canal>
+			<canal id="rgbw4.g">102</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="9">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="10">
+			<canal id="rgbw1.r">204</canal>
+			<canal id="rgbw1.g">204</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">204</canal>
+			<canal id="rgbw2.g">204</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">204</canal>
+			<canal id="rgbw3.g">204</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">204</canal>
+			<canal id="rgbw4.g">204</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="11">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">102</canal>
+			<canal id="rgbw1.b">51</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">102</canal>
+			<canal id="rgbw2.b">51</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">102</canal>
+			<canal id="rgbw3.b">51</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">102</canal>
+			<canal id="rgbw4.b">51</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="2">
+		<paso id="1">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">128</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+						
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="2">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">128</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="3">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">128</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+		<paso id="4">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">128</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="3">
+		<paso id="1">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="4">
+		<paso id="1">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="5">
+		<paso id="1">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="6">
+		<paso id="1">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="7">
+		<paso id="1">
+			<canal id="rgbw1.r">255</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">255</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">255</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">255</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="8">
+		<paso id="1">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">255</canal>
+			<canal id="rgbw1.b">255</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">255</canal>
+			<canal id="rgbw2.b">255</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">255</canal>
+			<canal id="rgbw3.b">255</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">255</canal>
+			<canal id="rgbw4.b">255</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="9">
+		<paso id="1">
+			<canal id="rgbw1.r">128</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">128</canal>
+			<canal id="rgbw1.w">0</canal>
+			
+			<canal id="rgbw2.r">128</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">128</canal>
+			<canal id="rgbw2.w">0</canal>
+			
+			<canal id="rgbw3.r">128</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">128</canal>
+			<canal id="rgbw3.w">0</canal>
+			
+			<canal id="rgbw4.r">128</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">128</canal>
+			<canal id="rgbw4.w">0</canal>
+		</paso>
+	</programa>
+	<programa id="10">
+		<paso id="1">
+			<canal id="rgbw1.r">0</canal>
+			<canal id="rgbw1.g">0</canal>
+			<canal id="rgbw1.b">0</canal>
+			<canal id="rgbw1.w">255</canal>
+			
+			<canal id="rgbw2.r">0</canal>
+			<canal id="rgbw2.g">0</canal>
+			<canal id="rgbw2.b">0</canal>
+			<canal id="rgbw2.w">255</canal>
+			
+			<canal id="rgbw3.r">0</canal>
+			<canal id="rgbw3.g">0</canal>
+			<canal id="rgbw3.b">0</canal>
+			<canal id="rgbw3.w">255</canal>
+			
+			<canal id="rgbw4.r">0</canal>
+			<canal id="rgbw4.g">0</canal>
+			<canal id="rgbw4.b">0</canal>
+			<canal id="rgbw4.w">255</canal>		
+		</paso>
+	</programa>
+
+</programas>
