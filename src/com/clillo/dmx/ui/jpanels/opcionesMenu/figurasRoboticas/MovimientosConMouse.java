@@ -5,18 +5,11 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
-import com.clillo.dmx.core.fixtures.FixtureRobotica;
-
 public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 
 	private FixtureRobotica entidad;
 	private PanelCanvasLimites panelCanvas;
-	
-	private int maxX = -1;
-	private int maxY = -1;
-
-	private int canvasMaxX = -1;
-	private int canvasMaxY = -1;
+	private InformaCambiosUsuario redimensiono;
 	
 	// Indica si se está agrandado o achicando el área de movimiento.
 	private boolean correBordeArriba;
@@ -39,34 +32,13 @@ public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 	public void setEntidad(FixtureRobotica entidad) {
 		this.entidad = entidad;
 	}
-
-	public void setMaxX(int maxX) {
-		this.maxX = maxX;
+		
+	public void setRedimensiono(InformaCambiosUsuario redimensiono) {
+		this.redimensiono = redimensiono;
 	}
 
-	public void setMaxY(int maxY) {
-		this.maxY = maxY;
-	}
-
-	public void setCanvasMaxX(int canvasMaxX) {
-		this.canvasMaxX = canvasMaxX;
-	}
-
-	public void setCanvasMaxY(int canvasMaxY) {
-		this.canvasMaxY = canvasMaxY;
-	}
-
-	private int conviertePantallaRealX(int pantallaX){
-		return (maxX * pantallaX)/canvasMaxX;
-	}
-
-	private int conviertePantallaRealY(int pantallaY){
-		return (maxY * pantallaY)/canvasMaxY;
-	}
-	
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		entidad.moverA(conviertePantallaRealX(e.getX()), conviertePantallaRealY(e.getY()));
 	}
 
 	@Override
@@ -87,6 +59,7 @@ public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 
 	@Override
 	public void mouseDragged(MouseEvent e) {
+		boolean cambio = false;
 		int x = e.getX();
 		int y = e.getY();
 		
@@ -97,34 +70,41 @@ public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 			return;
 
 	    if (correBordeArriba){
-			int posy =  panelCanvas.conviertePantallaRealY(y);
-			if (posy<0 || posy>255)
+			double posy =  panelCanvas.conviertePantallaRealY(y);
+			if (posy<0 || posy>FixtureRobotica.maxY)
 				return;
 
 			entidad.setVentanaMinY(posy);
 			panelCanvas.repaint();
+			cambio = true;
 		}
 		if (correBordeAbajo){
-			int posy =  panelCanvas.conviertePantallaRealY(y);
-			if (posy<0 || posy>255)
+			double posy =  panelCanvas.conviertePantallaRealY(y);
+			if (posy<0 || posy>FixtureRobotica.maxY)
 				return;
 			entidad.setVentanaMaxY(posy);
 			panelCanvas.repaint();
+			cambio = true;
 		}
 		if (correBordeDerecha){
-			int posx =  panelCanvas.conviertePantallaRealX(x);
-			if (posx<0 || posx>255)
+			double posx =  panelCanvas.conviertePantallaRealX(x);
+			if (posx<0 || posx>FixtureRobotica.maxX)
 				return;
 			entidad.setVentanaMaxX(posx);
 			panelCanvas.repaint();
+			cambio = true;
 		}
 		if (correBordeIzquerda){
-			int posx =  panelCanvas.conviertePantallaRealX(x);
-			if (posx<0 || posx>255)
+			double posx =  panelCanvas.conviertePantallaRealX(x);
+			if (posx<0 || posx>FixtureRobotica.maxX)
 				return;
 			entidad.setVentanaMinX(posx);
 			panelCanvas.repaint();
+			cambio = true;
 		}
+		
+		if (cambio)
+			redimensiono.cambioVentana();
 	}
 
 	@Override
@@ -140,7 +120,6 @@ public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 		int redimBordeMaxX = panelCanvas.convierteRealPantallaX(entidad.getVentanaMaxX());
 		int redimBordeMinY = panelCanvas.convierteRealPantallaY(entidad.getVentanaMinY());
 		int redimBordeMaxY = panelCanvas.convierteRealPantallaY(entidad.getVentanaMaxY());
-
 		
 		boolean dentroDelArea = e.getY()<=redimBordeMaxY && e.getY()>=redimBordeMinY && e.getX()<=redimBordeMaxX && e.getX()>=redimBordeMinX;
 
