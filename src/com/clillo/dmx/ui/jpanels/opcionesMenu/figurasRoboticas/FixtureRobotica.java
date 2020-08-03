@@ -16,10 +16,10 @@ public abstract class FixtureRobotica extends Fixture {
 	private int tilt1;
 	private int tilt2;
 
-	private double ventanaMinX = 11000;
-	private double ventanaMaxX = 35000;
+	private double ventanaMinX = 0000;
+	private double ventanaMaxX = 23000;
 	private double ventanaMinY = 0;
-	private double ventanaMaxY = 32000;
+	private double ventanaMaxY = 31000;
 
 	public FixtureRobotica(String nombre) {
 		super(nombre);

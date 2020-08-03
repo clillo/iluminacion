@@ -104,7 +104,7 @@ public class MovimientosConMouse implements MouseListener, MouseMotionListener {
 		}
 		
 		if (cambio)
-			redimensiono.cambioVentana();
+			redimensiono.cambioVentana(entidad);
 	}
 
 	@Override
