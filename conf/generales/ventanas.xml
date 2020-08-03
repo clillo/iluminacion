@@ -68,14 +68,14 @@
 		</panel>
 		
 		<panel id="panelSnifferDMX">
-			<posX>16</posX>
-			<posY>-3</posY>
-			<visible>false</visible>
+			<posX>59</posX>
+			<posY>27</posY>
+			<visible>true</visible>
 		</panel>
 
 		<panel id="panelControlMovingHeads">
-			<posX>115</posX>
-			<posY>548</posY>
+			<posX>-18</posX>
+			<posY>526</posY>
 			<visible>true</visible>
 		</panel>
 
@@ -140,8 +140,8 @@
 		</panel>		
 		
 		<panel id="panelFigurasRoboticas">
-			<posX>174</posX>
-			<posY>11</posY>
+			<posX>125</posX>
+			<posY>5</posY>
 			<visible>true</visible>
 		</panel>	
 
