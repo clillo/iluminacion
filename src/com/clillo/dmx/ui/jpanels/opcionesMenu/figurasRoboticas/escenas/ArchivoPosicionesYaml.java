@@ -17,15 +17,13 @@ public class ArchivoPosicionesYaml {
 		List<Escena> listaEscenas = new ArrayList<>();
 		List<MHPositionsList> positionsList = new MHPositionsConfig().getMHPositionsLists();
 		
-		int i=0;
 		for (MHPositionsList pos: positionsList){
 			List<NodoEscena> listaPuntos = new ArrayList<>();
 
 			Escena e1 = new Escena();
-			e1.setId(i);
+			e1.setId(pos.getId());
 			e1.setListaNodos(listaPuntos);
 			listaEscenas.add(e1);
-			i++;
 			for(MHPositionNodeElement list: pos.getPositions()){
 				MHPositionNode position = list.getPosition();
 				
@@ -56,7 +54,7 @@ public class ArchivoPosicionesYaml {
 	
 	public void grabaListaPosicionesEscenas(List<Escena> lista) throws Exception{
 		for (Escena e: lista)
-			grabaLista(e.getListaNodos(), "conf/escenas/spring/pos"+(e.getId())+".yml");
+			grabaLista(e.getListaNodos(), "conf/escenas/spring/pos-"+(e.getId())+".yml");
 	}
 	
 	

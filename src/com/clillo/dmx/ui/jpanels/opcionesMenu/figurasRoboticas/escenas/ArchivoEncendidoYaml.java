@@ -23,7 +23,7 @@ public class ArchivoEncendidoYaml {
 		for (File f: listaArchivos)
 			if (f.getName().startsWith("encendido") && f.getName().endsWith(".yml")){
 				Escena e1 = new Escena();
-				e1.setId(i);
+				e1.setId(i+"");
 				List<NodoEscena> listaTmp = leeLista(f.getAbsolutePath());
 				e1.setListaNodos(listaTmp);
 				listaEscenas.add(e1);
