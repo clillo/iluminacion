@@ -53,13 +53,13 @@ public class ArchivoEncendidoYaml {
 				YamlMapping datos = llave.asMapping();
 				NodoEscena p = new NodoEscena();
 				if (datos.string("movingHead").equals("MvHd1_90"))
-					p.setMovingHead(FixMovingHead.MvHd1_90);
+					p.setMovingHead(FixMovingHead.mh_90_1);
 				if (datos.string("movingHead").equals("MvHd2_90"))
-					p.setMovingHead(FixMovingHead.MvHd2_90);
+					p.setMovingHead(FixMovingHead.mh_90_2);
 				if (datos.string("movingHead").equals("MvHd1_60"))
-					p.setMovingHead(FixMovingHead.MvHd1_60);
+					p.setMovingHead(FixMovingHead.mh_60_1);
 				if (datos.string("movingHead").equals("MvHd2_60"))
-					p.setMovingHead(FixMovingHead.MvHd2_60);
+					p.setMovingHead(FixMovingHead.mh_60_2);
 				p.setNombre(datos.string("nombre"));
 				p.setDimmer(datos.integer("dimmer"));
 				p.setColor(datos.integer("color"));

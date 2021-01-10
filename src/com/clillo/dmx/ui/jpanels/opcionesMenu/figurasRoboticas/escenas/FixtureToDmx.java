@@ -21,28 +21,28 @@ public class FixtureToDmx {
 		if (nodo.getMovingHead()==null)
 			return;
 		switch (nodo.getMovingHead()) {
-			case MvHd1_90:
+			case mh_90_1:
 				Dmx.enviar(260, nodo.getPan1());
 				Dmx.enviar(273, nodo.getPan2());
 				Dmx.enviar(261, nodo.getTilt1());
 				Dmx.enviar(274, nodo.getTilt2());
 			break;
 			
-			case MvHd2_90:
+			case mh_90_2:
 				Dmx.enviar(240, nodo.getPan1());
 				Dmx.enviar(253, nodo.getPan2());
 				Dmx.enviar(241, nodo.getTilt1());
 				Dmx.enviar(254, nodo.getTilt2());
 			break;
 
-			case MvHd1_60:
+			case mh_60_1:
 				Dmx.enviar(101, nodo.getPan1());
 				Dmx.enviar(109, nodo.getPan2());
 				Dmx.enviar(102, nodo.getTilt1());
 				Dmx.enviar(110, nodo.getTilt2());
 			break;
 			
-			case MvHd2_60:
+			case mh_60_2:
 				Dmx.enviar(115, nodo.getPan1());
 				Dmx.enviar(123, nodo.getPan2());
 				Dmx.enviar(116, nodo.getTilt1());
@@ -60,7 +60,7 @@ public class FixtureToDmx {
 		if (nodo.getMovingHead()==null)
 			return;
 		switch (nodo.getMovingHead()) {
-			case MvHd1_90:
+			case mh_90_1:
 				Dmx.enviar(262, nodo.getDimmer());
 				Dmx.enviar(263, nodo.getStrobo());
 				Dmx.enviar(264, nodo.getColor());
@@ -74,7 +74,7 @@ public class FixtureToDmx {
 				//269 normal shake
 			break;
 			
-			case MvHd2_90:
+			case mh_90_2:
 				Dmx.enviar(242, nodo.getDimmer());
 				Dmx.enviar(243, nodo.getStrobo());
 				Dmx.enviar(244, nodo.getColor());
@@ -87,7 +87,7 @@ public class FixtureToDmx {
 				Dmx.enviar(251, nodo.getPrisma());
 			break;
 
-			case MvHd1_60:
+			case mh_60_1:
 				Dmx.enviar(104, nodo.getColor());
 				Dmx.enviar(105, nodo.getGobo());
 				Dmx.enviar(106, nodo.getGoboRotation());
@@ -97,7 +97,7 @@ public class FixtureToDmx {
 				Dmx.enviar(111, nodo.getPrisma());
 			break;
 			
-			case MvHd2_60:
+			case mh_60_2:
 				Dmx.enviar(118, nodo.getColor());
 				Dmx.enviar(119, nodo.getGobo());
 				Dmx.enviar(120, nodo.getGoboRotation());

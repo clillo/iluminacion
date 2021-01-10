@@ -30,13 +30,13 @@ public class ArchivoPosicionesYaml {
 				NodoEscena nodoEscena = new NodoEscena();
 				
 				if (position.getFixture().equals("mh-90-1"))
-					nodoEscena.setMovingHead(FixMovingHead.MvHd1_90);
+					nodoEscena.setMovingHead(FixMovingHead.mh_90_1);
 				if (position.getFixture().equals("mh-90-2"))
-					nodoEscena.setMovingHead(FixMovingHead.MvHd2_90);
+					nodoEscena.setMovingHead(FixMovingHead.mh_90_2);
 				if (position.getFixture().equals("mh-60-1"))
-					nodoEscena.setMovingHead(FixMovingHead.MvHd1_60);
+					nodoEscena.setMovingHead(FixMovingHead.mh_60_1);
 				if (position.getFixture().equals("mh-60-2"))
-					nodoEscena.setMovingHead(FixMovingHead.MvHd2_60);
+					nodoEscena.setMovingHead(FixMovingHead.mh_60_2);
 				
 				nodoEscena.setPan1(position.getPan());
 				nodoEscena.setPan2(position.getPanFine());
@@ -63,24 +63,7 @@ public class ArchivoPosicionesYaml {
 		sb.append("positions:\n");
 		for (NodoEscena p: lista){
 			sb.append("  - position:\n");
-			switch (p.getMovingHead()) {
-			case MvHd1_60:
-				sb.append("      fixture: mh-60-1\n");	
-				break;
-			case MvHd2_60:
-				sb.append("      fixture: mh-60-2\n");	
-				break;
-				
-			case MvHd1_90:
-				sb.append("      fixture: mh-90-1\n");	
-				break;
-			case MvHd2_90:
-				sb.append("      fixture: mh-90-2\n");	
-				break;
-			default:
-				break;
-			}
-
+			sb.append("      fixture: "+p.getMovingHead().toString().replace('_', '-')+"\n");	
 			sb.append("      pan: ").append(p.getPan1()).append("\n");
 			sb.append("      panFine: ").append(p.getPan2()).append("\n");
 			sb.append("      tilt: ").append(p.getTilt1()).append("\n");

@@ -1,0 +1,11 @@
+copy pos-G01.yml pos-U01.yml
+copy pos-G02.yml pos-U02.yml
+copy pos-G03.yml pos-U03.yml
+copy pos-G04.yml pos-U04.yml
+copy pos-G05.yml pos-U05.yml
+copy pos-G07.yml pos-U07.yml
+copy pos-G08.yml pos-U08.yml
+copy pos-G09.yml pos-U09.yml
+copy pos-G10.yml pos-U10.yml
+copy pos-G11.yml pos-U11.yml
+copy pos-G12.yml pos-U12.yml

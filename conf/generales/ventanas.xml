@@ -70,7 +70,7 @@
 		<panel id="panelSnifferDMX">
 			<posX>59</posX>
 			<posY>20</posY>
-			<visible>true</visible>
+			<visible>false</visible>
 		</panel>
 
 		<panel id="panelControlMovingHeads">
@@ -140,8 +140,8 @@
 		</panel>		
 		
 		<panel id="panelFigurasRoboticas">
-			<posX>176</posX>
-			<posY>47</posY>
+			<posX>128</posX>
+			<posY>21</posY>
 			<visible>true</visible>
 		</panel>	
 

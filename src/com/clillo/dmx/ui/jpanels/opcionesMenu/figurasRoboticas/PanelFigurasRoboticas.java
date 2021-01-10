@@ -28,7 +28,7 @@ import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscen
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscena.FixMovingHead;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.PanelCanalesMovingHead;
 
-public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionListener, InformaCambiosUsuario, ChangeListener, Actualizable, ListSelectionListener {
+public class PanelFigurasRoboticas extends PanelMenuGenerico implements  InformaCambiosUsuario, ChangeListener, Actualizable, ListSelectionListener {
 
 	private static final long serialVersionUID = -5869553409971473557L;
 	
@@ -60,7 +60,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
   	private FixtureRobotica entidad60;
   	
 	public PanelFigurasRoboticas() {
-	    this.configura(1400, 1080, "Mantiene Figuras Robóticas");
+	    this.configura(1260, 880, "Mantiene Figuras Robóticas");
 	  	this.setLayout(null);
 	  	
 	  	
@@ -213,11 +213,6 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 			pnl.actualiza();
 		}
 	}
-	
-	@Override
-	public void actionPerformed(ActionEvent e) {
-
-	}
 
 	@Override
 	public void cambioVentana(FixtureRobotica entidad) {
@@ -315,26 +310,25 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		
 		escenaActual = sel;
 	
-		int n90 = 0;
-		int n60 = 0;
 		for (NodoEscena nodo: escenaActual.getListaNodos()){
-			if (nodo.getMovingHead()==FixMovingHead.MvHd1_90 || nodo.getMovingHead()==FixMovingHead.MvHd2_90 ){
+			if (nodo.getMovingHead()==FixMovingHead.mh_90_1){
 				nodo.setEntidad(entidad90);
-				n90++;
-				if (n90==1)
-					pnlMv90_1.setNodoEscena(nodo);
-				if (n90==2)
-					pnlMv90_2.setNodoEscena(nodo);
+				pnlMv90_1.setNodoEscena(nodo);
 			}
-			else{
+			if (nodo.getMovingHead()==FixMovingHead.mh_90_2){
+				nodo.setEntidad(entidad90);
+				pnlMv90_2.setNodoEscena(nodo);
+			}				
+			if (nodo.getMovingHead()==FixMovingHead.mh_60_1){
 				nodo.setEntidad(entidad60);
-				n60++;
-				if (n60==1)
-					pnlMv60_1.setNodoEscena(nodo);
-				if (n60==2)
-					pnlMv60_2.setNodoEscena(nodo);
+				pnlMv60_1.setNodoEscena(nodo);
 			}
-			
+			if (nodo.getMovingHead()==FixMovingHead.mh_60_2){
+				nodo.setEntidad(entidad60);
+				pnlMv60_2.setNodoEscena(nodo);
+				
+			}
+
 		}
 		
 		pnlCanvas.setEscena(escenaActual);

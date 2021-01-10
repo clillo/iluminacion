@@ -7,7 +7,7 @@ import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.FixtureRobotica;
 
 public class NodoEscena {
 
-	public enum FixMovingHead {MvHd1_90, MvHd2_90, MvHd1_60, MvHd2_60 };
+	public enum FixMovingHead {mh_90_1, mh_90_2, mh_60_1, mh_60_2 };
 	
 	private FixMovingHead movingHead;
 	
