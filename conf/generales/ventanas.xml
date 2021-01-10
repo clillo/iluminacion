@@ -50,8 +50,8 @@
 		</panel>
 
 		<panel id="panelEjecutorProgramas">
-			<posX>203</posX>
-			<posY>102</posY>
+			<posX>223</posX>
+			<posY>109</posY>
 			<visible>false</visible>
 		</panel>
 		
@@ -62,21 +62,21 @@
 		</panel>
 		
 		<panel id="panelEjecucionAutomatica">
-			<posX>14</posX>
-			<posY>41</posY>
+			<posX>17</posX>
+			<posY>291</posY>
 			<visible>false</visible>
 		</panel>
 		
 		<panel id="panelSnifferDMX">
 			<posX>59</posX>
-			<posY>27</posY>
+			<posY>20</posY>
 			<visible>true</visible>
 		</panel>
 
 		<panel id="panelControlMovingHeads">
 			<posX>-18</posX>
-			<posY>526</posY>
-			<visible>true</visible>
+			<posY>525</posY>
+			<visible>false</visible>
 		</panel>
 
 		<panel id="panelMovingHead1">
@@ -140,11 +140,24 @@
 		</panel>		
 		
 		<panel id="panelFigurasRoboticas">
-			<posX>125</posX>
-			<posY>5</posY>
+			<posX>176</posX>
+			<posY>47</posY>
 			<visible>true</visible>
 		</panel>	
 
+		
+		<panel id="panelEncendidoRoboticas">
+			<posX>154</posX>
+			<posY>148</posY>
+			<visible>false</visible>
+		</panel>	
+
+				
+		<panel id="panelRoboticasConjuntas">
+			<posX>517</posX>
+			<posY>63</posY>
+			<visible>false</visible>
+		</panel>	
 		
 		<panel id="panelSpider1">
 			<posX>319</posX>

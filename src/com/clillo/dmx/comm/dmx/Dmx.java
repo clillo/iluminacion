@@ -6,13 +6,13 @@ public class Dmx {
 	
 	private static ListaNotificables listaNotificables;
 
-    private static ComunicacionDMX dmx;
+    private static ComunicacionHttpDMX dmx;
     
     static{
     	listaNotificables = new ListaNotificables();
 
 		if (Configuracion.estaComunicacionHabilitada())
-			dmx = new ComunicacionDMX();
+			dmx = new ComunicacionHttpDMX();
 	}
 
 	public static void stop(){

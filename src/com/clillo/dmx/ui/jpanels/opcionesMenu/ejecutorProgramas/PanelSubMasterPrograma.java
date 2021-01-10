@@ -39,7 +39,7 @@ public class PanelSubMasterPrograma extends JPanel implements NotificableEjecuto
 	
 	private ListenerCambioProbabilidades listenerProbabilidades;
 	
-	private boolean tamaÃ±oWide;
+	private boolean tamañoWide;
 
 	public PanelSubMasterPrograma() {
 		setLayout(null);
@@ -80,10 +80,10 @@ public class PanelSubMasterPrograma extends JPanel implements NotificableEjecuto
 		rbtSeleccionado.addActionListener(this);	
 	}
 
-	public void setTamaÃ±oWide(boolean tamaÃ±oWide) {
-		this.tamaÃ±oWide = tamaÃ±oWide;
+	public void setTamañoWide(boolean tamañoWide) {
+		this.tamañoWide = tamañoWide;
 		
-		if(tamaÃ±oWide){
+		if(tamañoWide){
 			txtNombre.setBounds(25, 3, 180, 16);
 			txtProbabilidad.setBounds(480, 3, 62, 16);
 		//	txtDetalles.setBounds(418, 3, 40, 16);
@@ -128,9 +128,9 @@ public class PanelSubMasterPrograma extends JPanel implements NotificableEjecuto
 			sldrVelocidad.setMaximum(programa.getPorcentajeVelocidadMaximo());
 		
 		if (!cambiaVelocidad()){
-			txtNombre.setBounds(25, 3, (tamaÃ±oWide?185:100), 16);
+			txtNombre.setBounds(25, 3, (tamañoWide?185:100), 16);
 			txtDetalles.setVisible(false);
-			if(!tamaÃ±oWide || programa.isNingunProgramaSeleccionado()){
+			if(!tamañoWide || programa.isNingunProgramaSeleccionado()){
 				sldrVelocidad.setVisible(false);
 			}else{
 				txtNombre.setText(programa.getNombre()+" ("+programa.getPorcentajeVelocidadActual()+"%)");
@@ -138,7 +138,7 @@ public class PanelSubMasterPrograma extends JPanel implements NotificableEjecuto
 				sldrVelocidad.setValue(programa.getPorcentajeVelocidadActual());
 				sldrVelocidad.addAdjustmentListener(this);
 			}
-			txtProbabilidad.setBounds((tamaÃ±oWide?220:130), 3, 295, 16);
+			txtProbabilidad.setBounds((tamañoWide?220:130), 3, 295, 16);
 			txtProbabilidad.setHorizontalAlignment(SwingConstants.LEFT);
 		}
 	}
@@ -146,7 +146,7 @@ public class PanelSubMasterPrograma extends JPanel implements NotificableEjecuto
 	public void refresca(){
 		if (!cambiaVelocidad()){
 							
-			if (tamaÃ±oWide){
+			if (tamañoWide){
 				txtNombre.setText(programa.getNombre()+" ("+programa.getPorcentajeVelocidadActual()+"%)");
 				
 				sldrVelocidad.removeAdjustmentListener(this);

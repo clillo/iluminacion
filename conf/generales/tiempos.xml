@@ -46,5 +46,9 @@
 		<reloj id="maquinahumo">
 			<tiempo>10000</tiempo>
 		</reloj>
+		
+		<reloj id="roboticasConjunta">
+			<tiempo>2000</tiempo>
+		</reloj>
 	</cambiosAutomaticos>
 </tiempos>

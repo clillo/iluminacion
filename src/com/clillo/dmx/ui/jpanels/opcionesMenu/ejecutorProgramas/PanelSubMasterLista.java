@@ -26,7 +26,7 @@ public class PanelSubMasterLista extends JPanel implements ListenerCambioProbabi
 
 	private ConjuntoProgramas conjuntoProgramas;
 	
-	private boolean tamaÃ±oWide;
+	private boolean tamañoWide;
 	
     @Override
     public Dimension getPreferredSize() {
@@ -48,7 +48,7 @@ public class PanelSubMasterLista extends JPanel implements ListenerCambioProbabi
 		
 		for (ProgramaTO programa: conjuntoProgramas.getListaProgramas()){
 			PanelSubMasterPrograma panel = new PanelSubMasterPrograma();
-			panel.setTamaÃ±oWide(tamaÃ±oWide);
+			panel.setTamañoWide(tamañoWide);
 			listaPanelesDetalles.add(panel);
 			panel.setup(programa, this);
 			programa.setNotificableEjecutorPasos(panel);
@@ -58,7 +58,7 @@ public class PanelSubMasterLista extends JPanel implements ListenerCambioProbabi
 
 		int i = 0;
 		for (PanelSubMasterPrograma panel : listaPanelesDetalles) {		
-			if (tamaÃ±oWide)
+			if (tamañoWide)
 				panel.setBounds(10, 10 + (i * 23), 850, 21);
 			else
 				panel.setBounds(10, 10 + (i * 23), 650, 21);
@@ -85,8 +85,8 @@ public class PanelSubMasterLista extends JPanel implements ListenerCambioProbabi
 		FactoryVDJ.agregaListener(conjuntoProgramas.getEjecutor());
 	}
 	
-	public void setTamaÃ±oWide(boolean tamaÃ±oWide) {
-		this.tamaÃ±oWide = tamaÃ±oWide;
+	public void setTamañoWide(boolean tamañoWide) {
+		this.tamañoWide = tamañoWide;
 	}
 
 	public void seleccionaPrograma(){

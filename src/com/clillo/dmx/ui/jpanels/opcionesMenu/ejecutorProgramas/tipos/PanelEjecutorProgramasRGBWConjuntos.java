@@ -38,7 +38,7 @@ public class PanelEjecutorProgramasRGBWConjuntos extends JPanel implements Inter
 	  	cambioAutomatico.setBounds(10, 482, 455, 46);
 	  	add(cambioAutomatico);
 	  	
-	  	panel.setTamaÃ±oWide(true);
+	  	panel.setTamañoWide(true);
 		panel.setup(conjuntoProgramas);
 	  	cambioAutomatico.setup(panel, conjuntoProgramas);
 		cambioAutomatico.setPrimerProgramaApagado(true);

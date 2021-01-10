@@ -8,25 +8,25 @@ import java.util.List;
 
 import javax.swing.AbstractAction;
 import javax.swing.Action;
+import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
+import javax.swing.border.EtchedBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelMenuGenerico;
-import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.ArchivoYaml;
+import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.ArchivoPosicionesYaml;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.Escena;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.FixtureToDmx;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscena;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscena.FixMovingHead;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.PanelCanalesMovingHead;
-import javax.swing.JButton;
-import javax.swing.border.EtchedBorder;
 
 public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionListener, InformaCambiosUsuario, ChangeListener, Actualizable, ListSelectionListener {
 
@@ -42,11 +42,6 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 	private JTextField txtPan;
 	private JTextField txtTilt;
 
-	
-	private JTextField txtMinPan;
-	private JTextField txtMaxPan;
-	private JTextField txtMinTilt;
-	private JTextField txtMaxTilt;
 	private JTextField txtX;
 	private JTextField txtY;
 	
@@ -65,7 +60,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
   	private FixtureRobotica entidad60;
   	
 	public PanelFigurasRoboticas() {
-	    this.configura(1400, 1080, "Mantiene Figuras RobÃ³ticas");
+	    this.configura(1400, 1080, "Mantiene Figuras Robóticas");
 	  	this.setLayout(null);
 	  	
 	  	
@@ -92,23 +87,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		pnl1.setLayout(null);
 		pnl1.setBounds(0, 4, 1423, 1080);
 		add(pnl1);
-		
-		txtMinPan = new JTextField();
-		txtMinPan.setBounds(826, 525, 46, 20);
-	//	pnl1.add(txtMinPan);
-		
-		txtMaxTilt = new JTextField();
-		txtMaxTilt.setBounds(994, 525, 46, 20);
-	//	pnl1.add(txtMaxTilt);
-
-		txtMinTilt = new JTextField();
-		txtMinTilt.setBounds(938, 525, 46, 20);
-	//	pnl1.add(txtMinTilt);
-		
-		txtMaxPan = new JTextField();
-		txtMaxPan.setBounds(882, 525, 46, 20);
-	//	pnl1.add(txtMaxPan);
-		
+				
 		txtPan = new JTextField();
 		txtPan.setBounds(814, 27, 61, 20);
 		pnl1.add(txtPan);
@@ -126,14 +105,14 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		
 		pnlCanvasLimites90 = new PanelCanvasLimites();
 		pnlCanvasLimites90.setBackground(Color.BLACK);
-		pnlCanvasLimites90.setBounds(814, 640, 200, 200);
+		pnlCanvasLimites90.setBounds(814, 427, 200, 200);
 		pnlCanvasLimites90.setEntidad(entidad90);
 		pnlCanvasLimites90.setRedimensiono(this);
 		pnl1.add(pnlCanvasLimites90);
 		
 		pnlCanvasLimites60 = new PanelCanvasLimites();
 		pnlCanvasLimites60.setBackground(Color.BLACK);
-		pnlCanvasLimites60.setBounds(1214, 640, 200, 200);
+		pnlCanvasLimites60.setBounds(1038, 427, 200, 200);
 		pnlCanvasLimites60.setEntidad(entidad60);
 		pnlCanvasLimites60.setRedimensiono(this);
 		pnl1.add(pnlCanvasLimites60);
@@ -164,22 +143,22 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		
 		pnlMv90_1 = new PanelCanalesMovingHead();
 		pnlMv90_1.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
-		pnlMv90_1.setBounds(805, 176, 700, 102);
+		pnlMv90_1.setBounds(805, 176, 700, 53);
 		pnl1.add(pnlMv90_1);
 				
 		pnlMv60_2 = new PanelCanalesMovingHead();
 		pnlMv60_2.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
-		pnlMv60_2.setBounds(805, 281, 700, 102);
+		pnlMv60_2.setBounds(805, 240, 700, 53);
 		pnl1.add(pnlMv60_2);
 		
 		pnlMv60_1 = new PanelCanalesMovingHead();
 		pnlMv60_1.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
-		pnlMv60_1.setBounds(805, 386, 700, 102);
+		pnlMv60_1.setBounds(805, 304, 700, 53);
 		pnl1.add(pnlMv60_1);
 		
 		pnlMv90_2 = new PanelCanalesMovingHead();
 		pnlMv90_2.setBorder(new EtchedBorder(EtchedBorder.LOWERED, null, null));
-		pnlMv90_2.setBounds(805, 491, 700, 102);
+		pnlMv90_2.setBounds(805, 363, 700, 53);
 		pnl1.add(pnlMv90_2);
 		
 		listaPaneles = new ArrayList<>();
@@ -190,7 +169,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 				
 		try {
 			
-			listaEscenas = new ArchivoYaml().leeListaEscenas();
+			listaEscenas = new ArchivoPosicionesYaml().leeListaPosicionesEscenas();
 	
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -242,10 +221,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 
 	@Override
 	public void cambioVentana(FixtureRobotica entidad) {
-		txtMaxPan.setText((int)(entidad.getVentanaMaxX())+"");
-		txtMinPan.setText((int)(entidad.getVentanaMinX())+"");
-		txtMaxTilt.setText((int)(entidad.getVentanaMaxY())+"");
-		txtMinTilt.setText((int)(entidad.getVentanaMinY())+"");
+
 	}
 
 	@Override
@@ -257,7 +233,6 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		txtTilt.setText(String.valueOf(tilt));	
 
 		if (nodoActual!=null){
-		//	this.nodoActual = nodoActual;
 			
 			if (nodoActual.getX()!=x || nodoActual.getY()!=y){
 				nodoActual.setX(x);
@@ -289,23 +264,9 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 
 	@Override
 	public void stateChanged(ChangeEvent e) {
-	/*	if (nodoActual==null)
-			return;
 
-		pnlCanvas.repaint();
-		
-		FixtureToDmx.actualizaNodoToDmx(nodoActual);
-		
-		actualizaPosicionTexto();*/
 	}
 	
-	private void refrescaDmx(){
-		for (Escena escena: listaEscenas)
-			for (NodoEscena nodo: escena.getListaNodos())
-				FixtureToDmx.actualizaNodoToDmx(nodo);
-		
-	}
-
 	@Override
 	public void cambioPosicionCursor(int x, int y, double pan, double tilt) {
 		
@@ -326,7 +287,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		}
 		public void actionPerformed(ActionEvent e) {
 			try {
-				new ArchivoYaml().grabaListaEscenas(listaEscenas);
+				new ArchivoPosicionesYaml().grabaListaPosicionesEscenas(listaEscenas);
 			} catch (Exception e1) {
 				e1.printStackTrace();
 			}
@@ -337,8 +298,6 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 	@Override
 	public void actualizaValores() {
 		pnlCanvas.repaint();
-		
-	//	FixtureToDmx.actualizaNodoToDmx(escenaActual);
 		
 		actualizaPosicionTexto();
 	}
@@ -380,7 +339,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements ActionLi
 		
 		pnlCanvas.setEscena(escenaActual);
 		actualizaValores();
-//		refrescaDmx();
+
 		FixtureToDmx.actualizaNodoToDmx(escenaActual);
 	}
 }

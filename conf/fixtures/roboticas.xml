@@ -25,26 +25,26 @@
 			<ventanaMaxY>220</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead1">
-			<ventanaMinX>20</ventanaMinX>
-			<ventanaMaxX>132</ventanaMaxX>
+			<ventanaMinX>107</ventanaMinX>
+			<ventanaMaxX>196</ventanaMaxX>
 			<ventanaMinY>160</ventanaMinY>
 			<ventanaMaxY>232</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead2">
-			<ventanaMinX>20</ventanaMinX>
-			<ventanaMaxX>75</ventanaMaxX>
+			<ventanaMinX>91</ventanaMinX>
+			<ventanaMaxX>186</ventanaMaxX>
 			<ventanaMinY>153</ventanaMinY>
 			<ventanaMaxY>229</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead3">
-			<ventanaMinX>28</ventanaMinX>
-			<ventanaMaxX>145</ventanaMaxX>
+			<ventanaMinX>61</ventanaMinX>
+			<ventanaMaxX>186</ventanaMaxX>
 			<ventanaMinY>165</ventanaMinY>
 			<ventanaMaxY>239</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead4">
-			<ventanaMinX>28</ventanaMinX>
-			<ventanaMaxX>145</ventanaMaxX>
+			<ventanaMinX>79</ventanaMinX>
+			<ventanaMaxX>193</ventanaMaxX>
 			<ventanaMinY>165</ventanaMinY>
 			<ventanaMaxY>244</ventanaMaxY>
 	</fixture>

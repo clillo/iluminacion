@@ -30,7 +30,9 @@ import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelMonitorRGBW;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelSnifferDMX;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelSpider1;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecucionAutomatica.PanelEjecucionAutomatica;
+import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.PanelEncendidoRoboticas;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.PanelFigurasRoboticas;
+import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.PanelRoboticasConjuntas;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.panelLaser.PanelLaserIlda1;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.panelLaser.PanelLaserMultiPunto1;
 
@@ -59,6 +61,10 @@ public class FramePrincipal extends JFrame implements ActionListener {
 	
 		FigurasRoboticas (new JMenuItem("Figuras Robóticas"), new PanelFigurasRoboticas(), "panelFigurasRoboticas"),
 
+		EncendidoRoboticas (new JMenuItem("Encendido Robóticas"), new PanelEncendidoRoboticas(), "panelEncendidoRoboticas"),
+		RoboticasConjuntas (new JMenuItem("Robóticas Conjuntas"), new PanelRoboticasConjuntas(), "panelRoboticasConjuntas"),
+
+		
 		Spider1 (new JMenuItem("Spider 1"), new PanelSpider1(), "panelSpider1");
 
 		private JMenuItem mit;
@@ -139,7 +145,12 @@ public class FramePrincipal extends JFrame implements ActionListener {
 		menuConfigura.add(Opcion.Configuracion.getMit());
 		menuConfigura.addSeparator();
 		menuConfigura.add(Opcion.FigurasRoboticas.getMit());
-		
+
+		menuConfigura.addSeparator();
+		menuConfigura.add(Opcion.EncendidoRoboticas.getMit());
+	
+		menuConfigura.addSeparator();
+		menuConfigura.add(Opcion.RoboticasConjuntas.getMit());
 		menubar.add(menuConfigura);
 	}
 	

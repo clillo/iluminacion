@@ -37,6 +37,15 @@ public class NodoEscena {
 	
 	private int dimmer;
 	
+	private int color;
+	private int gobo;
+	private int goboCristal;
+	private int goboRotation;
+	private int goboShake;
+	private int strobo;
+	private int prisma;
+	private int focus;
+	
 	public int getDimmer() {
 		return dimmer;
 	}
@@ -150,6 +159,55 @@ public class NodoEscena {
 	}
 	public void setSpiTiltFine(JSpinner spiTiltFine) {
 		this.spiTiltFine = spiTiltFine;
+	}
+	
+	public int getColor() {
+		return color;
+	}
+	public void setColor(int color) {
+		this.color = color;
+	}
+	public int getGobo() {
+		return gobo;
+	}
+	public void setGobo(int gobo) {
+		this.gobo = gobo;
+	}
+	public int getGoboCristal() {
+		return goboCristal;
+	}
+	public void setGoboCristal(int goboCristal) {
+		this.goboCristal = goboCristal;
+	}
+	public int getGoboRotation() {
+		return goboRotation;
+	}
+	public void setGoboRotation(int goboRotation) {
+		this.goboRotation = goboRotation;
+	}
+	public int getGoboShake() {
+		return goboShake;
+	}
+	public void setGoboShake(int goboShake) {
+		this.goboShake = goboShake;
+	}
+	public int getStrobo() {
+		return strobo;
+	}
+	public void setStrobo(int strobo) {
+		this.strobo = strobo;
+	}
+	public int getPrisma() {
+		return prisma;
+	}
+	public void setPrisma(int prisma) {
+		this.prisma = prisma;
+	}
+	public int getFocus() {
+		return focus;
+	}
+	public void setFocus(int focus) {
+		this.focus = focus;
 	}
 	@Override
 	public String toString() {
