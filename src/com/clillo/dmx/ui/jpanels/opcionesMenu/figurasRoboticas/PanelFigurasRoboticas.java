@@ -3,8 +3,12 @@ package com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Scanner;
 
 import javax.swing.AbstractAction;
 import javax.swing.Action;
@@ -27,6 +31,7 @@ import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.FixtureTo
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscena;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.NodoEscena.FixMovingHead;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.figurasRoboticas.escenas.PanelCanalesMovingHead;
+import com.clillo.dmx.core.fixtures.robotizados.Punto;
 
 public class PanelFigurasRoboticas extends PanelMenuGenerico implements  InformaCambiosUsuario, ChangeListener, Actualizable, ListSelectionListener {
 
@@ -58,6 +63,7 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements  Informa
 
   	private FixtureRobotica entidad90;
   	private FixtureRobotica entidad60;
+  	
   	
 	public PanelFigurasRoboticas() {
 	    this.configura(1260, 880, "Mantiene Figuras Robóticas");
@@ -196,6 +202,59 @@ public class PanelFigurasRoboticas extends PanelMenuGenerico implements  Informa
 		actualizaPosicionTexto();
 		for (PanelCanalesMovingHead pnl : listaPaneles)
 			pnl.setActualizable(this);
+
+		
+	   try {
+	        File myObj = new File("conf/bouncing1.csv");
+	        Scanner myReader = new Scanner(myObj);
+	        while (myReader.hasNextLine()) {
+	          String data = myReader.nextLine();
+	          if (!data.startsWith("mh-60-1")){
+	        	//  pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(data, pnlCanvas, entidad60));
+	          }
+	        }
+	        myReader.close();
+	      } catch (FileNotFoundException e) {
+	        System.out.println("An error occurred.");
+	        e.printStackTrace();
+	      }
+	    
+		
+		//781	58
+		//79	731
+		
+	   // pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(79,743));
+	  ///  pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(792,518));
+	    
+	    LinkedList<Punto> lista = Bresenham.moverA(25000,2400,14000,7300); // A -> B
+	    System.out.println(lista.size());
+	    for (Punto p: lista){
+		    pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(p.getPosX(), p.getPosY(), pnlCanvas, entidad60));
+		    
+	    }
+	  
+	    lista = Bresenham.moverA(14000,7300	, 18500,31500); //B -> C
+	    System.out.println(lista.size());
+	    for (Punto p: lista){
+		    pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(p.getPosX(), p.getPosY(), pnlCanvas, entidad60));
+		    
+	    }
+	     
+	    lista = Bresenham.moverA(18500,31500	, 30500,25000); // C -> D
+	    System.out.println(lista.size());
+	    for (Punto p: lista){
+		    pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(p.getPosX(), p.getPosY(), pnlCanvas, entidad60));
+		    
+	    }
+
+	    
+	    lista = Bresenham.moverA(30500,25000	, 25000,2400); // D -> A
+	    System.out.println(lista.size());
+	    for (Punto p: lista){
+		    pnlCanvas.getListaPuntoArchivo().add(new PuntoArchivo(p.getPosX(), p.getPosY(), pnlCanvas, entidad60));
+		    
+	    }
+	    
 
 	}
 	

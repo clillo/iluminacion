@@ -10,17 +10,14 @@
 	<canales>
 		<robotica id="1">movingHead1</robotica>
 		<robotica id="2">movingHead2</robotica>
-		<robotica id="3">scanner1</robotica>
-		<robotica id="4">scanner2</robotica>
 		<robotica id="5">scanner3</robotica>
 		<robotica id="6">scanner4</robotica>
 		
 		<canal id="7">movingHead1.dim</canal>
-		<canal id="8">scanner1.onoff</canal>
+
 		<canal id="9">scanner3.onoff</canal>
 		<canal id="10">scanner4.onoff</canal>
-		<canal id="11">scanner2.onoff</canal>
-		<canal id="12">movingHead2.dim</canal>
+				<canal id="12">movingHead2.dim</canal>
 	</canales>
 	<pasos>
 		<paso id="1">

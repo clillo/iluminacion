@@ -23,8 +23,10 @@ public class ComunicacionHttpDMX {
     	try {
 
   	      StringBuilder result = new StringBuilder();
-  	      URL url = new URL("http://localhost:8080/dmx?canal="+String.valueOf(canal)+"&valor="+String.valueOf(dato));
+  	  //    URL url = new URL("http://localhost:8080/dmx?canal="+String.valueOf(canal)+"&valor="+String.valueOf(dato));
   	    //  System.out.println(url);
+  	   //   URL url = new URL("http://192.168.100.3:8082/dmx?canal="+String.valueOf(canal)+"&valor="+String.valueOf(dato));
+  	    URL url = new URL("http://192.168.100.13:8082/dmx?canal="+String.valueOf(canal)+"&valor="+String.valueOf(dato));
   	      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
   	      conn.setRequestMethod("GET");
   	      BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream()));

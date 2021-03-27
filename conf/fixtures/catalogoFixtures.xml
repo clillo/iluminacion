@@ -92,48 +92,6 @@
 		</comm>
 	</fixture>
 
-	<fixture id="pinSpot3">
-		<tipo>RGBW</tipo>
-		<nombre>Pin Spot 3</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>200</canalInicial>
-			<numeroCanales>6</numeroCanales>
-			<sniffer>
-				<colorR>255</colorR>
-				<colorG>204</colorG>
-				<colorB>204</colorB>
-			</sniffer>
-			<canales>
-				<canal id="pinspot3.r">1</canal>
-				<canal id="pinspot3.g">2</canal>
-				<canal id="pinspot3.b">3</canal>
-				<canal id="pinspot3.dim">0</canal>
-			</canales>
-		</comm>
-	</fixture>
-
-	<fixture id="pinSpot4">
-		<tipo>RGBW</tipo>
-		<nombre>Pin Spot 4</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>210</canalInicial>
-			<numeroCanales>6</numeroCanales>
-			<sniffer>
-				<colorR>255</colorR>
-				<colorG>153</colorG>
-				<colorB>051</colorB>
-			</sniffer>
-			<canales>
-				<canal id="pinspot4.r">1</canal>
-				<canal id="pinspot4.g">2</canal>
-				<canal id="pinspot4.b">3</canal>
-				<canal id="pinspot4.dim">0</canal>
-			</canales>
-		</comm>
-	</fixture>
-
 	<fixture id="movingHead1">
 		<tipo>MovingHead</tipo>
 		<nombre>Moving Head 1</nombre>
@@ -257,92 +215,6 @@
 		</comm>
 	</fixture>
 
-	<fixture id="scanner1">
-		<tipo>Scanner</tipo>
-		<nombre>Scanner SRL 1</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>10</canalInicial>
-			<numeroCanales>5</numeroCanales>
-			<sniffer>
-				<colorR>254</colorR>
-				<colorG>204</colorG>
-				<colorB>0</colorB>
-			</sniffer>
-			<canales>
-				<canal id="scanner1.pan">0</canal>
-				<canal id="scanner1.tilt">1</canal>
-				<canal id="scanner1.gobo">2</canal>
-				<canal id="scanner1.color">3</canal>
-				<canal id="scanner1.onoff">4</canal>
-			</canales>
-		</comm>
-	</fixture>
-
-	<fixture id="scanner2">
-		<tipo>Scanner</tipo>
-		<nombre>Scanner SRL 2</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>15</canalInicial>
-			<numeroCanales>5</numeroCanales>
-			<sniffer>
-				<colorR>204</colorR>
-				<colorG>204</colorG>
-				<colorB>51</colorB>
-			</sniffer>
-			<canales>
-				<canal id="scanner2.pan">0</canal>
-				<canal id="scanner2.tilt">1</canal>
-				<canal id="scanner2.gobo">2</canal>
-				<canal id="scanner2.color">3</canal>
-				<canal id="scanner2.onoff">4</canal>
-			</canales>
-		</comm>
-	</fixture>
-
-	<fixture id="scanner3">
-		<tipo>Scanner</tipo>
-		<nombre>Scanner WPRO 1</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>26</canalInicial>
-			<numeroCanales>4</numeroCanales>
-			<sniffer>
-				<colorR>255</colorR>
-				<colorG>255</colorG>
-				<colorB>204</colorB>
-			</sniffer>
-			<canales>
-				<canal id="scanner3.pan">0</canal>
-				<canal id="scanner3.tilt">1</canal>
-				<canal id="scanner3.color">2</canal>
-				<canal id="scanner3.onoff">3</canal>
-			</canales>
-		</comm>
-	</fixture>
-
-	<fixture id="scanner4">
-		<tipo>Scanner</tipo>
-		<nombre>Scanner WPRO 2</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>31</canalInicial>
-			<numeroCanales>4</numeroCanales>
-			<sniffer>
-				<colorR>204</colorR>
-				<colorG>255</colorG>
-				<colorB>51</colorB>
-			</sniffer>
-			<canales>
-				<canal id="scanner4.pan">0</canal>
-				<canal id="scanner4.tilt">1</canal>
-				<canal id="scanner4.color">2</canal>
-				<canal id="scanner4.onoff">3</canal>
-			</canales>
-		</comm>
-	</fixture>
-
 	<fixture id="crystalBall1">
 		<tipo>CrystalBall1</tipo>
 		<nombre>Crystal Ball</nombre>
@@ -447,7 +319,7 @@
 			<numeroCanales>40</numeroCanales>
 			<sniffer>
 				<colorR>153</colorR>
-				<colorG>204</colorG>
+				<colorG>4</colorG>
 				<colorB>255</colorB>
 			</sniffer>
 			<canales>

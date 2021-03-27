@@ -1,51 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <valores>
-<fixture id="scanner1">
-			<ventanaMinX>50</ventanaMinX>
-			<ventanaMaxX>200</ventanaMaxX>
-			<ventanaMinY>60</ventanaMinY>
-			<ventanaMaxY>220</ventanaMaxY>
-	</fixture>
-<fixture id="scanner2">
-			<ventanaMinX>50</ventanaMinX>
-			<ventanaMaxX>200</ventanaMaxX>
-			<ventanaMinY>60</ventanaMinY>
-			<ventanaMaxY>220</ventanaMaxY>
-	</fixture>
-<fixture id="scanner3">
-			<ventanaMinX>50</ventanaMinX>
-			<ventanaMaxX>200</ventanaMaxX>
-			<ventanaMinY>60</ventanaMinY>
-			<ventanaMaxY>220</ventanaMaxY>
-	</fixture>
-<fixture id="scanner4">
-			<ventanaMinX>50</ventanaMinX>
-			<ventanaMaxX>200</ventanaMaxX>
-			<ventanaMinY>60</ventanaMinY>
-			<ventanaMaxY>220</ventanaMaxY>
-	</fixture>
 <fixture id="movingHead1">
-			<ventanaMinX>107</ventanaMinX>
+			<ventanaMinX>122</ventanaMinX>
 			<ventanaMaxX>196</ventanaMaxX>
-			<ventanaMinY>160</ventanaMinY>
+			<ventanaMinY>145</ventanaMinY>
 			<ventanaMaxY>232</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead2">
-			<ventanaMinX>91</ventanaMinX>
-			<ventanaMaxX>186</ventanaMaxX>
-			<ventanaMinY>153</ventanaMinY>
-			<ventanaMaxY>229</ventanaMaxY>
+			<ventanaMinX>124</ventanaMinX>
+			<ventanaMaxX>198</ventanaMaxX>
+			<ventanaMinY>140</ventanaMinY>
+			<ventanaMaxY>237</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead3">
-			<ventanaMinX>61</ventanaMinX>
+			<ventanaMinX>86</ventanaMinX>
 			<ventanaMaxX>186</ventanaMaxX>
-			<ventanaMinY>165</ventanaMinY>
-			<ventanaMaxY>239</ventanaMaxY>
+			<ventanaMinY>147</ventanaMinY>
+			<ventanaMaxY>249</ventanaMaxY>
 	</fixture>
 <fixture id="movingHead4">
-			<ventanaMinX>79</ventanaMinX>
-			<ventanaMaxX>193</ventanaMaxX>
-			<ventanaMinY>165</ventanaMinY>
-			<ventanaMaxY>244</ventanaMaxY>
+			<ventanaMinX>86</ventanaMinX>
+			<ventanaMaxX>173</ventanaMaxX>
+			<ventanaMinY>147</ventanaMinY>
+			<ventanaMaxY>252</ventanaMaxY>
 	</fixture>
 </valores>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<programas>
-	<programa id="1">
-		<paso id="1">
-			<movimiento fixture="scanner1"><pan>180</pan><tilt>20</tilt></movimiento>
-			<movimiento fixture="scanner2"><pan>120</pan><tilt>30</tilt></movimiento>
-		</paso>
-	</programa>
-</programas>

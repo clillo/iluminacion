@@ -6,6 +6,8 @@ import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
+import java.util.ArrayList;
+import java.util.List;
 
 import javax.swing.JPanel;
 
@@ -25,6 +27,8 @@ public class PanelCanvas extends JPanel implements MouseListener, MouseMotionLis
 	private NodoEscena nodoActual;
 	
 	private InformaCambiosUsuario cambios;
+	
+  	private List<PuntoArchivo> listaPuntoArchivo = new ArrayList<>();
 		
 	public PanelCanvas() {
 		this.addMouseListener(this);
@@ -38,13 +42,35 @@ public class PanelCanvas extends JPanel implements MouseListener, MouseMotionLis
 	public void setEscena(Escena escena) {
 		this.escena = escena;
 	}
+	
+	public List<PuntoArchivo> getListaPuntoArchivo() {
+		return listaPuntoArchivo;
+	}
 
+	public double inverseX(int pan, FixtureRobotica entidad) {
+		double ancho = entidad.getVentanaMaxX()-entidad.getVentanaMinX();
+		return (pan - entidad.getVentanaMinX())*800.0/ ancho;
+		
+	}
+	
+	public double inverseY(int tilt, FixtureRobotica entidad) {
+		double alto = entidad.getVentanaMaxY()-entidad.getVentanaMinY();
+		return (tilt - entidad.getVentanaMinY())*800.0/ alto;
+
+	}
+	
 	@Override
 	public void paint(Graphics g) {
 		super.paint(g);
 		
+		for (PuntoArchivo pa: listaPuntoArchivo){
+			pa.paint(g);
+		}
+		
 		if (escena==null)
 			return;
+		
+
 		
 		for (NodoEscena p: escena.getListaNodos()){
 			String txt = p.getMovingHead().toString();
@@ -108,6 +134,10 @@ public class PanelCanvas extends JPanel implements MouseListener, MouseMotionLis
 		}
 	}
 
+	public void setNodoActual(NodoEscena nodoActual) {
+		this.nodoActual = nodoActual;
+	}
+	
 	@Override
 	public void mouseClicked(MouseEvent e) {
 

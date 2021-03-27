@@ -9,8 +9,6 @@
 	</configuracion>
 	<canales>
 		<canal id="1">movingHead1.dim</canal>
-		<canal id="2">scanner1.onoff</canal>
-		<canal id="3">scanner3.onoff</canal>
 		<canal id="4">scanner4.onoff</canal>
 		<canal id="5">scanner2.onoff</canal>
 		<canal id="6">movingHead2.dim</canal>

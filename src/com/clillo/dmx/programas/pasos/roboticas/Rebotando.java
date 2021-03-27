@@ -24,33 +24,21 @@ public class Rebotando extends PosicionPadre{
 			
 			int pan = fixture.getPosX();
 			int tilt = fixture.getPosY();
-			
-		//	boolean moviendose = fixture.getPanFinal() != pan && fixture.getTiltFinal() !=tilt;
-
-		//	if(moviendose)
-		//		continue;
-			
-			//System.out.println(fixture.getFixId()+ "\tActual: "+ pan+","+tilt + "\t"+ fixture.getVentanaMinX()+","+fixture.getVentanaMaxX()+"\t"+ fixture.getVentanaMinY()+","+fixture.getVentanaMaxY()+"\t");
 
 			PosicionRelativaVentana posicion = null;
 			
-			if (pan <= fixture.getVentanaMinX()) //if (Math.abs(pan - fixture.getVentanaMinX())<2)
+			if (pan <= fixture.getVentanaMinX())
 				posicion = PosicionRelativaVentana.Izquierda;
 
-			if (pan >= fixture.getVentanaMaxX()) //if (Math.abs(pan - fixture.getVentanaMaxX())<2)
+			if (pan >= fixture.getVentanaMaxX())
 				posicion = PosicionRelativaVentana.Derecha;
 
-			if (tilt <= fixture.getVentanaMinY()) //if (Math.abs(tilt - fixture.getVentanaMinY())<2) 
+			if (tilt <= fixture.getVentanaMinY())
 				posicion = PosicionRelativaVentana.Arriba;
 
-			if (tilt >= fixture.getVentanaMaxY()) //if (Math.abs(tilt - fixture.getVentanaMaxY())<2)
+			if (tilt >= fixture.getVentanaMaxY())
 				posicion = PosicionRelativaVentana.Abajo;
 			
-
-			//System.out.println(fixture.getFixId()+"\t"+posicion+"\t"+fixture.isMoviendose());
-			
-		//	System.out.println(esPrimeraVez);
-
 			if (posicion == null && !esPrimeraVez)
 				continue;
 			
@@ -73,8 +61,7 @@ public class Rebotando extends PosicionPadre{
 				pan = fixture.getVentanaMaxX();
 				tilt = fixture.getPosicionAleatoriaTilt(rndTilt);
 			}
-						
-		//	System.out.println(fixture.getFixId()+"\tMover a: "+ pan+","+tilt);
+
 			fixture.setPanFine(pan);
 			fixture.setTiltFine(tilt);
 			mueveEntidad(pan, tilt, fixture);

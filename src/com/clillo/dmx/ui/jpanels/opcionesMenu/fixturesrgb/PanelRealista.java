@@ -35,7 +35,7 @@ public class PanelRealista extends JPanel implements ActionListener{
 		this.setLayout(null);
 
 		panelRGB();
-		panelPinSpot();	
+
 	}
 
 	

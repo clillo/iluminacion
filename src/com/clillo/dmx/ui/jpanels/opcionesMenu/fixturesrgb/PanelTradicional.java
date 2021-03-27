@@ -41,7 +41,7 @@ public class PanelTradicional extends JPanel implements ActionListener{
 		this.setLayout(null);
 
 		panelRGB();
-		panelPinSpot();	
+
 	}
 
 	

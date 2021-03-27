@@ -35,10 +35,7 @@ public class PuntoRoboticas {
 		Dmx.enviar(ListaFixtures.obtieneCanalDMX("movingHead2.panfine"), movingHead2PanFine);
 		Dmx.enviar(ListaFixtures.obtieneCanalDMX("movingHead2.tiltfine"), movingHead2TiltFine);
 
-		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner1.pan"), scanner1Pan);
-		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner1.tilt"), scanner1Tilt);
-		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner2.pan"), scanner2Pan);
-		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner2.tilt"), scanner2Tilt);
+
 		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner3.pan"), scanner3Pan);
 		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner3.tilt"), scanner3Tilt);
 		Dmx.enviar(ListaFixtures.obtieneCanalDMX("scanner4.pan"), scanner4Pan);
