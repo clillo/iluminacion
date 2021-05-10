@@ -5,7 +5,5 @@
 	</generales>
 	<fixtures>
 		<fixture id="derbyrgbw">rotarRojo</fixture>	
-		<fixture id="crystalBall1">rotarRojo</fixture>
-		<fixture id="crystalBall2">rotarRojo</fixture>
 	</fixtures>
 </show>

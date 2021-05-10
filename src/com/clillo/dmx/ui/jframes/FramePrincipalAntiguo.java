@@ -21,8 +21,6 @@ import com.clillo.dmx.configuracion.VentanasCfg;
 import com.clillo.dmx.configuracion.fixtures.RoboticasConfig;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelConfiguracion;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelControlRobotizados;
-import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelCristalBall1;
-import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelCristalBall2;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelDerbyRGBW;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelDerbyRGBW2;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelEjecutorProgramas;
@@ -75,8 +73,6 @@ public class FramePrincipalAntiguo extends JFrame implements ActionListener {
 	private JMenuItem mitHumoDMX;
 	private JMenuItem mitReles;
 
-	private PanelCristalBall1 pnlCristalBall1;
-	private PanelCristalBall2 pnlCristalBall2;
 	private PanelDerbyRGBW pnlDerbyRGB;
 	private PanelDerbyRGBW2 pnlDerbyRGBW2;
 	private PanelMonitorFixtures pnlMonitorFixtures;
@@ -308,8 +304,6 @@ public class FramePrincipalAntiguo extends JFrame implements ActionListener {
 		
 		this.setJMenuBar(menubar);
 
-		pnlCristalBall1        = new PanelCristalBall1();
-		pnlCristalBall2        = new PanelCristalBall2();
 		pnlDerbyRGB            = new PanelDerbyRGBW();
 		pnlDerbyRGBW2          = new PanelDerbyRGBW2();
 		pnlMonitorFixtures     = new PanelMonitorFixtures();
@@ -424,19 +418,7 @@ public class FramePrincipalAntiguo extends JFrame implements ActionListener {
 		
 		if (source.equals(mitSalir))
 			cerrar();
-		
-		if (source.equals(mitCristalBall1)){
-			fiCristalBall1 = new FrameInterno(pnlCristalBall1);
-			VentanasCfg.getPanelPos("panelCristalBall1", fiCristalBall1);
-			muestraVentana(fiCristalBall1);
-		}
-
-		if (source.equals(mitCristalBall2)){
-			fiCristalBall2 = new FrameInterno(pnlCristalBall2);
-			VentanasCfg.getPanelPos("panelCristalBall2", fiCristalBall2);
-			muestraVentana(fiCristalBall2);
-		}
-		
+				
 		if (source.equals(mitDerbyRGB)){
 			fiDerbyRGB = new FrameInterno(pnlDerbyRGB);
 			VentanasCfg.getPanelPos("panelDerbyRGB", fiDerbyRGB);

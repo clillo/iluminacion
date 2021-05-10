@@ -21,7 +21,6 @@ import com.clillo.dmx.configuracion.VentanasCfg;
 import com.clillo.dmx.configuracion.fixtures.RoboticasConfig;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelConfiguracion;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelControlRobotizados;
-import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelCristalBall1;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelDerbyRGBW;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelDerbyRGBW2;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.PanelEjecutorProgramas;
@@ -42,8 +41,6 @@ public class FramePrincipal extends JFrame implements ActionListener {
 	private static JDesktopPane desktop;
 
 	private enum Opcion{ 
-		
-		CristalBall1 (new JMenuItem("Cristal Ball 1"), new PanelCristalBall1(), "panelCristalBall1"),
 
 		DerbyRGBW1 (new JMenuItem("Mini Derby RGBW"), new PanelDerbyRGBW(), "panelDerbyRGB"),
 		DerbyRGBW2 (new JMenuItem("Derby RGBW (2)"), new PanelDerbyRGBW2(), "panelDerbyRGBW2"),
@@ -163,9 +160,6 @@ public class FramePrincipal extends JFrame implements ActionListener {
 		menuMonitorea.add(Opcion.ControlMovingHeads.getMit());
 		menuMonitorea.addSeparator();
 
-		menuMonitorea.add(Opcion.CristalBall1.getMit());
-
-		menuMonitorea.addSeparator();
 		
 		menuMonitorea.add(Opcion.DerbyRGBW1.getMit());
 		menuMonitorea.add(Opcion.DerbyRGBW2.getMit());

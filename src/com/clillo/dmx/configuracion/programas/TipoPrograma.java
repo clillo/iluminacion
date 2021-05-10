@@ -55,8 +55,6 @@ public enum TipoPrograma {
 	LaserMultiPunto1  ("laserMultiPunto1",   new EjecutorPasosAcciones(),   null),
 	LaserIlda1   	  ("laserIlda1",         new EjecutorPasosGenerico(),   null),
 
-	CrystalBall1      ("crystalball1",       new EjecutorPasosGenerico(),   null),
-
 	Derby2            ("derby2",             new EjecutorPasosGenerico(),   null),
 
 	Spider1           ("spider1",             new EjecutorPasosGenerico(),   null),

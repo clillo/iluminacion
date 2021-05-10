@@ -3,7 +3,7 @@ package com.clillo.dmx.ui.jpanels.opcionesMenu;
 import javax.swing.JTabbedPane;
 
 import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecutorProgramas.tipos.ObjetosCompartidosRGBW;
-import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecutorProgramas.tipos.PanelEjecutorProgramasCristal;
+
 import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecutorProgramas.tipos.PanelEjecutorProgramasDerby;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecutorProgramas.tipos.PanelEjecutorProgramasLaserIndividual;
 import com.clillo.dmx.ui.jpanels.opcionesMenu.ejecutorProgramas.tipos.PanelEjecutorProgramasMovingHeads;
@@ -25,7 +25,7 @@ public class PanelEjecutorProgramas extends PanelMenuGenerico{
 	private static PanelEjecutorProgramasScanner pnlScanners = null; 
 	private static PanelEjecutorProgramasMovingHeads pnlMovingHeads = null;
 	private static PanelEjecutorProgramasRoboticas pnlRoboticas = null;
-	private static PanelEjecutorProgramasCristal pnlCrystal = null;
+
 	private static PanelEjecutorProgramasLaserIndividual pnlLaserIndividual = null;
 	
 	private static ObjetosCompartidosRGBW objCompartidosRGBW = null;
@@ -45,10 +45,6 @@ public class PanelEjecutorProgramas extends PanelMenuGenerico{
 	  	if (pnlDerby==null)
 	  		pnlDerby = new PanelEjecutorProgramasDerby();
 	  	tabbedPane.addTab("Derby", null, pnlDerby, null);
-
-	  	if (pnlCrystal==null)
-	  		pnlCrystal = new PanelEjecutorProgramasCristal();
-	  	tabbedPane.addTab("Ball", null, pnlCrystal, null);
 
 	  	if (pnlRoboticas==null)
 	  		pnlRoboticas = new PanelEjecutorProgramasRoboticas();
@@ -110,8 +106,5 @@ public class PanelEjecutorProgramas extends PanelMenuGenerico{
 		return pnlDerby;
 	}
 
-	public static PanelEjecutorProgramasCristal getPnlCrystal() {
-		return pnlCrystal;
-	}
 	
 }

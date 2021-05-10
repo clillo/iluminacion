@@ -60,7 +60,7 @@ public class PanelEjecucionAutomatica extends PanelMenuGenerico implements Actio
 	private long tiempoAnterior;
 
 	public PanelEjecucionAutomatica() {
-	    this.configura(375, 530, "Ejecuci√≥n Autom√°tica de Fixtures");
+	    this.configura(375, 530, "EjecuciÛn Autom·tica de Fixtures");
 	  	setLayout(null);
 	  	
 	  	JPanel pnlPanel1 = new JPanel();
@@ -118,12 +118,12 @@ public class PanelEjecucionAutomatica extends PanelMenuGenerico implements Actio
 	  	chkBall.setBounds(6, 39, 121, 17);
 	  	pnlPanel1.add(chkBall);
 	  	
-	  	chkLaserMultiPunto = new JCheckBox("Laser Multipunto");
+	  	chkLaserMultiPunto = new JCheckBox("L·ser Multipunto");
 	  	chkLaserMultiPunto.setFont(new Font("Tahoma", Font.PLAIN, 16));
 	  	chkLaserMultiPunto.setBounds(6, 138, 159, 17);
 	  	pnlPanel1.add(chkLaserMultiPunto);
 
-	  	chkLaserIlda = new JCheckBox("L√°ser Ilda");
+	  	chkLaserIlda = new JCheckBox("L·ser Ilda");
 	  	chkLaserIlda.setFont(new Font("Tahoma", Font.PLAIN, 16));
 	  	chkLaserIlda.setBounds(6, 158, 115, 17);
 	  	pnlPanel1.add(chkLaserIlda);
@@ -143,9 +143,8 @@ public class PanelEjecucionAutomatica extends PanelMenuGenerico implements Actio
 	  	ListaFixturesParaAutomatica.agrega(chkLaserMultiPunto, PanelEjecutorProgramas.getPnlLaserIndividual(), 1);
 	  	ListaFixturesParaAutomatica.agrega(chkLaserIlda, PanelEjecutorProgramas.getPnlLaserIndividual(), 2);
 	  	ListaFixturesParaAutomatica.agrega(chkDerby, PanelEjecutorProgramas.getPnlDerby());
-	  	ListaFixturesParaAutomatica.agrega(chkBall, PanelEjecutorProgramas.getPnlCrystal());
 	  	
-	  	chkAutomatico = new JCheckBox("Autom\u00E1tico");
+	  	chkAutomatico = new JCheckBox("Autom·tico");
 	  	chkAutomatico.setBounds(221, 166, 97, 23);
 	  	pnlPanel1.add(chkAutomatico);
 	  	
@@ -191,7 +190,7 @@ public class PanelEjecucionAutomatica extends PanelMenuGenerico implements Actio
 		ejecutor = EjecutorAutomaticoSingleton.getEjecutor(this);
 		lblProximoEn.setText("");
 		
-		chckbxEstHbilitadoEl = new JCheckBox("Est√° habilitado el plugin del Virtual DJ?");
+		chckbxEstHbilitadoEl = new JCheckBox("Est· habilitado el plugin del Virtual DJ?");
 		chckbxEstHbilitadoEl.setBounds(6, 7, 212, 23);
 		chckbxEstHbilitadoEl.addActionListener(this);
 		chckbxEstHbilitadoEl.setSelected(GeneralesCfg.isHabilitadoVDJ());

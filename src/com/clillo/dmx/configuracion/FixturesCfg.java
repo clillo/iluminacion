@@ -12,7 +12,6 @@ import com.clillo.dmx.configuracion.programas.to.AccionHTTPTO;
 import com.clillo.dmx.configuracion.programas.to.CanalValorTO;
 import com.clillo.dmx.core.ListaFixtures;
 import com.clillo.dmx.core.fixtures.Fixture;
-import com.clillo.dmx.core.fixtures.FixtureCrystalBall1;
 import com.clillo.dmx.core.fixtures.FixtureDerbyRGBW;
 import com.clillo.dmx.core.fixtures.FixtureHTTP;
 import com.clillo.dmx.core.fixtures.FixtureMovingHead;
@@ -58,9 +57,6 @@ public class FixturesCfg {
 
 		if (tipo.equals("Scanner"))
 			fixTo = new FixtureScanner(nombre);
-
-		if (tipo.equals("CrystalBall1"))
-			fixTo = new FixtureCrystalBall1( nombre);
 
 		if (tipo.equals("laserrgb2"))
 			fixTo = new FixtureLaserRGB2(nombre);

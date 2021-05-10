@@ -37,9 +37,7 @@
 		<reloj id="scannergobos">
 			<tiempo>10000</tiempo>
 		</reloj>
-		<reloj id="crystalball1">
-			<tiempo>10000</tiempo>
-		</reloj>	
+
 		<reloj id="laserverde">
 			<tiempo>10000</tiempo>
 		</reloj>

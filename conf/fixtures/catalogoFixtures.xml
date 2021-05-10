@@ -215,28 +215,6 @@
 		</comm>
 	</fixture>
 
-	<fixture id="crystalBall1">
-		<tipo>CrystalBall1</tipo>
-		<nombre>Crystal Ball</nombre>
-		<comm>
-			<tipo>DMX</tipo>
-			<canalInicial>161</canalInicial>
-			<numeroCanales>5</numeroCanales>
-			<sniffer>
-				<colorR>102</colorR>
-				<colorG>255</colorG>
-				<colorB>0</colorB>
-			</sniffer>
-			<canales>
-				<canal id="crystal1.strobo">0</canal>
-				<canal id="crystal1.r">1</canal>
-				<canal id="crystal1.g">2</canal>
-				<canal id="crystal1.b">3</canal>
-				<canal id="crystal1.rotar">4</canal>
-			</canales>
-		</comm>
-	</fixture>
-
 	<fixture id="derbyrgbw">
 		<tipo>derbyrgbw</tipo>
 		<nombre>Derby RGBW 1</nombre>
@@ -330,6 +308,64 @@
 		</comm>
 	</fixture>
 
+ 	<fixture id="spider2">
+		<tipo>spider1</tipo>
+		<nombre>Spider 2</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>300</canalInicial>
+			<numeroCanales>40</numeroCanales>
+			<sniffer>
+				<colorR>153</colorR>
+				<colorG>4</colorG>
+				<colorB>255</colorB>
+			</sniffer>
+			<canales>
+				<canal id="spider2.motor.l">1</canal>
+				<canal id="spider2.motor.r">2</canal>
+				<canal id="spider2.dimmer">3</canal>
+				<canal id="spider2.strobo">4</canal>
+				<canal id="spider2.rojo.l">5</canal>
+				<canal id="spider2.verde.l">6</canal>
+				<canal id="spider2.azul.l">7</canal>
+				<canal id="spider2.blanco.l">8</canal>
+				<canal id="spider2.rojo.r">9</canal>
+				<canal id="spider2.verde.r">10</canal>
+				<canal id="spider2.azul.r">11</canal>
+				<canal id="spider2.blanco.r">12</canal>
+			</canales>
+		</comm>
+	</fixture>
+
+	<fixture id="spider3">
+		<tipo>spider1</tipo>
+		<nombre>Spider 3</nombre>
+		<comm>
+			<tipo>DMX</tipo>
+			<canalInicial>320</canalInicial>
+			<numeroCanales>40</numeroCanales>
+			<sniffer>
+				<colorR>153</colorR>
+				<colorG>4</colorG>
+				<colorB>255</colorB>
+			</sniffer>
+			<canales>
+				<canal id="spider3.motor.l">1</canal>
+				<canal id="spider3.motor.r">2</canal>
+				<canal id="spider3.dimmer">3</canal>
+				<canal id="spider3.strobo">4</canal>
+				<canal id="spider3.rojo.l">5</canal>
+				<canal id="spider3.verde.l">6</canal>
+				<canal id="spider3.azul.l">7</canal>
+				<canal id="spider3.blanco.l">8</canal>
+				<canal id="spider3.rojo.r">9</canal>
+				<canal id="spider3.verde.r">10</canal>
+				<canal id="spider3.azul.r">11</canal>
+				<canal id="spider3.blanco.r">12</canal>
+			</canales>
+		</comm>
+	</fixture>
+	
 	<fixture id="laserMulipunto1">
 		<tipo>laserMulipunto1</tipo>
 		<nombre>Laser Multi-Punto 1</nombre>

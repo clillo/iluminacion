@@ -44,9 +44,9 @@
 		</panel>
 
 		<panel id="panelMonitorFixtures">
-			<posX>844</posX>
-			<posY>33</posY>
-			<visible>true</visible>
+			<posX>346</posX>
+			<posY>191</posY>
+			<visible>false</visible>
 		</panel>
 
 		<panel id="panelEjecutorProgramas">
@@ -68,15 +68,15 @@
 		</panel>
 		
 		<panel id="panelSnifferDMX">
-			<posX>56</posX>
-			<posY>20</posY>
+			<posX>418</posX>
+			<posY>18</posY>
 			<visible>true</visible>
 		</panel>
 
 		<panel id="panelControlMovingHeads">
-			<posX>103</posX>
-			<posY>308</posY>
-			<visible>true</visible>
+			<posX>-269</posX>
+			<posY>323</posY>
+			<visible>false</visible>
 		</panel>
 
 		<panel id="panelMovingHead1">
